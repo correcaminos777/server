@@ -1110,3 +1110,29 @@ Reason: Banned by an operator.
 [20Mar2025 21:56:51.666] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [20Mar2025 21:57:30.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 lost connection: Disconnected
 [20Mar2025 21:57:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
+[20Mar2025 22:02:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:06:05.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has completed the challenge [Whos Your Daddy]
+[20Mar2025 22:10:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:12:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:14:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:14:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:15:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:16:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned juanmanuel123xD7]
+[20Mar2025 22:16:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned kesito1]
+[20Mar2025 22:17:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
+[20Mar2025 22:17:34.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
+[20Mar2025 22:19:07.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
+[20Mar2025 22:19:07.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
+[20Mar2025 22:20:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Mar2025 22:20:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Mar2025 22:20:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Mar2025 22:20:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Mar2025 22:20:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

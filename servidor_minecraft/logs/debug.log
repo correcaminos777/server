@@ -8836,3 +8836,1109 @@ Reason: Banned by an operator.
 [20Mar2025 21:57:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
 [20Mar2025 21:59:31.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Mar2025 21:59:31.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:02:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:04:31.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:04:31.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:06:05.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has completed the challenge [Whos Your Daddy]
+[20Mar2025 22:07:58.313] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 484720464 to 30
+[20Mar2025 22:08:04.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 25
+[20Mar2025 22:08:08.952] [Server thread/DEBUG] [pointblank/]: 88952 handling client fire request
+[20Mar2025 22:08:08.952] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 24
+[20Mar2025 22:08:08.954] [Server thread/DEBUG] [pointblank/]: 88954 - obtained hit result in 0ms
+[20Mar2025 22:08:08.954] [Server thread/DEBUG] [pointblank/]: 88954 obtained hit results
+[20Mar2025 22:08:08.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1413a152
+[20Mar2025 22:08:08.955] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.71, y=81.79, z=698.65] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.71, y=81.79, z=698.65]
+[20Mar2025 22:08:09.738] [Server thread/DEBUG] [pointblank/]: 89738 handling client fire request
+[20Mar2025 22:08:09.738] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 23
+[20Mar2025 22:08:09.738] [Server thread/DEBUG] [pointblank/]: 89738 - obtained hit result in 0ms
+[20Mar2025 22:08:09.738] [Server thread/DEBUG] [pointblank/]: 89738 obtained hit results
+[20Mar2025 22:08:09.739] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6688449a
+[20Mar2025 22:08:09.739] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.30, y=79.35, z=699.54] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.30, y=79.35, z=699.54]
+[20Mar2025 22:08:10.359] [Server thread/DEBUG] [pointblank/]: 90359 handling client fire request
+[20Mar2025 22:08:10.360] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 22
+[20Mar2025 22:08:10.360] [Server thread/DEBUG] [pointblank/]: 90360 - obtained hit result in 0ms
+[20Mar2025 22:08:10.360] [Server thread/DEBUG] [pointblank/]: 90360 obtained hit results
+[20Mar2025 22:08:10.360] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5038a348
+[20Mar2025 22:08:10.371] [Server thread/DEBUG] [pointblank/]: Creating state 05372dbb-0c55-41e8-b134-506bd9b065c0
+[20Mar2025 22:08:10.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.72] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.72]
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: 90687 handling client fire request
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 21
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: 90687 - obtained hit result in 0ms
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: 90687 obtained hit results
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53932eea
+[20Mar2025 22:08:10.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.75] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.75]
+[20Mar2025 22:08:11.685] [Server thread/DEBUG] [pointblank/]: 91685 handling client fire request
+[20Mar2025 22:08:11.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 20
+[20Mar2025 22:08:11.686] [Server thread/DEBUG] [pointblank/]: 91686 - obtained hit result in 0ms
+[20Mar2025 22:08:11.686] [Server thread/DEBUG] [pointblank/]: 91686 obtained hit results
+[20Mar2025 22:08:11.686] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@81a7f27
+[20Mar2025 22:08:11.686] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:12.836] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:1b,ammo:20,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:08:13.835] [Server thread/DEBUG] [pointblank/]: 93835 handling client fire request
+[20Mar2025 22:08:13.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 19
+[20Mar2025 22:08:13.836] [Server thread/DEBUG] [pointblank/]: 93836 - obtained hit result in 0ms
+[20Mar2025 22:08:13.836] [Server thread/DEBUG] [pointblank/]: 93836 obtained hit results
+[20Mar2025 22:08:13.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@621ea90e
+[20Mar2025 22:08:13.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:13.888] [Server thread/DEBUG] [pointblank/]: 93888 handling client fire request
+[20Mar2025 22:08:13.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 18
+[20Mar2025 22:08:13.888] [Server thread/DEBUG] [pointblank/]: 93888 - obtained hit result in 0ms
+[20Mar2025 22:08:13.888] [Server thread/DEBUG] [pointblank/]: 93888 obtained hit results
+[20Mar2025 22:08:13.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c690e4d
+[20Mar2025 22:08:13.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:13.985] [Server thread/DEBUG] [pointblank/]: 93985 handling client fire request
+[20Mar2025 22:08:13.986] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 17
+[20Mar2025 22:08:13.986] [Server thread/DEBUG] [pointblank/]: 93986 - obtained hit result in 0ms
+[20Mar2025 22:08:13.986] [Server thread/DEBUG] [pointblank/]: 93986 obtained hit results
+[20Mar2025 22:08:13.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@766be9b5
+[20Mar2025 22:08:13.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.042] [Server thread/DEBUG] [pointblank/]: 94042 handling client fire request
+[20Mar2025 22:08:14.042] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 16
+[20Mar2025 22:08:14.043] [Server thread/DEBUG] [pointblank/]: 94043 - obtained hit result in 1ms
+[20Mar2025 22:08:14.043] [Server thread/DEBUG] [pointblank/]: 94043 obtained hit results
+[20Mar2025 22:08:14.043] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2636ee10
+[20Mar2025 22:08:14.043] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.135] [Server thread/DEBUG] [pointblank/]: 94135 handling client fire request
+[20Mar2025 22:08:14.135] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 15
+[20Mar2025 22:08:14.136] [Server thread/DEBUG] [pointblank/]: 94136 - obtained hit result in 0ms
+[20Mar2025 22:08:14.136] [Server thread/DEBUG] [pointblank/]: 94136 obtained hit results
+[20Mar2025 22:08:14.136] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@359129a4
+[20Mar2025 22:08:14.136] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.239] [Server thread/DEBUG] [pointblank/]: 94239 handling client fire request
+[20Mar2025 22:08:14.239] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 14
+[20Mar2025 22:08:14.239] [Server thread/DEBUG] [pointblank/]: 94239 - obtained hit result in 0ms
+[20Mar2025 22:08:14.240] [Server thread/DEBUG] [pointblank/]: 94239 obtained hit results
+[20Mar2025 22:08:14.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54bcb031
+[20Mar2025 22:08:14.240] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.290] [Server thread/DEBUG] [pointblank/]: 94290 handling client fire request
+[20Mar2025 22:08:14.290] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 13
+[20Mar2025 22:08:14.290] [Server thread/DEBUG] [pointblank/]: 94290 - obtained hit result in 0ms
+[20Mar2025 22:08:14.290] [Server thread/DEBUG] [pointblank/]: 94290 obtained hit results
+[20Mar2025 22:08:14.290] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70e6a50a
+[20Mar2025 22:08:14.291] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: 94385 handling client fire request
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 12
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: 94385 - obtained hit result in 0ms
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: 94385 obtained hit results
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@656b8139
+[20Mar2025 22:08:14.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: 94442 handling client fire request
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 11
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: 94442 - obtained hit result in 0ms
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: 94442 obtained hit results
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d65f799
+[20Mar2025 22:08:14.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:14.537] [Server thread/DEBUG] [pointblank/]: 94537 handling client fire request
+[20Mar2025 22:08:14.537] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1835435065 to 10
+[20Mar2025 22:08:14.537] [Server thread/DEBUG] [pointblank/]: 94537 - obtained hit result in 0ms
+[20Mar2025 22:08:14.537] [Server thread/DEBUG] [pointblank/]: 94537 obtained hit results
+[20Mar2025 22:08:14.537] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ce9eb3c
+[20Mar2025 22:08:14.538] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:21.988] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1710232328 to 20
+[20Mar2025 22:08:25.885] [Server thread/DEBUG] [pointblank/]: 5885 handling client fire request
+[20Mar2025 22:08:25.885] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1710232328 to 19
+[20Mar2025 22:08:25.886] [Server thread/DEBUG] [pointblank/]: 5886 - obtained hit result in 0ms
+[20Mar2025 22:08:25.886] [Server thread/DEBUG] [pointblank/]: 5886 obtained hit results
+[20Mar2025 22:08:25.886] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6463bce0
+[20Mar2025 22:08:25.887] [Server thread/DEBUG] [pointblank/]: Creating state f076df1a-9839-47f6-8d2b-35623fc82de8
+[20Mar2025 22:08:25.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:30.286] [Server thread/DEBUG] [pointblank/]: 10286 handling client fire request
+[20Mar2025 22:08:30.287] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 29
+[20Mar2025 22:08:30.287] [Server thread/DEBUG] [pointblank/]: 10287 - obtained hit result in 0ms
+[20Mar2025 22:08:30.287] [Server thread/DEBUG] [pointblank/]: 10287 obtained hit results
+[20Mar2025 22:08:30.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75a1e01a
+[20Mar2025 22:08:30.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:31.036] [Server thread/DEBUG] [pointblank/]: 11036 handling client fire request
+[20Mar2025 22:08:31.036] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 28
+[20Mar2025 22:08:31.037] [Server thread/DEBUG] [pointblank/]: 11037 - obtained hit result in 0ms
+[20Mar2025 22:08:31.037] [Server thread/DEBUG] [pointblank/]: 11037 obtained hit results
+[20Mar2025 22:08:31.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@59d13b17
+[20Mar2025 22:08:31.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:37.741] [Server thread/DEBUG] [pointblank/]: 17741 handling client fire request
+[20Mar2025 22:08:37.741] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 9
+[20Mar2025 22:08:37.742] [Server thread/DEBUG] [pointblank/]: 17742 - obtained hit result in 0ms
+[20Mar2025 22:08:37.742] [Server thread/DEBUG] [pointblank/]: 17742 obtained hit results
+[20Mar2025 22:08:37.742] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ef14efe
+[20Mar2025 22:08:37.742] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:37.790] [Server thread/DEBUG] [pointblank/]: 17790 handling client fire request
+[20Mar2025 22:08:37.791] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 8
+[20Mar2025 22:08:37.791] [Server thread/DEBUG] [pointblank/]: 17791 - obtained hit result in 0ms
+[20Mar2025 22:08:37.791] [Server thread/DEBUG] [pointblank/]: 17791 obtained hit results
+[20Mar2025 22:08:37.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@255c70ee
+[20Mar2025 22:08:37.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:37.887] [Server thread/DEBUG] [pointblank/]: 17887 handling client fire request
+[20Mar2025 22:08:37.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 7
+[20Mar2025 22:08:37.887] [Server thread/DEBUG] [pointblank/]: 17887 - obtained hit result in 0ms
+[20Mar2025 22:08:37.887] [Server thread/DEBUG] [pointblank/]: 17887 obtained hit results
+[20Mar2025 22:08:37.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d043fd1
+[20Mar2025 22:08:37.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:37.942] [Server thread/DEBUG] [pointblank/]: 17942 handling client fire request
+[20Mar2025 22:08:37.942] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 6
+[20Mar2025 22:08:37.942] [Server thread/DEBUG] [pointblank/]: 17942 - obtained hit result in 0ms
+[20Mar2025 22:08:37.942] [Server thread/DEBUG] [pointblank/]: 17942 obtained hit results
+[20Mar2025 22:08:37.942] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@20c4bb4a
+[20Mar2025 22:08:37.943] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.039] [Server thread/DEBUG] [pointblank/]: 18039 handling client fire request
+[20Mar2025 22:08:38.039] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 5
+[20Mar2025 22:08:38.039] [Server thread/DEBUG] [pointblank/]: 18039 - obtained hit result in 0ms
+[20Mar2025 22:08:38.039] [Server thread/DEBUG] [pointblank/]: 18039 obtained hit results
+[20Mar2025 22:08:38.039] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1d66bc51
+[20Mar2025 22:08:38.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.140] [Server thread/DEBUG] [pointblank/]: 18140 handling client fire request
+[20Mar2025 22:08:38.141] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 4
+[20Mar2025 22:08:38.141] [Server thread/DEBUG] [pointblank/]: 18141 - obtained hit result in 0ms
+[20Mar2025 22:08:38.141] [Server thread/DEBUG] [pointblank/]: 18141 obtained hit results
+[20Mar2025 22:08:38.141] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@78ce6c4c
+[20Mar2025 22:08:38.141] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.188] [Server thread/DEBUG] [pointblank/]: 18188 handling client fire request
+[20Mar2025 22:08:38.188] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 3
+[20Mar2025 22:08:38.188] [Server thread/DEBUG] [pointblank/]: 18188 - obtained hit result in 0ms
+[20Mar2025 22:08:38.188] [Server thread/DEBUG] [pointblank/]: 18188 obtained hit results
+[20Mar2025 22:08:38.188] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c82e33
+[20Mar2025 22:08:38.189] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.288] [Server thread/DEBUG] [pointblank/]: 18288 handling client fire request
+[20Mar2025 22:08:38.288] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 2
+[20Mar2025 22:08:38.289] [Server thread/DEBUG] [pointblank/]: 18289 - obtained hit result in 1ms
+[20Mar2025 22:08:38.289] [Server thread/DEBUG] [pointblank/]: 18289 obtained hit results
+[20Mar2025 22:08:38.289] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@153cb0b
+[20Mar2025 22:08:38.289] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.384] [Server thread/DEBUG] [pointblank/]: 18384 handling client fire request
+[20Mar2025 22:08:38.385] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 1
+[20Mar2025 22:08:38.385] [Server thread/DEBUG] [pointblank/]: 18385 - obtained hit result in 0ms
+[20Mar2025 22:08:38.385] [Server thread/DEBUG] [pointblank/]: 18385 obtained hit results
+[20Mar2025 22:08:38.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@297f7b44
+[20Mar2025 22:08:38.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.436] [Server thread/DEBUG] [pointblank/]: 18436 handling client fire request
+[20Mar2025 22:08:38.436] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 0
+[20Mar2025 22:08:38.436] [Server thread/DEBUG] [pointblank/]: 18436 - obtained hit result in 0ms
+[20Mar2025 22:08:38.436] [Server thread/DEBUG] [pointblank/]: 18436 obtained hit results
+[20Mar2025 22:08:38.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22d8ce2b
+[20Mar2025 22:08:38.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:38.588] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1261455500 to 25
+[20Mar2025 22:08:46.338] [Server thread/DEBUG] [pointblank/]: 26338 handling client fire request
+[20Mar2025 22:08:46.338] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 27
+[20Mar2025 22:08:46.339] [Server thread/DEBUG] [pointblank/]: 26339 - obtained hit result in 0ms
+[20Mar2025 22:08:46.339] [Server thread/DEBUG] [pointblank/]: 26339 obtained hit results
+[20Mar2025 22:08:46.339] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f45c258
+[20Mar2025 22:08:46.339] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:47.900] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:27,ammox:{},as:[{id:"pointblank:holographic558",rmv:1b},{id:"pointblank:scarl_iss",rmv:1b}],fmid:[I;1251449942,1359952536,-1340198962,526365780],lid:-8941295109456619037L,mid:-7519349179086779670L,sa:{scope:"//holographic558"},seed:7433875650406394800L}
+[20Mar2025 22:08:48.636] [Server thread/DEBUG] [pointblank/]: 28636 handling client fire request
+[20Mar2025 22:08:48.636] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 26
+[20Mar2025 22:08:48.636] [Server thread/DEBUG] [pointblank/]: 28636 - obtained hit result in 0ms
+[20Mar2025 22:08:48.636] [Server thread/DEBUG] [pointblank/]: 28636 obtained hit results
+[20Mar2025 22:08:48.636] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b0b92bd
+[20Mar2025 22:08:48.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:48.735] [Server thread/DEBUG] [pointblank/]: 28735 handling client fire request
+[20Mar2025 22:08:48.736] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 25
+[20Mar2025 22:08:48.736] [Server thread/DEBUG] [pointblank/]: 28736 - obtained hit result in 0ms
+[20Mar2025 22:08:48.736] [Server thread/DEBUG] [pointblank/]: 28736 obtained hit results
+[20Mar2025 22:08:48.736] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@368dd10b
+[20Mar2025 22:08:48.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: 28793 handling client fire request
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 24
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: 28793 - obtained hit result in 0ms
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: 28793 obtained hit results
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@71dc7571
+[20Mar2025 22:08:48.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: 28888 handling client fire request
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 23
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: 28888 - obtained hit result in 0ms
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: 28888 obtained hit results
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3af61aff
+[20Mar2025 22:08:48.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: 28988 handling client fire request
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 22
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: 28988 - obtained hit result in 0ms
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: 28988 obtained hit results
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ca2a398
+[20Mar2025 22:08:48.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.088] [Server thread/DEBUG] [pointblank/]: 29088 handling client fire request
+[20Mar2025 22:08:49.088] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 21
+[20Mar2025 22:08:49.088] [Server thread/DEBUG] [pointblank/]: 29088 - obtained hit result in 0ms
+[20Mar2025 22:08:49.088] [Server thread/DEBUG] [pointblank/]: 29088 obtained hit results
+[20Mar2025 22:08:49.088] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@547f3e8e
+[20Mar2025 22:08:49.089] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.186] [Server thread/DEBUG] [pointblank/]: 29186 handling client fire request
+[20Mar2025 22:08:49.186] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 20
+[20Mar2025 22:08:49.187] [Server thread/DEBUG] [pointblank/]: 29187 - obtained hit result in 1ms
+[20Mar2025 22:08:49.187] [Server thread/DEBUG] [pointblank/]: 29187 obtained hit results
+[20Mar2025 22:08:49.187] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@469abe8d
+[20Mar2025 22:08:49.187] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: 29287 handling client fire request
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 19
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: 29287 - obtained hit result in 0ms
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: 29287 obtained hit results
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c316543
+[20Mar2025 22:08:49.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.387] [Server thread/DEBUG] [pointblank/]: 29387 handling client fire request
+[20Mar2025 22:08:49.387] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 18
+[20Mar2025 22:08:49.387] [Server thread/DEBUG] [pointblank/]: 29387 - obtained hit result in 0ms
+[20Mar2025 22:08:49.387] [Server thread/DEBUG] [pointblank/]: 29387 obtained hit results
+[20Mar2025 22:08:49.387] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5516b13e
+[20Mar2025 22:08:49.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: 29487 handling client fire request
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 17
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: 29487 - obtained hit result in 0ms
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: 29487 obtained hit results
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@78306e5c
+[20Mar2025 22:08:49.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.585] [Server thread/DEBUG] [pointblank/]: 29585 handling client fire request
+[20Mar2025 22:08:49.585] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 16
+[20Mar2025 22:08:49.586] [Server thread/DEBUG] [pointblank/]: 29586 - obtained hit result in 0ms
+[20Mar2025 22:08:49.586] [Server thread/DEBUG] [pointblank/]: 29586 obtained hit results
+[20Mar2025 22:08:49.586] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b4dd901
+[20Mar2025 22:08:49.586] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.686] [Server thread/DEBUG] [pointblank/]: 29686 handling client fire request
+[20Mar2025 22:08:49.686] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 15
+[20Mar2025 22:08:49.687] [Server thread/DEBUG] [pointblank/]: 29687 - obtained hit result in 0ms
+[20Mar2025 22:08:49.687] [Server thread/DEBUG] [pointblank/]: 29687 obtained hit results
+[20Mar2025 22:08:49.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c91b256
+[20Mar2025 22:08:49.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.786] [Server thread/DEBUG] [pointblank/]: 29786 handling client fire request
+[20Mar2025 22:08:49.786] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 14
+[20Mar2025 22:08:49.787] [Server thread/DEBUG] [pointblank/]: 29787 - obtained hit result in 1ms
+[20Mar2025 22:08:49.787] [Server thread/DEBUG] [pointblank/]: 29787 obtained hit results
+[20Mar2025 22:08:49.787] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c6e79bb
+[20Mar2025 22:08:49.787] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: 29890 handling client fire request
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 13
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: 29890 - obtained hit result in 0ms
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: 29890 obtained hit results
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@37d7ace4
+[20Mar2025 22:08:49.890] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:49.985] [Server thread/DEBUG] [pointblank/]: 29985 handling client fire request
+[20Mar2025 22:08:49.986] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 12
+[20Mar2025 22:08:49.986] [Server thread/DEBUG] [pointblank/]: 29986 - obtained hit result in 0ms
+[20Mar2025 22:08:49.986] [Server thread/DEBUG] [pointblank/]: 29986 obtained hit results
+[20Mar2025 22:08:49.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3257fece
+[20Mar2025 22:08:49.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: 30047 handling client fire request
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 55219170 to 11
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: 30047 - obtained hit result in 0ms
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: 30047 obtained hit results
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1375f9d0
+[20Mar2025 22:08:50.047] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:55.439] [Server thread/DEBUG] [pointblank/]: 35439 handling client fire request
+[20Mar2025 22:08:55.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1710232328 to 18
+[20Mar2025 22:08:55.439] [Server thread/DEBUG] [pointblank/]: 35439 - obtained hit result in 0ms
+[20Mar2025 22:08:55.439] [Server thread/DEBUG] [pointblank/]: 35439 obtained hit results
+[20Mar2025 22:08:55.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76362a95
+[20Mar2025 22:08:55.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:08:59.048] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 30
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: 43087 handling client fire request
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 29
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: 43087 - obtained hit result in 0ms
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: 43087 obtained hit results
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1aaae766
+[20Mar2025 22:09:03.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:04.535] [Server thread/DEBUG] [pointblank/]: 44535 handling client fire request
+[20Mar2025 22:09:04.536] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 28
+[20Mar2025 22:09:04.536] [Server thread/DEBUG] [pointblank/]: 44536 - obtained hit result in 0ms
+[20Mar2025 22:09:04.536] [Server thread/DEBUG] [pointblank/]: 44536 obtained hit results
+[20Mar2025 22:09:04.536] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1a0fbcfa
+[20Mar2025 22:09:04.536] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:06.535] [Server thread/DEBUG] [pointblank/]: 46535 handling client fire request
+[20Mar2025 22:09:06.536] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 27
+[20Mar2025 22:09:06.536] [Server thread/DEBUG] [pointblank/]: 46536 - obtained hit result in 0ms
+[20Mar2025 22:09:06.536] [Server thread/DEBUG] [pointblank/]: 46536 obtained hit results
+[20Mar2025 22:09:06.536] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e8c7812
+[20Mar2025 22:09:06.536] [Server thread/DEBUG] [pointblank/]: Creating state 28f60374-a14f-44e8-9e67-5e4a000583ba
+[20Mar2025 22:09:06.537] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: 50291 handling client fire request
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 26
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: 50291 - obtained hit result in 0ms
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: 50291 obtained hit results
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2fb130c5
+[20Mar2025 22:09:10.291] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:11.688] [Server thread/DEBUG] [pointblank/]: 51688 handling client fire request
+[20Mar2025 22:09:11.688] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 904774102 to 25
+[20Mar2025 22:09:11.688] [Server thread/DEBUG] [pointblank/]: 51688 - obtained hit result in 0ms
+[20Mar2025 22:09:11.688] [Server thread/DEBUG] [pointblank/]: 51688 obtained hit results
+[20Mar2025 22:09:11.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4328c1e2
+[20Mar2025 22:09:11.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:14.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 200
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: 59300 handling client fire request
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 199
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: 59300 - obtained hit result in 0ms
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: 59300 obtained hit results
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@235332e4
+[20Mar2025 22:09:19.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: 59335 handling client fire request
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 198
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: 59335 - obtained hit result in 0ms
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: 59335 obtained hit results
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b7cbe5f
+[20Mar2025 22:09:19.335] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.389] [Server thread/DEBUG] [pointblank/]: 59389 handling client fire request
+[20Mar2025 22:09:19.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 197
+[20Mar2025 22:09:19.390] [Server thread/DEBUG] [pointblank/]: 59390 - obtained hit result in 0ms
+[20Mar2025 22:09:19.390] [Server thread/DEBUG] [pointblank/]: 59390 obtained hit results
+[20Mar2025 22:09:19.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1589108f
+[20Mar2025 22:09:19.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 handling client fire request
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 196
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 - obtained hit result in 0ms
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 obtained hit results
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@500f328c
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 handling client fire request
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 195
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 - obtained hit result in 0ms
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: 59439 obtained hit results
+[20Mar2025 22:09:19.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a71ee7b
+[20Mar2025 22:09:19.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.487] [Server thread/DEBUG] [pointblank/]: 59487 handling client fire request
+[20Mar2025 22:09:19.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 194
+[20Mar2025 22:09:19.487] [Server thread/DEBUG] [pointblank/]: 59487 - obtained hit result in 0ms
+[20Mar2025 22:09:19.487] [Server thread/DEBUG] [pointblank/]: 59487 obtained hit results
+[20Mar2025 22:09:19.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74613b2c
+[20Mar2025 22:09:19.488] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: 59499 handling client fire request
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 193
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: 59499 - obtained hit result in 0ms
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: 59499 obtained hit results
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29b15047
+[20Mar2025 22:09:19.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: 59538 handling client fire request
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 192
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: 59538 - obtained hit result in 0ms
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: 59538 obtained hit results
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@38caf
+[20Mar2025 22:09:19.538] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: 59586 handling client fire request
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 191
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: 59586 - obtained hit result in 0ms
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: 59586 obtained hit results
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6564a8e2
+[20Mar2025 22:09:19.586] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.636] [Server thread/DEBUG] [pointblank/]: 59636 handling client fire request
+[20Mar2025 22:09:19.637] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 190
+[20Mar2025 22:09:19.637] [Server thread/DEBUG] [pointblank/]: 59637 - obtained hit result in 0ms
+[20Mar2025 22:09:19.637] [Server thread/DEBUG] [pointblank/]: 59637 obtained hit results
+[20Mar2025 22:09:19.637] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@18a15739
+[20Mar2025 22:09:19.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: 59648 handling client fire request
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 189
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: 59648 - obtained hit result in 0ms
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: 59648 obtained hit results
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3bb11f02
+[20Mar2025 22:09:19.648] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: 59688 handling client fire request
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 188
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: 59688 - obtained hit result in 0ms
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: 59688 obtained hit results
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@274b9a2f
+[20Mar2025 22:09:19.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.736] [Server thread/DEBUG] [pointblank/]: 59736 handling client fire request
+[20Mar2025 22:09:19.736] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 187
+[20Mar2025 22:09:19.737] [Server thread/DEBUG] [pointblank/]: 59737 - obtained hit result in 1ms
+[20Mar2025 22:09:19.737] [Server thread/DEBUG] [pointblank/]: 59737 obtained hit results
+[20Mar2025 22:09:19.737] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@67a8059c
+[20Mar2025 22:09:19.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: 59787 handling client fire request
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 186
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: 59787 - obtained hit result in 0ms
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: 59787 obtained hit results
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75229ecf
+[20Mar2025 22:09:19.787] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: 59788 handling client fire request
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 185
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: 59788 - obtained hit result in 0ms
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: 59788 obtained hit results
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4658d666
+[20Mar2025 22:09:19.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.837] [Server thread/DEBUG] [pointblank/]: 59837 handling client fire request
+[20Mar2025 22:09:19.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 184
+[20Mar2025 22:09:19.837] [Server thread/DEBUG] [pointblank/]: 59837 - obtained hit result in 0ms
+[20Mar2025 22:09:19.837] [Server thread/DEBUG] [pointblank/]: 59837 obtained hit results
+[20Mar2025 22:09:19.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3db9a660
+[20Mar2025 22:09:19.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.888] [Server thread/DEBUG] [pointblank/]: 59888 handling client fire request
+[20Mar2025 22:09:19.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 183
+[20Mar2025 22:09:19.888] [Server thread/DEBUG] [pointblank/]: 59888 - obtained hit result in 0ms
+[20Mar2025 22:09:19.888] [Server thread/DEBUG] [pointblank/]: 59888 obtained hit results
+[20Mar2025 22:09:19.889] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1a9ac0ae
+[20Mar2025 22:09:19.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: 59898 handling client fire request
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 182
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: 59898 - obtained hit result in 0ms
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: 59898 obtained hit results
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b2fe1d4
+[20Mar2025 22:09:19.898] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: 59938 handling client fire request
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 181
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: 59938 - obtained hit result in 0ms
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: 59938 obtained hit results
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7b44f331
+[20Mar2025 22:09:19.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:19.986] [Server thread/DEBUG] [pointblank/]: 59986 handling client fire request
+[20Mar2025 22:09:19.986] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 180
+[20Mar2025 22:09:19.986] [Server thread/DEBUG] [pointblank/]: 59986 - obtained hit result in 0ms
+[20Mar2025 22:09:19.986] [Server thread/DEBUG] [pointblank/]: 59986 obtained hit results
+[20Mar2025 22:09:19.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b3ed09f
+[20Mar2025 22:09:19.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: 60041 handling client fire request
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 179
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: 60041 - obtained hit result in 0ms
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: 60041 obtained hit results
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47edeee6
+[20Mar2025 22:09:20.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: 60042 handling client fire request
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 178
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: 60042 - obtained hit result in 0ms
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: 60042 obtained hit results
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4348968e
+[20Mar2025 22:09:20.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.087] [Server thread/DEBUG] [pointblank/]: 60087 handling client fire request
+[20Mar2025 22:09:20.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 177
+[20Mar2025 22:09:20.087] [Server thread/DEBUG] [pointblank/]: 60087 - obtained hit result in 0ms
+[20Mar2025 22:09:20.087] [Server thread/DEBUG] [pointblank/]: 60087 obtained hit results
+[20Mar2025 22:09:20.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1fc938ad
+[20Mar2025 22:09:20.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 handling client fire request
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 176
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 - obtained hit result in 0ms
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 obtained hit results
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@620ea9e3
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 handling client fire request
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 175
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 - obtained hit result in 0ms
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: 60139 obtained hit results
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a3ce19a
+[20Mar2025 22:09:20.139] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: 60189 handling client fire request
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 174
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: 60189 - obtained hit result in 0ms
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: 60189 obtained hit results
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dc7e2b5
+[20Mar2025 22:09:20.189] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: 60237 handling client fire request
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 173
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: 60237 - obtained hit result in 0ms
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: 60237 obtained hit results
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b9da7f0
+[20Mar2025 22:09:20.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: 60245 handling client fire request
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 172
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: 60245 - obtained hit result in 0ms
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: 60245 obtained hit results
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ccb44d1
+[20Mar2025 22:09:20.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: 60287 handling client fire request
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 171
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: 60287 - obtained hit result in 0ms
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: 60287 obtained hit results
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@21d654e3
+[20Mar2025 22:09:20.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: 60338 handling client fire request
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 170
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: 60338 - obtained hit result in 0ms
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: 60338 obtained hit results
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53f6d826
+[20Mar2025 22:09:20.338] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.387] [Server thread/DEBUG] [pointblank/]: 60387 handling client fire request
+[20Mar2025 22:09:20.387] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 169
+[20Mar2025 22:09:20.387] [Server thread/DEBUG] [pointblank/]: 60387 - obtained hit result in 0ms
+[20Mar2025 22:09:20.388] [Server thread/DEBUG] [pointblank/]: 60388 obtained hit results
+[20Mar2025 22:09:20.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2522578f
+[20Mar2025 22:09:20.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.435] [Server thread/DEBUG] [pointblank/]: 60435 handling client fire request
+[20Mar2025 22:09:20.435] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 168
+[20Mar2025 22:09:20.435] [Server thread/DEBUG] [pointblank/]: 60435 - obtained hit result in 0ms
+[20Mar2025 22:09:20.435] [Server thread/DEBUG] [pointblank/]: 60435 obtained hit results
+[20Mar2025 22:09:20.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73197236
+[20Mar2025 22:09:20.436] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: 60439 handling client fire request
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 167
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: 60439 - obtained hit result in 0ms
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: 60439 obtained hit results
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@607b51fa
+[20Mar2025 22:09:20.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.486] [Server thread/DEBUG] [pointblank/]: 60486 handling client fire request
+[20Mar2025 22:09:20.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 166
+[20Mar2025 22:09:20.487] [Server thread/DEBUG] [pointblank/]: 60487 - obtained hit result in 0ms
+[20Mar2025 22:09:20.487] [Server thread/DEBUG] [pointblank/]: 60487 obtained hit results
+[20Mar2025 22:09:20.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5a9923b
+[20Mar2025 22:09:20.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.534] [Server thread/DEBUG] [pointblank/]: 60534 handling client fire request
+[20Mar2025 22:09:20.534] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 165
+[20Mar2025 22:09:20.535] [Server thread/DEBUG] [pointblank/]: 60535 - obtained hit result in 0ms
+[20Mar2025 22:09:20.535] [Server thread/DEBUG] [pointblank/]: 60535 obtained hit results
+[20Mar2025 22:09:20.535] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3200232e
+[20Mar2025 22:09:20.535] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: 60550 handling client fire request
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 164
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: 60550 - obtained hit result in 0ms
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: 60550 obtained hit results
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ab06f9a
+[20Mar2025 22:09:20.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.590] [Server thread/DEBUG] [pointblank/]: 60590 handling client fire request
+[20Mar2025 22:09:20.591] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 163
+[20Mar2025 22:09:20.591] [Server thread/DEBUG] [pointblank/]: 60591 - obtained hit result in 0ms
+[20Mar2025 22:09:20.591] [Server thread/DEBUG] [pointblank/]: 60591 obtained hit results
+[20Mar2025 22:09:20.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@307e1bb7
+[20Mar2025 22:09:20.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: 60640 handling client fire request
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 162
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: 60640 - obtained hit result in 0ms
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: 60640 obtained hit results
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@790f6fc9
+[20Mar2025 22:09:20.640] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.688] [Server thread/DEBUG] [pointblank/]: 60688 handling client fire request
+[20Mar2025 22:09:20.688] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 161
+[20Mar2025 22:09:20.688] [Server thread/DEBUG] [pointblank/]: 60688 - obtained hit result in 0ms
+[20Mar2025 22:09:20.688] [Server thread/DEBUG] [pointblank/]: 60688 obtained hit results
+[20Mar2025 22:09:20.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a252a95
+[20Mar2025 22:09:20.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 handling client fire request
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 160
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 - obtained hit result in 0ms
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 obtained hit results
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@436050f4
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 handling client fire request
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 159
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 - obtained hit result in 0ms
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: 60736 obtained hit results
+[20Mar2025 22:09:20.736] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@303488c
+[20Mar2025 22:09:20.737] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.787] [Server thread/DEBUG] [pointblank/]: 60787 handling client fire request
+[20Mar2025 22:09:20.787] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 158
+[20Mar2025 22:09:20.788] [Server thread/DEBUG] [pointblank/]: 60788 - obtained hit result in 0ms
+[20Mar2025 22:09:20.788] [Server thread/DEBUG] [pointblank/]: 60788 obtained hit results
+[20Mar2025 22:09:20.788] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1701e02
+[20Mar2025 22:09:20.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.837] [Server thread/DEBUG] [pointblank/]: 60837 handling client fire request
+[20Mar2025 22:09:20.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 157
+[20Mar2025 22:09:20.838] [Server thread/DEBUG] [pointblank/]: 60838 - obtained hit result in 0ms
+[20Mar2025 22:09:20.838] [Server thread/DEBUG] [pointblank/]: 60838 obtained hit results
+[20Mar2025 22:09:20.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6262ed3b
+[20Mar2025 22:09:20.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: 60846 handling client fire request
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 156
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: 60846 - obtained hit result in 0ms
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: 60846 obtained hit results
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2344f673
+[20Mar2025 22:09:20.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: 60886 handling client fire request
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 155
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: 60886 - obtained hit result in 0ms
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: 60886 obtained hit results
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b1b14f0
+[20Mar2025 22:09:20.886] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: 60936 handling client fire request
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 154
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: 60936 - obtained hit result in 0ms
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: 60936 obtained hit results
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4e652d9d
+[20Mar2025 22:09:20.936] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: 60951 handling client fire request
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 153
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: 60951 - obtained hit result in 0ms
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: 60951 obtained hit results
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a16bd4c
+[20Mar2025 22:09:20.951] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:20.985] [Server thread/DEBUG] [pointblank/]: 60985 handling client fire request
+[20Mar2025 22:09:20.985] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 152
+[20Mar2025 22:09:20.985] [Server thread/DEBUG] [pointblank/]: 60985 - obtained hit result in 0ms
+[20Mar2025 22:09:20.985] [Server thread/DEBUG] [pointblank/]: 60985 obtained hit results
+[20Mar2025 22:09:20.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@240fa6c4
+[20Mar2025 22:09:20.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.041] [Server thread/DEBUG] [pointblank/]: 61041 handling client fire request
+[20Mar2025 22:09:21.042] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 151
+[20Mar2025 22:09:21.042] [Server thread/DEBUG] [pointblank/]: 61042 - obtained hit result in 0ms
+[20Mar2025 22:09:21.042] [Server thread/DEBUG] [pointblank/]: 61042 obtained hit results
+[20Mar2025 22:09:21.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47509a21
+[20Mar2025 22:09:21.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.089] [Server thread/DEBUG] [pointblank/]: 61089 handling client fire request
+[20Mar2025 22:09:21.089] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 150
+[20Mar2025 22:09:21.089] [Server thread/DEBUG] [pointblank/]: 61089 - obtained hit result in 0ms
+[20Mar2025 22:09:21.089] [Server thread/DEBUG] [pointblank/]: 61089 obtained hit results
+[20Mar2025 22:09:21.089] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@203e5e93
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: 61090 handling client fire request
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 149
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: 61090 - obtained hit result in 0ms
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: 61090 obtained hit results
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5fbd7b05
+[20Mar2025 22:09:21.090] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.136] [Server thread/DEBUG] [pointblank/]: 61136 handling client fire request
+[20Mar2025 22:09:21.137] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 148
+[20Mar2025 22:09:21.137] [Server thread/DEBUG] [pointblank/]: 61137 - obtained hit result in 0ms
+[20Mar2025 22:09:21.137] [Server thread/DEBUG] [pointblank/]: 61137 obtained hit results
+[20Mar2025 22:09:21.137] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65dcfb0
+[20Mar2025 22:09:21.137] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: 61187 handling client fire request
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 147
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: 61187 - obtained hit result in 0ms
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: 61187 obtained hit results
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@451fccc8
+[20Mar2025 22:09:21.187] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: 61190 handling client fire request
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 146
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: 61190 - obtained hit result in 0ms
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: 61190 obtained hit results
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1707c83e
+[20Mar2025 22:09:21.190] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: 61239 handling client fire request
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 145
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: 61239 - obtained hit result in 0ms
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: 61239 obtained hit results
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@23d6ec88
+[20Mar2025 22:09:21.239] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.285] [Server thread/DEBUG] [pointblank/]: 61285 handling client fire request
+[20Mar2025 22:09:21.285] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 144
+[20Mar2025 22:09:21.286] [Server thread/DEBUG] [pointblank/]: 61286 - obtained hit result in 0ms
+[20Mar2025 22:09:21.286] [Server thread/DEBUG] [pointblank/]: 61286 obtained hit results
+[20Mar2025 22:09:21.286] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4b9e870d
+[20Mar2025 22:09:21.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: 61335 handling client fire request
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 143
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: 61335 - obtained hit result in 0ms
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: 61335 obtained hit results
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@705c7b3a
+[20Mar2025 22:09:21.335] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: 61336 handling client fire request
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 142
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: 61336 - obtained hit result in 0ms
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: 61336 obtained hit results
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59b31b37
+[20Mar2025 22:09:21.336] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: 61387 handling client fire request
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 141
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: 61387 - obtained hit result in 0ms
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: 61387 obtained hit results
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@728c5e75
+[20Mar2025 22:09:21.387] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: 61438 handling client fire request
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 140
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: 61438 - obtained hit result in 0ms
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: 61438 obtained hit results
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@611a7eb5
+[20Mar2025 22:09:21.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: 61445 handling client fire request
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 139
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: 61445 - obtained hit result in 0ms
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: 61445 obtained hit results
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@20b1bb02
+[20Mar2025 22:09:21.445] [Server thread/DEBUG] [pointblank/]: Creating state d5de5076-8158-44de-b34b-893b33556553
+[20Mar2025 22:09:21.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.486] [Server thread/DEBUG] [pointblank/]: 61486 handling client fire request
+[20Mar2025 22:09:21.486] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 138
+[20Mar2025 22:09:21.486] [Server thread/DEBUG] [pointblank/]: 61486 - obtained hit result in 0ms
+[20Mar2025 22:09:21.486] [Server thread/DEBUG] [pointblank/]: 61486 obtained hit results
+[20Mar2025 22:09:21.487] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c529a3a
+[20Mar2025 22:09:21.487] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: 61538 handling client fire request
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 137
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: 61538 - obtained hit result in 0ms
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: 61538 obtained hit results
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3ee211f8
+[20Mar2025 22:09:21.538] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.588] [Server thread/DEBUG] [pointblank/]: 61588 handling client fire request
+[20Mar2025 22:09:21.588] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 136
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: 61589 - obtained hit result in 0ms
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: 61589 obtained hit results
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@120eded3
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: 61589 handling client fire request
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1225957295 to 135
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: 61589 - obtained hit result in 0ms
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: 61589 obtained hit results
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6077c3b3
+[20Mar2025 22:09:21.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=774.22, y=79.35, z=699.76]
+[20Mar2025 22:09:31.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:09:31.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:10:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:10:42.086] [Server thread/DEBUG] [pointblank/]: 42086 handling client fire request
+[20Mar2025 22:10:42.086] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 887819949 to 17
+[20Mar2025 22:10:42.086] [Server thread/DEBUG] [pointblank/]: 42086 - obtained hit result in 0ms
+[20Mar2025 22:10:42.086] [Server thread/DEBUG] [pointblank/]: 42086 obtained hit results
+[20Mar2025 22:10:42.086] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2416fb4
+[20Mar2025 22:10:42.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=803.40, y=78.00, z=714.56] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=803.40, y=78.00, z=714.56]
+[20Mar2025 22:10:44.935] [Server thread/DEBUG] [pointblank/]: 44935 handling client fire request
+[20Mar2025 22:10:44.935] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 887819949 to 16
+[20Mar2025 22:10:44.936] [Server thread/DEBUG] [pointblank/]: 44936 - obtained hit result in 1ms
+[20Mar2025 22:10:44.936] [Server thread/DEBUG] [pointblank/]: 44936 obtained hit results
+[20Mar2025 22:10:44.936] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c818f88
+[20Mar2025 22:10:44.936] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=811.85, y=79.00, z=720.64] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=811.85, y=79.00, z=720.64]
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: 48786 handling client fire request
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 887819949 to 15
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: 48786 - obtained hit result in 0ms
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: 48786 obtained hit results
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f871b65
+[20Mar2025 22:10:48.786] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=810.97, y=79.00, z=726.37] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=810.97, y=79.00, z=726.37]
+[20Mar2025 22:10:52.037] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Mar2025 22:10:53.382] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: 54887 handling client fire request
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 887819949 to 14
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: 54887 - obtained hit result in 0ms
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: 54887 obtained hit results
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c16e5b0
+[20Mar2025 22:10:54.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=818.78, y=78.00, z=727.95] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=818.78, y=78.00, z=727.95]
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: 56938 handling client fire request
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 24
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: 56938 - obtained hit result in 0ms
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: 56938 obtained hit results
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ee8a6af
+[20Mar2025 22:10:56.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.34, y=77.00, z=728.20] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.34, y=77.00, z=728.20]
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: 56985 handling client fire request
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 23
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: 56985 - obtained hit result in 0ms
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: 56985 obtained hit results
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@44a2c835
+[20Mar2025 22:10:56.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.50, y=77.00, z=728.34] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.50, y=77.00, z=728.34]
+[20Mar2025 22:10:57.084] [Server thread/DEBUG] [pointblank/]: 57084 handling client fire request
+[20Mar2025 22:10:57.084] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 22
+[20Mar2025 22:10:57.084] [Server thread/DEBUG] [pointblank/]: 57084 - obtained hit result in 0ms
+[20Mar2025 22:10:57.085] [Server thread/DEBUG] [pointblank/]: 57085 obtained hit results
+[20Mar2025 22:10:57.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4bd9a247
+[20Mar2025 22:10:57.085] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.89, y=77.00, z=728.46] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.89, y=77.00, z=728.46]
+[20Mar2025 22:10:57.147] [Server thread/DEBUG] [pointblank/]: 57147 handling client fire request
+[20Mar2025 22:10:57.147] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 21
+[20Mar2025 22:10:57.148] [Server thread/DEBUG] [pointblank/]: 57148 - obtained hit result in 0ms
+[20Mar2025 22:10:57.148] [Server thread/DEBUG] [pointblank/]: 57148 obtained hit results
+[20Mar2025 22:10:57.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f1cecc0
+[20Mar2025 22:10:57.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.00, y=77.00, z=728.49] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.00, y=77.00, z=728.49]
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: 57236 handling client fire request
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 20
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: 57236 - obtained hit result in 0ms
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: 57236 obtained hit results
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29e48ec0
+[20Mar2025 22:10:57.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.09, y=77.00, z=728.51] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.09, y=77.00, z=728.51]
+[20Mar2025 22:10:57.334] [Server thread/DEBUG] [pointblank/]: 57334 handling client fire request
+[20Mar2025 22:10:57.334] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 19
+[20Mar2025 22:10:57.335] [Server thread/DEBUG] [pointblank/]: 57335 - obtained hit result in 0ms
+[20Mar2025 22:10:57.335] [Server thread/DEBUG] [pointblank/]: 57335 obtained hit results
+[20Mar2025 22:10:57.335] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@525c9974
+[20Mar2025 22:10:57.335] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52]
+[20Mar2025 22:10:57.394] [Server thread/DEBUG] [pointblank/]: 57394 handling client fire request
+[20Mar2025 22:10:57.394] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 18
+[20Mar2025 22:10:57.394] [Server thread/DEBUG] [pointblank/]: 57394 - obtained hit result in 0ms
+[20Mar2025 22:10:57.395] [Server thread/DEBUG] [pointblank/]: 57394 obtained hit results
+[20Mar2025 22:10:57.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14c96f30
+[20Mar2025 22:10:57.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52]
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: 57485 handling client fire request
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 17
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: 57485 - obtained hit result in 0ms
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: 57485 obtained hit results
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c1bfb85
+[20Mar2025 22:10:57.485] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52]
+[20Mar2025 22:10:57.585] [Server thread/DEBUG] [pointblank/]: 57585 handling client fire request
+[20Mar2025 22:10:57.585] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 16
+[20Mar2025 22:10:57.585] [Server thread/DEBUG] [pointblank/]: 57585 - obtained hit result in 0ms
+[20Mar2025 22:10:57.585] [Server thread/DEBUG] [pointblank/]: 57585 obtained hit results
+[20Mar2025 22:10:57.585] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3104f048
+[20Mar2025 22:10:57.586] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.12, y=77.00, z=728.52]
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: 57637 handling client fire request
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 15
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: 57637 - obtained hit result in 0ms
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: 57637 obtained hit results
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a55825
+[20Mar2025 22:10:57.637] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.22, y=77.00, z=728.53] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.22, y=77.00, z=728.53]
+[20Mar2025 22:10:57.739] [Server thread/DEBUG] [pointblank/]: 57739 handling client fire request
+[20Mar2025 22:10:57.739] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 14
+[20Mar2025 22:10:57.740] [Server thread/DEBUG] [pointblank/]: 57740 - obtained hit result in 0ms
+[20Mar2025 22:10:57.740] [Server thread/DEBUG] [pointblank/]: 57740 obtained hit results
+[20Mar2025 22:10:57.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d7e29d4
+[20Mar2025 22:10:57.740] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.55, y=77.00, z=728.57] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.55, y=77.00, z=728.57]
+[20Mar2025 22:10:57.803] [Server thread/DEBUG] [pointblank/]: 57803 handling client fire request
+[20Mar2025 22:10:57.803] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 13
+[20Mar2025 22:10:57.804] [Server thread/DEBUG] [pointblank/]: 57804 - obtained hit result in 0ms
+[20Mar2025 22:10:57.804] [Server thread/DEBUG] [pointblank/]: 57804 obtained hit results
+[20Mar2025 22:10:57.804] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@37382e
+[20Mar2025 22:10:57.804] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.74, y=77.00, z=728.59] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=828.74, y=77.00, z=728.59]
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: 57885 handling client fire request
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 12
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: 57885 - obtained hit result in 0ms
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: 57885 obtained hit results
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1fc631a1
+[20Mar2025 22:10:57.885] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.16, y=77.00, z=728.64] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.16, y=77.00, z=728.64]
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: 57986 handling client fire request
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 11
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: 57986 - obtained hit result in 0ms
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: 57986 obtained hit results
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26899c3f
+[20Mar2025 22:10:57.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.58, y=77.00, z=728.69] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.58, y=77.00, z=728.69]
+[20Mar2025 22:10:58.048] [Server thread/DEBUG] [pointblank/]: 58048 handling client fire request
+[20Mar2025 22:10:58.048] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 10
+[20Mar2025 22:10:58.049] [Server thread/DEBUG] [pointblank/]: 58049 - obtained hit result in 0ms
+[20Mar2025 22:10:58.049] [Server thread/DEBUG] [pointblank/]: 58049 obtained hit results
+[20Mar2025 22:10:58.049] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@474f8a0a
+[20Mar2025 22:10:58.049] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.79, y=77.00, z=728.72] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=829.79, y=77.00, z=728.72]
+[20Mar2025 22:10:58.136] [Server thread/DEBUG] [pointblank/]: 58136 handling client fire request
+[20Mar2025 22:10:58.137] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 9
+[20Mar2025 22:10:58.137] [Server thread/DEBUG] [pointblank/]: 58137 - obtained hit result in 0ms
+[20Mar2025 22:10:58.137] [Server thread/DEBUG] [pointblank/]: 58137 obtained hit results
+[20Mar2025 22:10:58.137] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5076e432
+[20Mar2025 22:10:58.137] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=830.22, y=77.00, z=728.78] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=830.22, y=77.00, z=728.78]
+[20Mar2025 22:10:58.217] [Server thread/DEBUG] [pointblank/]: 58217 handling client fire request
+[20Mar2025 22:10:58.217] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 8
+[20Mar2025 22:10:58.218] [Server thread/DEBUG] [pointblank/]: 58218 - obtained hit result in 0ms
+[20Mar2025 22:10:58.218] [Server thread/DEBUG] [pointblank/]: 58218 obtained hit results
+[20Mar2025 22:10:58.218] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7e939ca4
+[20Mar2025 22:10:58.218] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=830.64, y=77.00, z=728.86] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=830.64, y=77.00, z=728.86]
+[20Mar2025 22:11:01.255] [Server thread/DEBUG] [pointblank/]: 61255 handling client fire request
+[20Mar2025 22:11:01.255] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 7
+[20Mar2025 22:11:01.256] [Server thread/DEBUG] [pointblank/]: 61256 - obtained hit result in 0ms
+[20Mar2025 22:11:01.256] [Server thread/DEBUG] [pointblank/]: 61256 obtained hit results
+[20Mar2025 22:11:01.256] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5fb51363
+[20Mar2025 22:11:01.256] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.51, y=77.00, z=729.35] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.51, y=77.00, z=729.35]
+[20Mar2025 22:11:01.339] [Server thread/DEBUG] [pointblank/]: 61339 handling client fire request
+[20Mar2025 22:11:01.339] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 6
+[20Mar2025 22:11:01.340] [Server thread/DEBUG] [pointblank/]: 61340 - obtained hit result in 0ms
+[20Mar2025 22:11:01.340] [Server thread/DEBUG] [pointblank/]: 61340 obtained hit results
+[20Mar2025 22:11:01.340] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@46b9b564
+[20Mar2025 22:11:01.340] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.39, y=77.00, z=729.17] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.39, y=77.00, z=729.17]
+[20Mar2025 22:11:01.434] [Server thread/DEBUG] [pointblank/]: 61434 handling client fire request
+[20Mar2025 22:11:01.434] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 5
+[20Mar2025 22:11:01.434] [Server thread/DEBUG] [pointblank/]: 61434 - obtained hit result in 0ms
+[20Mar2025 22:11:01.435] [Server thread/DEBUG] [pointblank/]: 61435 obtained hit results
+[20Mar2025 22:11:01.435] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5c884803
+[20Mar2025 22:11:01.435] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.15, y=77.00, z=728.81] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.15, y=77.00, z=728.81]
+[20Mar2025 22:11:01.501] [Server thread/DEBUG] [pointblank/]: 61501 handling client fire request
+[20Mar2025 22:11:01.501] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 4
+[20Mar2025 22:11:01.502] [Server thread/DEBUG] [pointblank/]: 61502 - obtained hit result in 0ms
+[20Mar2025 22:11:01.502] [Server thread/DEBUG] [pointblank/]: 61502 obtained hit results
+[20Mar2025 22:11:01.502] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f97dc46
+[20Mar2025 22:11:01.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.03, y=77.00, z=728.64] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=827.03, y=77.00, z=728.64]
+[20Mar2025 22:11:01.585] [Server thread/DEBUG] [pointblank/]: 61585 handling client fire request
+[20Mar2025 22:11:01.585] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 3
+[20Mar2025 22:11:01.586] [Server thread/DEBUG] [pointblank/]: 61586 - obtained hit result in 0ms
+[20Mar2025 22:11:01.586] [Server thread/DEBUG] [pointblank/]: 61586 obtained hit results
+[20Mar2025 22:11:01.586] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@584efcdc
+[20Mar2025 22:11:01.586] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.79, y=77.00, z=728.28] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.79, y=77.00, z=728.28]
+[20Mar2025 22:11:01.690] [Server thread/DEBUG] [pointblank/]: 61690 handling client fire request
+[20Mar2025 22:11:01.691] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 2
+[20Mar2025 22:11:01.691] [Server thread/DEBUG] [pointblank/]: 61691 - obtained hit result in 0ms
+[20Mar2025 22:11:01.691] [Server thread/DEBUG] [pointblank/]: 61691 obtained hit results
+[20Mar2025 22:11:01.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53576024
+[20Mar2025 22:11:01.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.55, y=77.00, z=727.92] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.55, y=77.00, z=727.92]
+[20Mar2025 22:11:01.745] [Server thread/DEBUG] [pointblank/]: 61745 handling client fire request
+[20Mar2025 22:11:01.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 1
+[20Mar2025 22:11:01.746] [Server thread/DEBUG] [pointblank/]: 61746 - obtained hit result in 1ms
+[20Mar2025 22:11:01.746] [Server thread/DEBUG] [pointblank/]: 61746 obtained hit results
+[20Mar2025 22:11:01.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41808f02
+[20Mar2025 22:11:01.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.43, y=77.00, z=727.74] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.43, y=77.00, z=727.74]
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: 61836 handling client fire request
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 0
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: 61836 - obtained hit result in 0ms
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: 61836 obtained hit results
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@79f8739
+[20Mar2025 22:11:01.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.18, y=77.00, z=727.38] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=826.18, y=77.00, z=727.38]
+[20Mar2025 22:11:05.412] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:11:09.903] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;1127218512,-664651423,-1764107698,-1607275377],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:11:10.806] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:11:11.602] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:11:12.303] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;1127218512,-664651423,-1764107698,-1607275377],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:11:12.857] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[20Mar2025 22:12:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:12:52.655] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1888709208 to 25
+[20Mar2025 22:12:55.059] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1886453092 to 25
+[20Mar2025 22:14:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: 67437 handling client fire request
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 24
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: 67437 - obtained hit result in 0ms
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: 67437 obtained hit results
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@509053b0
+[20Mar2025 22:14:27.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: 67501 handling client fire request
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 23
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: 67501 - obtained hit result in 0ms
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: 67501 obtained hit results
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5af28570
+[20Mar2025 22:14:27.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: 67585 handling client fire request
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 22
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: 67585 - obtained hit result in 0ms
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: 67585 obtained hit results
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@d8e1de0
+[20Mar2025 22:14:27.585] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.687] [Server thread/DEBUG] [pointblank/]: 67687 handling client fire request
+[20Mar2025 22:14:27.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 21
+[20Mar2025 22:14:27.687] [Server thread/DEBUG] [pointblank/]: 67687 - obtained hit result in 0ms
+[20Mar2025 22:14:27.687] [Server thread/DEBUG] [pointblank/]: 67687 obtained hit results
+[20Mar2025 22:14:27.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7e11b987
+[20Mar2025 22:14:27.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: 67758 handling client fire request
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 20
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: 67758 - obtained hit result in 0ms
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: 67758 obtained hit results
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c4e7826
+[20Mar2025 22:14:27.758] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: 67841 handling client fire request
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 19
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: 67841 - obtained hit result in 0ms
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: 67841 obtained hit results
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6259b1da
+[20Mar2025 22:14:27.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:27.936] [Server thread/DEBUG] [pointblank/]: 67936 handling client fire request
+[20Mar2025 22:14:27.936] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 18
+[20Mar2025 22:14:27.937] [Server thread/DEBUG] [pointblank/]: 67937 - obtained hit result in 0ms
+[20Mar2025 22:14:27.937] [Server thread/DEBUG] [pointblank/]: 67937 obtained hit results
+[20Mar2025 22:14:27.937] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1c43e4ad
+[20Mar2025 22:14:27.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: 68001 handling client fire request
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 17
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: 68001 - obtained hit result in 0ms
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: 68001 obtained hit results
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@605997ea
+[20Mar2025 22:14:28.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: 68085 handling client fire request
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 16
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: 68085 - obtained hit result in 0ms
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: 68085 obtained hit results
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@121006cb
+[20Mar2025 22:14:28.085] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: 68186 handling client fire request
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 15
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: 68186 - obtained hit result in 0ms
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: 68186 obtained hit results
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b926e53
+[20Mar2025 22:14:28.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: 68255 handling client fire request
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 14
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: 68255 - obtained hit result in 0ms
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: 68255 obtained hit results
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@14e2d685
+[20Mar2025 22:14:28.255] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: 68343 handling client fire request
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 13
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: 68343 - obtained hit result in 0ms
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: 68343 obtained hit results
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3828f534
+[20Mar2025 22:14:28.343] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.437] [Server thread/DEBUG] [pointblank/]: 68437 handling client fire request
+[20Mar2025 22:14:28.437] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 12
+[20Mar2025 22:14:28.438] [Server thread/DEBUG] [pointblank/]: 68438 - obtained hit result in 0ms
+[20Mar2025 22:14:28.438] [Server thread/DEBUG] [pointblank/]: 68438 obtained hit results
+[20Mar2025 22:14:28.438] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a9c8aa4
+[20Mar2025 22:14:28.438] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.508] [Server thread/DEBUG] [pointblank/]: 68508 handling client fire request
+[20Mar2025 22:14:28.508] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 11
+[20Mar2025 22:14:28.508] [Server thread/DEBUG] [pointblank/]: 68508 - obtained hit result in 0ms
+[20Mar2025 22:14:28.509] [Server thread/DEBUG] [pointblank/]: 68509 obtained hit results
+[20Mar2025 22:14:28.509] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22f48952
+[20Mar2025 22:14:28.509] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: 68593 handling client fire request
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 10
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: 68593 - obtained hit result in 0ms
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: 68593 obtained hit results
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@20a02577
+[20Mar2025 22:14:28.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: 68686 handling client fire request
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 9
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: 68686 - obtained hit result in 0ms
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: 68686 obtained hit results
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f5ef502
+[20Mar2025 22:14:28.686] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: 68757 handling client fire request
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 8
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: 68757 - obtained hit result in 0ms
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: 68757 obtained hit results
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@11d99de7
+[20Mar2025 22:14:28.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: 68841 handling client fire request
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 7
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: 68841 - obtained hit result in 0ms
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: 68841 obtained hit results
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@17e13897
+[20Mar2025 22:14:28.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:28.934] [Server thread/DEBUG] [pointblank/]: 68934 handling client fire request
+[20Mar2025 22:14:28.934] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 6
+[20Mar2025 22:14:28.934] [Server thread/DEBUG] [pointblank/]: 68934 - obtained hit result in 0ms
+[20Mar2025 22:14:28.934] [Server thread/DEBUG] [pointblank/]: 68934 obtained hit results
+[20Mar2025 22:14:28.934] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@364b3c81
+[20Mar2025 22:14:28.935] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: 69003 handling client fire request
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 5
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: 69003 - obtained hit result in 0ms
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: 69003 obtained hit results
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1f6d9141
+[20Mar2025 22:14:29.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: 69087 handling client fire request
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 4
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: 69087 - obtained hit result in 0ms
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: 69087 obtained hit results
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1abef8e7
+[20Mar2025 22:14:29.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: 69186 handling client fire request
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 3
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: 69186 - obtained hit result in 0ms
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: 69186 obtained hit results
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@48d6b651
+[20Mar2025 22:14:29.186] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.254] [Server thread/DEBUG] [pointblank/]: 69254 handling client fire request
+[20Mar2025 22:14:29.254] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 2
+[20Mar2025 22:14:29.254] [Server thread/DEBUG] [pointblank/]: 69254 - obtained hit result in 0ms
+[20Mar2025 22:14:29.254] [Server thread/DEBUG] [pointblank/]: 69254 obtained hit results
+[20Mar2025 22:14:29.254] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7141a3ee
+[20Mar2025 22:14:29.255] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.338] [Server thread/DEBUG] [pointblank/]: 69338 handling client fire request
+[20Mar2025 22:14:29.338] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 1
+[20Mar2025 22:14:29.338] [Server thread/DEBUG] [pointblank/]: 69338 - obtained hit result in 0ms
+[20Mar2025 22:14:29.338] [Server thread/DEBUG] [pointblank/]: 69338 obtained hit results
+[20Mar2025 22:14:29.338] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f416a63
+[20Mar2025 22:14:29.339] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: 69439 handling client fire request
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 0
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: 69439 - obtained hit result in 0ms
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: 69439 obtained hit results
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6efaa282
+[20Mar2025 22:14:29.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=823.04, y=78.00, z=725.01]
+[20Mar2025 22:14:30.485] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1927291279 to 25
+[20Mar2025 22:14:31.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:14:31.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:14:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
+[20Mar2025 22:15:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: 31388 handling client fire request
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1624774605 to 13
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: 31388 - obtained hit result in 0ms
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: 31388 obtained hit results
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7fc43c26
+[20Mar2025 22:15:31.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38]
+[20Mar2025 22:15:33.388] [Server thread/DEBUG] [pointblank/]: 33388 handling client fire request
+[20Mar2025 22:15:33.389] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1624774605 to 12
+[20Mar2025 22:15:33.389] [Server thread/DEBUG] [pointblank/]: 33389 - obtained hit result in 0ms
+[20Mar2025 22:15:33.389] [Server thread/DEBUG] [pointblank/]: 33389 obtained hit results
+[20Mar2025 22:15:33.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@771e00f9
+[20Mar2025 22:15:33.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38]
+[20Mar2025 22:15:34.436] [Server thread/DEBUG] [pointblank/]: 34436 handling client fire request
+[20Mar2025 22:15:34.436] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1624774605 to 11
+[20Mar2025 22:15:34.436] [Server thread/DEBUG] [pointblank/]: 34436 - obtained hit result in 0ms
+[20Mar2025 22:15:34.436] [Server thread/DEBUG] [pointblank/]: 34436 obtained hit results
+[20Mar2025 22:15:34.436] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51d1ce22
+[20Mar2025 22:15:34.437] [Server thread/DEBUG] [pointblank/]: Creating state f076df1a-9839-47f6-8d2b-35623fc82de8
+[20Mar2025 22:15:34.437] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=843.57, y=79.00, z=716.38]
+[20Mar2025 22:16:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned juanmanuel123xD7]
+[20Mar2025 22:16:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned kesito1]
+[20Mar2025 22:17:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
+[20Mar2025 22:17:34.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
+[20Mar2025 22:18:48.887] [Server thread/DEBUG] [pointblank/]: 28887 handling client fire request
+[20Mar2025 22:18:48.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1624774605 to 10
+[20Mar2025 22:18:48.888] [Server thread/DEBUG] [pointblank/]: 28888 - obtained hit result in 0ms
+[20Mar2025 22:18:48.888] [Server thread/DEBUG] [pointblank/]: 28888 obtained hit results
+[20Mar2025 22:18:48.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12db80e6
+[20Mar2025 22:18:48.888] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=1033.66, y=83.00, z=929.70] sends hit scan notification to ServerPlayer['correcamin0'/23037, l='ServerLevel[world]', x=1033.66, y=83.00, z=929.70]
+[20Mar2025 22:19:07.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
+[20Mar2025 22:19:07.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
+[20Mar2025 22:19:30.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:19:31.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:20:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Mar2025 22:20:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Mar2025 22:20:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Mar2025 22:20:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Mar2025 22:20:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[20Mar2025 22:20:19.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 22:20:19.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Mar2025 22:20:19.890] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[20Mar2025 22:20:19.890] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
