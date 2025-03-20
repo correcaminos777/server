@@ -886,3 +886,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Mar2025 21:09:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
 [20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
 [20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:09:57.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:49439] logged in with entity id 14052 at (194.80075444439697, -18.0, 257.69999998807907)
+[20Mar2025 21:09:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:10:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:10:05.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:10:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:10:25.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:42205] logged in with entity id 14244 at (194.80075444439697, -18.0, 257.69999998807907)
+[20Mar2025 21:10:25.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:10:35.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:11:03.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[20Mar2025 21:11:09.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> oe contreras
+[20Mar2025 21:11:16.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by juanmanuel123xD7
+[20Mar2025 21:11:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:11:21.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:11:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:11:37.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:53601] logged in with entity id 14575 at (193.69999998807907, -19.0, 254.30000001192093)
+[20Mar2025 21:11:37.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:11:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:11:39.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:11:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:12:04.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:53803] logged in with entity id 14675 at (193.69999998807907, -19.0, 254.30000001192093)
+[20Mar2025 21:12:04.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:12:06.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:12:06.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:12:06.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:12:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 has made the advancement [Ol' Betsy]
+[20Mar2025 21:12:30.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 has made the advancement [Take Aim]
+[20Mar2025 21:13:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:13:53.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk ponga q se pierdan las osas
+[20Mar2025 21:14:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa k
+[20Mar2025 21:14:02.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@930ad53[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:33697) lost connection: Disconnected
+[20Mar2025 21:14:07.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> pa q sea dificil
+[20Mar2025 21:14:42.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:35665] logged in with entity id 15222 at (193.69999998807907, -19.0, 254.30000001192093)
+[20Mar2025 21:14:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:14:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:15:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:15:25.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:15:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:15:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk creeme un escudo
+[20Mar2025 21:15:29.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> y una arma
+[20Mar2025 21:15:34.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> huy pero ud si pide mamon
+[20Mar2025 21:15:40.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vamos a explorar mas bien
+[20Mar2025 21:16:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> deme la madera
+[20Mar2025 21:16:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pase la maderaaaaaaaaaa
+[20Mar2025 21:16:31.989] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7639efba[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:35445) lost connection: Disconnected
+[20Mar2025 21:17:05.634] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44ec2ed0[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:48787) lost connection: Disconnected
+[20Mar2025 21:17:07.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:17:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> le guste o que
+[20Mar2025 21:17:18.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> kakaka
+[20Mar2025 21:17:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> a la pata mia
+[20Mar2025 21:17:21.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> akaaka
+[20Mar2025 21:17:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> a cada rato
+[20Mar2025 21:17:24.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> callse
+[20Mar2025 21:17:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 fell from a high place
+[20Mar2025 21:17:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:18:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:18:10.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:52985] logged in with entity id 15826 at (189.23561049472355, -19.0, 256.30000001192093)
+[20Mar2025 21:18:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:19:01.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 died because of Devestated
+[20Mar2025 21:19:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:19:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk como me pongo modo spec?
+[20Mar2025 21:19:34.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa k
+[20Mar2025 21:19:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> buscar una aldea
+[20Mar2025 21:19:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
+[20Mar2025 21:19:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> digame
+[20Mar2025 21:19:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> esa vez solo fue pq era la primera
+[20Mar2025 21:20:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> quiere una espada
