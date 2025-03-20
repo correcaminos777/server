@@ -1068,3 +1068,24 @@ Reason: jah
 [20Mar2025 21:39:49.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned kesito1: Banned by an operator.
 [20Mar2025 21:39:49.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kesito1 lost connection: You are banned from this server
 [20Mar2025 21:39:49.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 left the game
+[20Mar2025 21:40:45.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20672ab3[id=<null>,name=kesito1,properties={},legacy=false] (/127.59.193.86:53313) lost connection: Disconnected
+[20Mar2025 21:41:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player isn't banned
+[20Mar2025 21:41:32.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3fcb2503[id=7ba5a2fe-33bc-3613-bf2d-35be7f53c588,name=correcamin0,properties={},legacy=false] (/127.28.69.233:47993): You are banned from this server.
+Reason: Banned by an operator.
+[20Mar2025 21:41:32.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fcb2503[id=7ba5a2fe-33bc-3613-bf2d-35be7f53c588,name=correcamin0,properties={},legacy=false] (/127.28.69.233:47993) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20Mar2025 21:41:32.986] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Mar2025 21:41:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned correcamin0
+[20Mar2025 21:42:25.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9ca259[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:36073) lost connection: Disconnected
+[20Mar2025 21:42:27.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:42:54.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@da4073f[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:52675) lost connection: Disconnected
+[20Mar2025 21:43:26.992] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7276c3f3[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:37977) lost connection: Disconnected
+[20Mar2025 21:43:35.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:52425] logged in with entity id 23037 at (667.8377907137208, 135.0, 957.0350420638964)
+[20Mar2025 21:43:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
+[20Mar2025 21:43:52.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/23170, l='ServerLevel[world]', x=780.36, y=75.00, z=996.57] died, message: 'Weaponsmith died'
+[20Mar2025 21:44:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[20Mar2025 21:44:43.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[20Mar2025 21:45:36.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 3.0363734752440905,0.0,10.289555297092647
+[20Mar2025 21:46:02.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (646.1080458387733, 138.0, 929.8533134460449) too far away from hit block BlockPos{x=646, y=136, z=929}.
+[20Mar2025 21:46:03.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (646.3455614745617, 138.0, 929.8379117846489) too far away from hit block BlockPos{x=646, y=136, z=929}.
+[20Mar2025 21:46:17.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
