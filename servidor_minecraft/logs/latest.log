@@ -635,3 +635,208 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Mar2025 20:36:55.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [20Mar2025 20:37:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
 [20Mar2025 20:37:37.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> yupiiii
+[20Mar2025 20:37:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no pierdan el sitio
+[20Mar2025 20:37:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el de la aldea
+[20Mar2025 20:38:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> de qye sirve el pedernak?
+[20Mar2025 20:38:10.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8029ms or 160 ticks behind
+[20Mar2025 20:38:10.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 moved too quickly! 9.348917923612362,-1.0,-4.040183008608665
+[20Mar2025 20:38:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> de qye sirve el pedernak?
+[20Mar2025 20:38:11.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> d q sirve el pedernal
+[20Mar2025 20:38:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no c
+[20Mar2025 20:38:56.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
+[20Mar2025 20:38:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
+[20Mar2025 20:38:56.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Disconnected
+[20Mar2025 20:38:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:38:56.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kesito1 lost connection: Disconnected
+[20Mar2025 20:38:56.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 left the game
+[20Mar2025 20:38:57.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31863ms or 637 ticks behind
+[20Mar2025 20:39:08.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:56869] logged in with entity id 4215 at (1198.2355792147355, 87.0, 1107.407166684802)
+[20Mar2025 20:39:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:39:20.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:60793] logged in with entity id 4579 at (228.11166008194556, 28.0, 253.74390648446433)
+[20Mar2025 20:39:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
+[20Mar2025 20:40:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk hago una maquina de hilo infinito
+[20Mar2025 20:40:46.390] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[20Mar2025 20:40:46.391] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a4c94bb[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:55369): Unexpected custom data from client
+[20Mar2025 20:40:46.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a4c94bb[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:55369) lost connection: Unexpected custom data from client
+[20Mar2025 20:41:30.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:41:53.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Disconnected
+[20Mar2025 20:41:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:41:53.434] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Mar2025 20:42:09.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kesito1[/127.59.193.86:34567] logged in with entity id 5574 at (227.099806832318, 28.0, 250.29915993126633)
+[20Mar2025 20:42:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 joined the game
+[20Mar2025 20:42:21.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54687] logged in with entity id 5611 at (1204.3162785024172, 86.9375, 1109.6265517909558)
+[20Mar2025 20:42:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:42:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
+[20Mar2025 20:42:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> entonce
+[20Mar2025 20:42:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
+[20Mar2025 20:42:43.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> srry
+[20Mar2025 20:42:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> queria ver la animacion
+[20Mar2025 20:42:52.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=250}
+[20Mar2025 20:42:52.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:42:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:42:52.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> kaka
+[20Mar2025 20:42:52.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=226, y=27, z=251}
+[20Mar2025 20:42:52.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=226, y=27, z=251}
+[20Mar2025 20:42:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=226, y=27, z=251}
+[20Mar2025 20:42:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 burned to death
+[20Mar2025 20:42:53.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
+[20Mar2025 20:42:54.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:42:54.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:42:55.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
+[20Mar2025 20:42:55.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:42:55.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=228, y=27, z=251}
+[20Mar2025 20:42:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> XD
+[20Mar2025 20:42:59.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=228, y=27, z=251}
+[20Mar2025 20:43:00.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:01.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
+[20Mar2025 20:43:01.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:01.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:01.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:05.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:05.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
+[20Mar2025 20:43:07.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=225, y=28, z=251}
+[20Mar2025 20:43:10.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=27, z=250} BlockPos{x=223, y=27, z=250}
+[20Mar2025 20:43:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=27, z=250} BlockPos{x=222, y=26, z=250}
+[20Mar2025 20:43:14.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya care mond
+[20Mar2025 20:43:22.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
+[20Mar2025 20:43:23.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=228, y=27, z=252}
+[20Mar2025 20:43:57.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.28.69.233:46629] logged in with entity id 6386 at (-1.5, 69.0, -2.5)
+[20Mar2025 20:43:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
+[20Mar2025 20:43:58.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[20Mar2025 20:44:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras va a jugar?
+[20Mar2025 20:44:32.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:44:48.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[20Mar2025 20:44:51.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Contrexx24 to correcamin0]
+[20Mar2025 20:44:57.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Contrexx24 a server operator]
+[20Mar2025 20:45:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme un arma
+[20Mar2025 20:45:23.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras gay
+[20Mar2025 20:45:29.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
+[20Mar2025 20:45:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> usted cabron
+[20Mar2025 20:45:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
+[20Mar2025 20:45:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
+[20Mar2025 20:45:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras gay
+[20Mar2025 20:45:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
+[20Mar2025 20:45:56.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme la pistola pa verla
+[20Mar2025 20:46:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
+[20Mar2025 20:46:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme la pistola pa verla
+[20Mar2025 20:46:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Ram
+[20Mar2025 20:46:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> vendo shulker
+[20Mar2025 20:46:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
+[20Mar2025 20:47:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ramirez deme hierro necesito
+[20Mar2025 20:47:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
+[20Mar2025 20:47:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:47:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> deselo a contreras
+[20Mar2025 20:47:29.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:47:29.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:47:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:47:35.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> me voy a salir
+[20Mar2025 20:47:35.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:47:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> me voy a salir
+[20Mar2025 20:47:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:47:42.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo
+[20Mar2025 20:47:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el pico
+[20Mar2025 20:47:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:47:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Contrexx24 to correcamin0]
+[20Mar2025 20:47:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> archila quieto
+[20Mar2025 20:48:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:48:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
+[20Mar2025 20:48:07.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya we
+[20Mar2025 20:48:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Sweet Dreams]
+[20Mar2025 20:48:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
+[20Mar2025 20:48:17.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk deme hierro
+[20Mar2025 20:48:22.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Timed out
+[20Mar2025 20:48:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:48:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no tengo
+[20Mar2025 20:48:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hp como q no mija
+[20Mar2025 20:48:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by correcamin0
+[20Mar2025 20:48:38.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:35767] logged in with entity id 8263 at (227.3663846997302, 28.0, 251.4811102734697)
+[20Mar2025 20:48:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:48:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
+[20Mar2025 20:48:52.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Isn't It Iron Pick]
+[20Mar2025 20:49:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 has made the advancement [Sweet Dreams]
+[20Mar2025 20:49:28.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 20:49:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 has completed the challenge [We Union!]
+[20Mar2025 20:49:49.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:50:00.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> donde esta kesito
+[20Mar2025 20:50:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to kesito1]
+[20Mar2025 20:50:16.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Diamonds!]
+[20Mar2025 20:50:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Acquire Hardware]
+[20Mar2025 20:50:36.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 20:51:00.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 20:51:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
+[20Mar2025 20:51:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
+[20Mar2025 20:51:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[20Mar2025 20:51:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
+[20Mar2025 20:51:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> entonce
+[20Mar2025 20:51:45.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to kesito1]
+[20Mar2025 20:51:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 20:52:01.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 20:52:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:52:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:52:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> archila lo voy a sacar
+[20Mar2025 20:52:36.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:52:36.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:52:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:52:39.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
+[20Mar2025 20:52:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Stone Age]
+[20Mar2025 20:52:54.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:46365] logged in with entity id 9094 at (231.45378099982116, 23.0, 267.18544426128034)
+[20Mar2025 20:52:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:53:11.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:53:16.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> mija saque a archila
+[20Mar2025 20:53:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
+[20Mar2025 20:53:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:53:28.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:53:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:53:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Clicker
+[20Mar2025 20:53:40.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by correcamin0
+[20Mar2025 20:53:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> me confundi
+[20Mar2025 20:53:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vi a los 2 negros
+[20Mar2025 20:54:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> abreme we
+[20Mar2025 20:54:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> armense su casa propia
+[20Mar2025 20:54:32.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[20Mar2025 20:54:34.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54999] logged in with entity id 9454 at (226.23315664006762, 28.0, 250.22007149448413)
+[20Mar2025 20:54:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:54:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:54:51.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=221, y=28, z=249}
+[20Mar2025 20:54:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
+[20Mar2025 20:55:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:55:00.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:55:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:55:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
+[20Mar2025 20:55:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que tipo tan mamon
+[20Mar2025 20:55:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> real
+[20Mar2025 20:55:14.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:52643] logged in with entity id 9596 at (226.56187509135697, 28.0, 252.64419595624406)
+[20Mar2025 20:55:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:55:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que tipo tan mamon
+[20Mar2025 20:55:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:55:21.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:55:21.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:55:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo 6 de hierro
+[20Mar2025 20:55:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pls
+[20Mar2025 20:55:38.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:51377] logged in with entity id 9687 at (226.56187509135697, 28.0, 252.64419595624406)
+[20Mar2025 20:55:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:55:44.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 20:55:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:55:45.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:55:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:56:14.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[20Mar2025 20:57:19.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:50227] logged in with entity id 10080 at (226.56187509135697, 28.0, 252.64419595624406)
+[20Mar2025 20:57:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:57:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 20:57:27.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 20:57:27.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 20:57:42.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk vengan mire mi casa
+[20Mar2025 20:57:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Walker
+[20Mar2025 20:58:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> como la ve
+[20Mar2025 20:58:10.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54139] logged in with entity id 10280 at (226.56187509135697, 28.0, 252.64419595624406)
+[20Mar2025 20:58:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 20:58:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by Skeleton
+[20Mar2025 20:58:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> bonita
+[20Mar2025 20:58:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame una puerta
+[20Mar2025 20:58:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa cagar
+[20Mar2025 20:58:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ajaja
+[20Mar2025 20:58:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame una puerta
+[20Mar2025 20:58:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> voy por madera
+[20Mar2025 20:59:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> r
+[20Mar2025 20:59:10.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Timed out
+[20Mar2025 20:59:10.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
