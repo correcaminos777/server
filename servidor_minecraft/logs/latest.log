@@ -840,3 +840,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Mar2025 20:59:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> r
 [20Mar2025 20:59:10.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Timed out
 [20Mar2025 20:59:10.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
+[20Mar2025 21:00:09.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:00:40.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:01:15.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:01:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:01:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Mercenary
+[20Mar2025 21:01:41.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:01:42.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:01:46.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk vengan mire mi casa
+[20Mar2025 21:01:50.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to Contrexx24]
+[20Mar2025 21:01:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:02:02.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:02:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[20Mar2025 21:02:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:03:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> grax
+[20Mar2025 21:03:36.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66eb79b8[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:55473) lost connection: Disconnected
+[20Mar2025 21:03:37.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=28, z=250} BlockPos{x=225, y=27, z=251}
+[20Mar2025 21:03:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
+[20Mar2025 21:03:48.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:47355] logged in with entity id 12112 at (228.08893208036224, 28.0, 250.92562639851693)
+[20Mar2025 21:03:48.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
+[20Mar2025 21:03:52.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=28, z=250} BlockPos{x=225, y=27, z=249}
+[20Mar2025 21:03:54.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=28, z=250} BlockPos{x=224, y=27, z=251}
+[20Mar2025 21:04:48.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk tiene 32 de hierro
+[20Mar2025 21:04:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> no para q
+[20Mar2025 21:04:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> jumm
+[20Mar2025 21:05:36.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=28, z=252} BlockPos{x=223, y=27, z=252}
+[20Mar2025 21:05:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 burned to death
+[20Mar2025 21:05:40.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=226, y=27, z=252}
+[20Mar2025 21:06:02.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:06:20.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:07:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to correcamin0]
+[20Mar2025 21:07:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Diamonds!]
+[20Mar2025 21:08:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to Contrexx24]
+[20Mar2025 21:08:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:08:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
+[20Mar2025 21:08:25.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:08:29.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[20Mar2025 21:08:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was slain by Zombie
+[20Mar2025 21:09:00.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:09:00.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:09:00.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[20Mar2025 21:09:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Assasin Black Ops
+[20Mar2025 21:09:10.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Mar2025 21:09:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to Contrexx24]
+[20Mar2025 21:09:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
+[20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
+[20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
