@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "7ba5a2fe-33bc-3613-bf2d-35be7f53c588",
+    "name": "correcamin0",
+    "created": "2025-03-20 21:39:26 +0000",
+    "source": "kesito1",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "248cd995-81a9-3853-be49-2d004f28b84a",
+    "name": "juanmanuel123xD7",
+    "created": "2025-03-20 21:31:15 +0000",
+    "source": "correcamin0",
+    "expires": "forever",
+    "reason": "jah"
+  },
+  {
+    "uuid": "2ec732a5-c8a8-34b1-9e70-2c521302d28e",
+    "name": "kesito1",
+    "created": "2025-03-20 21:39:49 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
