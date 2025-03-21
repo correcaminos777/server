@@ -1,15 +1,15 @@
-[20Mar2025 20:27:38.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Mar2025 20:27:38.486] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[20Mar2025 20:27:41.415] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Mar2025 20:27:41.527] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Mar2025 20:27:41.905] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Mar2025 20:27:41.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Mar2025 20:27:41.908] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Mar2025 20:27:41.909] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Mar2025 20:27:42.409] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[20Mar2025 20:27:45.034] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Mar2025 20:27:45.135] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Mar2025 20:27:45.434] [main/INFO] [Puzzles Lib/]: Loading 30 mods:
+[21Mar2025 22:19:31.126] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Mar2025 22:19:31.132] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[21Mar2025 22:19:31.817] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Mar2025 22:19:31.871] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Mar2025 22:19:32.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 22:19:32.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 22:19:32.162] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 22:19:32.164] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 22:19:32.491] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[21Mar2025 22:19:34.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Mar2025 22:19:34.209] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Mar2025 22:19:34.375] [main/INFO] [Puzzles Lib/]: Loading 30 mods:
 	- aiimprovements 0.5.2
 	- apocalypsenow 3.0.4
 	- curios 5.12.1+1.20.1
@@ -40,41 +40,41 @@
 	- zombie_island 0.1.3.3
 	- zombiekit 2.1.1
 	- zombiesmore 2.0.0
-[20Mar2025 20:27:46.526] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[20Mar2025 20:27:50.225] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[21Mar2025 22:19:35.324] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[21Mar2025 22:19:37.973] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[20Mar2025 20:27:55.889] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[20Mar2025 20:27:56.645] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[20Mar2025 20:27:56.887] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[20Mar2025 20:27:56.992] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Mar2025 20:27:56.992] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Mar2025 20:28:18.787] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[20Mar2025 20:28:18.788] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[20Mar2025 20:28:18.789] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[20Mar2025 20:28:18.840] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[20Mar2025 20:28:18.871] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[20Mar2025 20:28:19.154] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[20Mar2025 20:28:19.386] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[20Mar2025 20:28:19.386] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[20Mar2025 20:28:19.386] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[20Mar2025 20:28:19.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[20Mar2025 20:28:19.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[20Mar2025 20:28:19.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[20Mar2025 20:28:19.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[20Mar2025 20:28:19.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[20Mar2025 20:28:19.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[20Mar2025 20:28:19.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[20Mar2025 20:28:19.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[20Mar2025 20:28:19.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
-[20Mar2025 20:28:19.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[20Mar2025 20:28:19.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[20Mar2025 20:28:19.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Mar2025 20:28:20.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[20Mar2025 20:28:22.407] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Mar2025 20:28:23.955] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[20Mar2025 20:28:23.956] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[20Mar2025 20:28:30.128] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
-[20Mar2025 20:28:30.479] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[21Mar2025 22:19:41.699] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[21Mar2025 22:19:42.241] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[21Mar2025 22:19:42.556] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[21Mar2025 22:19:42.663] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Mar2025 22:19:42.663] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Mar2025 22:19:57.143] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[21Mar2025 22:19:57.143] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[21Mar2025 22:19:57.144] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[21Mar2025 22:19:57.203] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[21Mar2025 22:19:57.229] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[21Mar2025 22:19:57.259] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[21Mar2025 22:19:57.387] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[21Mar2025 22:19:57.388] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[21Mar2025 22:19:57.388] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[21Mar2025 22:19:57.388] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[21Mar2025 22:19:57.388] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[21Mar2025 22:19:57.389] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[21Mar2025 22:19:57.389] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[21Mar2025 22:19:57.389] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[21Mar2025 22:19:57.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[21Mar2025 22:19:57.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[21Mar2025 22:19:57.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[21Mar2025 22:19:57.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
+[21Mar2025 22:19:57.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[21Mar2025 22:19:57.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[21Mar2025 22:19:57.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Mar2025 22:19:58.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[21Mar2025 22:20:00.755] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Mar2025 22:20:02.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[21Mar2025 22:20:02.613] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[21Mar2025 22:20:08.901] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
+[21Mar2025 22:20:09.266] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -126,7 +126,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20Mar2025 20:28:30.525] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
+[21Mar2025 22:20:09.313] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -178,8 +178,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20Mar2025 20:28:30.730] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[20Mar2025 20:28:30.773] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
+[21Mar2025 22:20:09.496] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[21Mar2025 22:20:09.542] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -208,7 +208,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.776] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
+[21Mar2025 22:20:09.544] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -237,7 +237,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.780] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
+[21Mar2025 22:20:09.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -266,7 +266,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.783] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
+[21Mar2025 22:20:09.551] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -295,7 +295,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
+[21Mar2025 22:20:09.564] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -324,7 +324,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
+[21Mar2025 22:20:09.571] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23170!/:?]
@@ -357,7 +357,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestpl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
+[21Mar2025 22:20:09.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -386,7 +386,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.824] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
+[21Mar2025 22:20:09.599] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -415,7 +415,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
+[21Mar2025 22:20:09.608] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -444,7 +444,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
+[21Mar2025 22:20:09.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -473,7 +473,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.847] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
+[21Mar2025 22:20:09.620] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -502,7 +502,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.849] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
+[21Mar2025 22:20:09.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -531,608 +531,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Mar2025 20:28:30.870] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[20Mar2025 20:28:30.985] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@5d7f27a4, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1b0224db}, criteria={kaboom_0=net.minecraft.advancements.Criterion@44834c49}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[20Mar2025 20:28:30.985] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1306 advancements
-[20Mar2025 20:28:30.994] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[20Mar2025 20:28:31.001] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[20Mar2025 20:28:32.309] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[20Mar2025 20:28:32.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Mar2025 20:28:32.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Mar2025 20:28:32.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Mar2025 20:28:32.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Mar2025 20:28:32.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Mar2025 20:28:32.690] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Mar2025 20:28:32.790] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Mar2025 20:28:32.791] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Mar2025 20:28:32.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Mar2025 20:28:32.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Mar2025 20:28:32.826] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[20Mar2025 20:28:32.828] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[20Mar2025 20:28:32.829] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[20Mar2025 20:28:33.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Mar2025 20:28:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Mar2025 20:28:47.368] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.369] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.372] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.373] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.375] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.376] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.377] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:47.536] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Mar2025 20:28:48.036] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[20Mar2025 20:28:48.539] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[20Mar2025 20:28:48.596] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10561 ms
-[20Mar2025 20:28:48.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.781s)! For help, type "help"
-[20Mar2025 20:28:48.625] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Mar2025 20:29:07.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:37259] logged in with entity id 105 at (1140.444319449968, 84.41999998688698, 1054.346161571485)
-[20Mar2025 20:29:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
-[20Mar2025 20:29:09.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
-[20Mar2025 20:30:20.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:33203] logged in with entity id 532 at (1140.3943196614673, 84.0, 1053.759811972852)
-[20Mar2025 20:30:20.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:30:21.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Gunpowder] to correcamin0]
-[20Mar2025 20:30:51.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a42426a[id=<null>,name=kesito1,properties={},legacy=false] (/127.59.193.86:47689) lost connection: Disconnected
-[20Mar2025 20:30:57.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4197df67[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:34643) lost connection: Disconnected
-[20Mar2025 20:31:04.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kesito1[/127.59.193.86:35581] logged in with entity id 798 at (788.1404301563362, 85.52146051088742, 730.5748709926478)
-[20Mar2025 20:31:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 joined the game
-[20Mar2025 20:31:05.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/809, l='ServerLevel[world]', x=835.12, y=77.00, z=766.93]
-[20Mar2025 20:31:06.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/880, l='ServerLevel[world]', x=733.07, y=75.00, z=656.94]
-[20Mar2025 20:31:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 fell from a high place
-[20Mar2025 20:31:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk murillo tp
-[20Mar2025 20:31:16.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> jaja
-[20Mar2025 20:31:16.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:31:17.778] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[20Mar2025 20:31:17.779] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6af01c06[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:43719): Unexpected custom data from client
-[20Mar2025 20:31:17.803] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6af01c06[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:43719) lost connection: Unexpected custom data from client
-[20Mar2025 20:31:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> jaja
-[20Mar2025 20:31:23.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:31:56.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vengan tp
-[20Mar2025 20:32:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was slain by juanmanuel123xD7
-[20Mar2025 20:32:04.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:32:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:32:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> tp
-[20Mar2025 20:32:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
-[20Mar2025 20:32:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> diavlo
-[20Mar2025 20:32:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 froze to death
-[20Mar2025 20:32:33.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:32:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> diavlo
-[20Mar2025 20:32:36.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:33:11.546] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[20Mar2025 20:33:11.547] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1ed16775[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:34645): Unexpected custom data from client
-[20Mar2025 20:33:11.588] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ed16775[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:34645) lost connection: Unexpected custom data from client
-[20Mar2025 20:33:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 went up in flames
-[20Mar2025 20:33:55.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/155, l='ServerLevel[world]', x=1193.94, y=89.19, z=1116.12] died, message: 'Toolsmith went up in flames'
-[20Mar2025 20:33:56.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:33:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 went up in flames
-[20Mar2025 20:33:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:33:58.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/127, l='ServerLevel[world]', x=1192.52, y=90.44, z=1116.77] died, message: 'Armorer went up in flames'
-[20Mar2025 20:33:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> tengo pistola
-[20Mar2025 20:34:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to kesito1]
-[20Mar2025 20:35:16.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:35:18.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1183, y=87, z=1117} BlockPos{x=1184, y=86, z=1116}
-[20Mar2025 20:35:18.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1183, y=87, z=1117} BlockPos{x=1184, y=86, z=1116}
-[20Mar2025 20:35:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> vengan recojan
-[20Mar2025 20:36:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> matenme
-[20Mar2025 20:36:05.959] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[20Mar2025 20:36:05.960] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@533797e8[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:57311): Unexpected custom data from client
-[20Mar2025 20:36:05.990] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@533797e8[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:57311) lost connection: Unexpected custom data from client
-[20Mar2025 20:36:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> meteme
-[20Mar2025 20:36:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk tengo shulkers
-[20Mar2025 20:36:27.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by juanmanuel123xD7
-[20Mar2025 20:36:30.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:36:55.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:37:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:37:37.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> yupiiii
-[20Mar2025 20:37:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no pierdan el sitio
-[20Mar2025 20:37:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el de la aldea
-[20Mar2025 20:38:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> de qye sirve el pedernak?
-[20Mar2025 20:38:10.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8029ms or 160 ticks behind
-[20Mar2025 20:38:10.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 moved too quickly! 9.348917923612362,-1.0,-4.040183008608665
-[20Mar2025 20:38:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> de qye sirve el pedernak?
-[20Mar2025 20:38:11.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> d q sirve el pedernal
-[20Mar2025 20:38:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no c
-[20Mar2025 20:38:56.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
-[20Mar2025 20:38:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
-[20Mar2025 20:38:56.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Disconnected
-[20Mar2025 20:38:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:38:56.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kesito1 lost connection: Disconnected
-[20Mar2025 20:38:56.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 left the game
-[20Mar2025 20:38:57.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31863ms or 637 ticks behind
-[20Mar2025 20:39:08.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:56869] logged in with entity id 4215 at (1198.2355792147355, 87.0, 1107.407166684802)
-[20Mar2025 20:39:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:39:20.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:60793] logged in with entity id 4579 at (228.11166008194556, 28.0, 253.74390648446433)
-[20Mar2025 20:39:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
-[20Mar2025 20:40:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk hago una maquina de hilo infinito
-[20Mar2025 20:40:46.390] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[20Mar2025 20:40:46.391] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a4c94bb[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:55369): Unexpected custom data from client
-[20Mar2025 20:40:46.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a4c94bb[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:55369) lost connection: Unexpected custom data from client
-[20Mar2025 20:41:30.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:41:53.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Disconnected
-[20Mar2025 20:41:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:41:53.434] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Mar2025 20:42:09.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kesito1[/127.59.193.86:34567] logged in with entity id 5574 at (227.099806832318, 28.0, 250.29915993126633)
-[20Mar2025 20:42:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 joined the game
-[20Mar2025 20:42:21.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54687] logged in with entity id 5611 at (1204.3162785024172, 86.9375, 1109.6265517909558)
-[20Mar2025 20:42:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:42:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
-[20Mar2025 20:42:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> entonce
-[20Mar2025 20:42:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[20Mar2025 20:42:43.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> srry
-[20Mar2025 20:42:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> queria ver la animacion
-[20Mar2025 20:42:52.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=250}
-[20Mar2025 20:42:52.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:42:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:42:52.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> kaka
-[20Mar2025 20:42:52.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=226, y=27, z=251}
-[20Mar2025 20:42:52.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=226, y=27, z=251}
-[20Mar2025 20:42:53.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=226, y=27, z=251}
-[20Mar2025 20:42:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 burned to death
-[20Mar2025 20:42:53.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
-[20Mar2025 20:42:54.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:42:54.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:42:55.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
-[20Mar2025 20:42:55.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:42:55.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=228, y=27, z=251}
-[20Mar2025 20:42:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> XD
-[20Mar2025 20:42:59.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=228, y=27, z=251}
-[20Mar2025 20:43:00.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:01.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
-[20Mar2025 20:43:01.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:01.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:01.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:05.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:05.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=251}
-[20Mar2025 20:43:07.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=225, y=28, z=251}
-[20Mar2025 20:43:10.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=27, z=250} BlockPos{x=223, y=27, z=250}
-[20Mar2025 20:43:10.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=27, z=250} BlockPos{x=222, y=26, z=250}
-[20Mar2025 20:43:14.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya care mond
-[20Mar2025 20:43:22.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=251} BlockPos{x=227, y=27, z=252}
-[20Mar2025 20:43:23.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=28, z=251} BlockPos{x=228, y=27, z=252}
-[20Mar2025 20:43:57.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.28.69.233:46629] logged in with entity id 6386 at (-1.5, 69.0, -2.5)
-[20Mar2025 20:43:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
-[20Mar2025 20:43:58.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 20:44:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras va a jugar?
-[20Mar2025 20:44:32.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:44:48.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 20:44:51.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Contrexx24 to correcamin0]
-[20Mar2025 20:44:57.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Contrexx24 a server operator]
-[20Mar2025 20:45:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme un arma
-[20Mar2025 20:45:23.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras gay
-[20Mar2025 20:45:29.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[20Mar2025 20:45:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> usted cabron
-[20Mar2025 20:45:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
-[20Mar2025 20:45:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
-[20Mar2025 20:45:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> contreras gay
-[20Mar2025 20:45:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
-[20Mar2025 20:45:56.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme la pistola pa verla
-[20Mar2025 20:46:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was shot by correcamin0
-[20Mar2025 20:46:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme la pistola pa verla
-[20Mar2025 20:46:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Ram
-[20Mar2025 20:46:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> vendo shulker
-[20Mar2025 20:46:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
-[20Mar2025 20:47:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ramirez deme hierro necesito
-[20Mar2025 20:47:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
-[20Mar2025 20:47:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:47:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> deselo a contreras
-[20Mar2025 20:47:29.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:47:29.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:47:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:47:35.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> me voy a salir
-[20Mar2025 20:47:35.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:47:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> me voy a salir
-[20Mar2025 20:47:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:47:42.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo
-[20Mar2025 20:47:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el pico
-[20Mar2025 20:47:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:47:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Contrexx24 to correcamin0]
-[20Mar2025 20:47:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> archila quieto
-[20Mar2025 20:48:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:48:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
-[20Mar2025 20:48:07.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya we
-[20Mar2025 20:48:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Sweet Dreams]
-[20Mar2025 20:48:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
-[20Mar2025 20:48:17.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk deme hierro
-[20Mar2025 20:48:22.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Timed out
-[20Mar2025 20:48:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:48:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no tengo
-[20Mar2025 20:48:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hp como q no mija
-[20Mar2025 20:48:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by correcamin0
-[20Mar2025 20:48:38.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:35767] logged in with entity id 8263 at (227.3663846997302, 28.0, 251.4811102734697)
-[20Mar2025 20:48:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:48:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
-[20Mar2025 20:48:52.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Isn't It Iron Pick]
-[20Mar2025 20:49:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 has made the advancement [Sweet Dreams]
-[20Mar2025 20:49:28.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:49:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 has completed the challenge [We Union!]
-[20Mar2025 20:49:49.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:50:00.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> donde esta kesito
-[20Mar2025 20:50:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to kesito1]
-[20Mar2025 20:50:16.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Diamonds!]
-[20Mar2025 20:50:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Acquire Hardware]
-[20Mar2025 20:50:36.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:51:00.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:51:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
-[20Mar2025 20:51:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by juanmanuel123xD7
-[20Mar2025 20:51:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[20Mar2025 20:51:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
-[20Mar2025 20:51:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> entonce
-[20Mar2025 20:51:45.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to kesito1]
-[20Mar2025 20:51:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 20:52:01.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 20:52:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:52:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:52:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> archila lo voy a sacar
-[20Mar2025 20:52:36.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:52:36.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:52:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:52:39.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[20Mar2025 20:52:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Stone Age]
-[20Mar2025 20:52:54.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:46365] logged in with entity id 9094 at (231.45378099982116, 23.0, 267.18544426128034)
-[20Mar2025 20:52:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:53:11.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:53:16.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> mija saque a archila
-[20Mar2025 20:53:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was shot by correcamin0
-[20Mar2025 20:53:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:53:28.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:53:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:53:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Clicker
-[20Mar2025 20:53:40.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by correcamin0
-[20Mar2025 20:53:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> me confundi
-[20Mar2025 20:53:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vi a los 2 negros
-[20Mar2025 20:54:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> abreme we
-[20Mar2025 20:54:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> armense su casa propia
-[20Mar2025 20:54:32.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 20:54:34.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54999] logged in with entity id 9454 at (226.23315664006762, 28.0, 250.22007149448413)
-[20Mar2025 20:54:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:54:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:54:51.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=221, y=28, z=249}
-[20Mar2025 20:54:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by juanmanuel123xD7
-[20Mar2025 20:55:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:55:00.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:55:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:55:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[20Mar2025 20:55:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que tipo tan mamon
-[20Mar2025 20:55:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> real
-[20Mar2025 20:55:14.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:52643] logged in with entity id 9596 at (226.56187509135697, 28.0, 252.64419595624406)
-[20Mar2025 20:55:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:55:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que tipo tan mamon
-[20Mar2025 20:55:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:55:21.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:55:21.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:55:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo 6 de hierro
-[20Mar2025 20:55:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pls
-[20Mar2025 20:55:38.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:51377] logged in with entity id 9687 at (226.56187509135697, 28.0, 252.64419595624406)
-[20Mar2025 20:55:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:55:44.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 20:55:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:55:45.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:55:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:56:14.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 20:57:19.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:50227] logged in with entity id 10080 at (226.56187509135697, 28.0, 252.64419595624406)
-[20Mar2025 20:57:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:57:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 20:57:27.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 20:57:27.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 20:57:42.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk vengan mire mi casa
-[20Mar2025 20:57:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Walker
-[20Mar2025 20:58:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> como la ve
-[20Mar2025 20:58:10.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:54139] logged in with entity id 10280 at (226.56187509135697, 28.0, 252.64419595624406)
-[20Mar2025 20:58:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 20:58:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by Skeleton
-[20Mar2025 20:58:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> bonita
-[20Mar2025 20:58:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame una puerta
-[20Mar2025 20:58:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa cagar
-[20Mar2025 20:58:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ajaja
-[20Mar2025 20:58:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame una puerta
-[20Mar2025 20:58:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> voy por madera
-[20Mar2025 20:59:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> r
-[20Mar2025 20:59:10.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Timed out
-[20Mar2025 20:59:10.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:00:09.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:00:40.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:01:15.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:01:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:01:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Mercenary
-[20Mar2025 21:01:41.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:01:42.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:01:46.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk vengan mire mi casa
-[20Mar2025 21:01:50.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to Contrexx24]
-[20Mar2025 21:01:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:02:02.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:02:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[20Mar2025 21:02:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:03:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> grax
-[20Mar2025 21:03:36.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66eb79b8[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:55473) lost connection: Disconnected
-[20Mar2025 21:03:37.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=28, z=250} BlockPos{x=225, y=27, z=251}
-[20Mar2025 21:03:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[20Mar2025 21:03:48.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:47355] logged in with entity id 12112 at (228.08893208036224, 28.0, 250.92562639851693)
-[20Mar2025 21:03:48.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:03:52.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=28, z=250} BlockPos{x=225, y=27, z=249}
-[20Mar2025 21:03:54.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=28, z=250} BlockPos{x=224, y=27, z=251}
-[20Mar2025 21:04:48.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk tiene 32 de hierro
-[20Mar2025 21:04:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> no para q
-[20Mar2025 21:04:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> jumm
-[20Mar2025 21:05:36.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=28, z=252} BlockPos{x=223, y=27, z=252}
-[20Mar2025 21:05:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 burned to death
-[20Mar2025 21:05:40.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=226, y=27, z=252}
-[20Mar2025 21:06:02.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:06:20.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:07:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to correcamin0]
-[20Mar2025 21:07:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Diamonds!]
-[20Mar2025 21:08:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to Contrexx24]
-[20Mar2025 21:08:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:08:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
-[20Mar2025 21:08:25.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:08:29.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:08:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 was slain by Zombie
-[20Mar2025 21:09:00.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:09:00.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:09:00.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:09:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Assasin Black Ops
-[20Mar2025 21:09:10.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:09:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to Contrexx24]
-[20Mar2025 21:09:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:09:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:09:57.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:49439] logged in with entity id 14052 at (194.80075444439697, -18.0, 257.69999998807907)
-[20Mar2025 21:09:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:10:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:10:05.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:10:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:10:25.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:42205] logged in with entity id 14244 at (194.80075444439697, -18.0, 257.69999998807907)
-[20Mar2025 21:10:25.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:10:35.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:11:03.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[20Mar2025 21:11:09.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> oe contreras
-[20Mar2025 21:11:16.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by juanmanuel123xD7
-[20Mar2025 21:11:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:11:21.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:11:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:11:37.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:53601] logged in with entity id 14575 at (193.69999998807907, -19.0, 254.30000001192093)
-[20Mar2025 21:11:37.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:11:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:11:39.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:11:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:12:04.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:53803] logged in with entity id 14675 at (193.69999998807907, -19.0, 254.30000001192093)
-[20Mar2025 21:12:04.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:12:06.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:12:06.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:12:06.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:12:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 has made the advancement [Ol' Betsy]
-[20Mar2025 21:12:30.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 has made the advancement [Take Aim]
-[20Mar2025 21:13:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:13:53.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk ponga q se pierdan las osas
-[20Mar2025 21:14:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa k
-[20Mar2025 21:14:02.887] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@930ad53[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:33697) lost connection: Disconnected
-[20Mar2025 21:14:07.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> pa q sea dificil
-[20Mar2025 21:14:42.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:35665] logged in with entity id 15222 at (193.69999998807907, -19.0, 254.30000001192093)
-[20Mar2025 21:14:42.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:14:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:15:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:15:25.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:15:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:15:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk creeme un escudo
-[20Mar2025 21:15:29.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> y una arma
-[20Mar2025 21:15:34.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> huy pero ud si pide mamon
-[20Mar2025 21:15:40.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vamos a explorar mas bien
-[20Mar2025 21:16:11.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> deme la madera
-[20Mar2025 21:16:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pase la maderaaaaaaaaaa
-[20Mar2025 21:16:31.989] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7639efba[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:35445) lost connection: Disconnected
-[20Mar2025 21:17:05.634] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44ec2ed0[id=<null>,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:48787) lost connection: Disconnected
-[20Mar2025 21:17:07.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:17:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> le guste o que
-[20Mar2025 21:17:18.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> kakaka
-[20Mar2025 21:17:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> a la pata mia
-[20Mar2025 21:17:21.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> akaaka
-[20Mar2025 21:17:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> a cada rato
-[20Mar2025 21:17:24.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> callse
-[20Mar2025 21:17:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 fell from a high place
-[20Mar2025 21:17:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:18:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:18:10.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:52985] logged in with entity id 15826 at (189.23561049472355, -19.0, 256.30000001192093)
-[20Mar2025 21:18:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:19:01.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 died because of Devestated
-[20Mar2025 21:19:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:19:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk como me pongo modo spec?
-[20Mar2025 21:19:34.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa k
-[20Mar2025 21:19:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> buscar una aldea
-[20Mar2025 21:19:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
-[20Mar2025 21:19:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> digame
-[20Mar2025 21:19:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> esa vez solo fue pq era la primera
-[20Mar2025 21:20:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> quiere una espada
-[20Mar2025 21:20:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> yo
-[20Mar2025 21:20:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:20:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya de resto guarde cordenadas con control c
-[20Mar2025 21:20:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to kesito1]
-[20Mar2025 21:20:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to juanmanuel123xD7]
-[20Mar2025 21:21:49.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> tengo 16 de diamantes el q me haga una glock le doy eso
-[20Mar2025 21:21:53.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk tiene hirro
-[20Mar2025 21:22:39.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 21:23:05.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 21:23:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> nadie puede saber archila
-[20Mar2025 21:23:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> lk tiene hieerro
-[20Mar2025 21:23:44.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> nadie puede saber archila
-[20Mar2025 21:24:18.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lkkkk consegui
-[20Mar2025 21:24:27.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Demolisher
-[20Mar2025 21:24:27.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lava debajo de la casa ramirez haga tp
-[20Mar2025 21:24:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> y el cobre
-[20Mar2025 21:25:00.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ????????????
-[20Mar2025 21:25:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el del horno???????????????''
-[20Mar2025 21:25:12.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <juanmanuel123xD7> tiene hierro
-[20Mar2025 21:25:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
-[20Mar2025 21:25:22.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> y ya ni cobre
-[20Mar2025 21:25:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> quien hizo eso
-[20Mar2025 21:25:34.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=249} BlockPos{x=226, y=27, z=250}
-[20Mar2025 21:25:35.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=249} BlockPos{x=226, y=27, z=249}
-[20Mar2025 21:25:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 burned to death
-[20Mar2025 21:25:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> archila
-[20Mar2025 21:25:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> si es pasado archila
-[20Mar2025 21:25:48.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (220.58996158838272, 29.0, 250.60754716396332) too far away from hit block BlockPos{x=220, y=28, z=249}.
-[20Mar2025 21:25:48.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (220.58996158838272, 29.0, 250.60754716396332) too far away from hit block BlockPos{x=220, y=28, z=249}.
-[20Mar2025 21:25:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lo voy a banear
-[20Mar2025 21:25:50.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=28, z=250} BlockPos{x=227, y=27, z=250}
-[20Mar2025 21:25:56.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:25:56.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:25:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:26:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> mire lk
-[20Mar2025 21:26:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> venga
-[20Mar2025 21:26:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murilloooooooooooooooooo
-[20Mar2025 21:26:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> el cobre
-[20Mar2025 21:26:14.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:44753] logged in with entity id 17931 at (225.53705299810352, 28.0, 251.76376614919468)
-[20Mar2025 21:26:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:26:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:26:20.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:26:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:26:20.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> vvenga
-[20Mar2025 21:26:21.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[20Mar2025 21:26:29.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> bacano
-[20Mar2025 21:26:34.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:59189] logged in with entity id 18021 at (225.53705299810352, 28.0, 251.76376614919468)
-[20Mar2025 21:26:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:26:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> mirel
-[20Mar2025 21:26:55.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:27:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> marque
-[20Mar2025 21:27:17.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 was kicked for floating too long!
-[20Mar2025 21:27:17.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Flying is not enabled on this server
-[20Mar2025 21:27:17.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:27:54.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:56503] logged in with entity id 18345 at (229.40284424536998, 24.28239540236494, 259.99536743404406)
-[20Mar2025 21:27:54.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:29:22.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[20Mar2025 21:29:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Teleported juanmanuel123xD7 to Contrexx24]
-[20Mar2025 21:29:56.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 21:29:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juanmanuel123xD7: Set own game mode to Creative Mode]
-[20Mar2025 21:30:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:30:05.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:30:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:30:23.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:46745] logged in with entity id 19154 at (220.4814012781242, 6.0, 259.69999998807907)
-[20Mar2025 21:30:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:30:25.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked juanmanuel123xD7: Kicked by an operator]
-[20Mar2025 21:30:25.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: Kicked by an operator
-[20Mar2025 21:30:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:31:06.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juanmanuel123xD7[/127.72.54.141:38393] logged in with entity id 19380 at (220.4814012781242, 6.0, 259.69999998807907)
-[20Mar2025 21:31:06.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 joined the game
-[20Mar2025 21:31:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Banned juanmanuel123xD7: jah]
-[20Mar2025 21:31:15.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juanmanuel123xD7 lost connection: You are banned from this server
-[20Mar2025 21:31:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juanmanuel123xD7 left the game
-[20Mar2025 21:31:30.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@27aa05d0[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:33597): You are banned from this server.
-Reason: jah
-[20Mar2025 21:31:30.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27aa05d0[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:33597) lost connection: You are banned from this server.
-Reason: jah
-[20Mar2025 21:31:30.147] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Mar2025 21:31:34.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (607.84375, 72.24264717102051, 364.52831995487213) too far away from hit block BlockPos{x=608, y=71, z=363}.
-[20Mar2025 21:31:41.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@235adb1a[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:59833): You are banned from this server.
-Reason: jah
-[20Mar2025 21:31:41.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@235adb1a[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:59833) lost connection: You are banned from this server.
-Reason: jah
-[20Mar2025 21:31:41.143] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Mar2025 21:31:45.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to kesito1]
-[20Mar2025 21:31:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> q fueee
-[20Mar2025 21:32:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73b9a09b[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:47967): You are banned from this server.
-Reason: jah
-[20Mar2025 21:32:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73b9a09b[id=248cd995-81a9-3853-be49-2d004f28b84a,name=juanmanuel123xD7,properties={},legacy=false] (/127.72.54.141:47967) lost connection: You are banned from this server.
-Reason: jah
-[20Mar2025 21:32:27.388] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Mar2025 21:32:31.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (227.62506711483002, 29.34620702266693, 248.25) too far away from hit block BlockPos{x=226, y=28, z=247}.
-[20Mar2025 21:32:31.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> no dañe nadaaaaaaaa
-[20Mar2025 21:33:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:34:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[20Mar2025 21:34:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 fell from a high place
-[20Mar2025 21:36:06.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 21:36:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo
-[20Mar2025 21:36:12.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> estoy en la aldea
-[20Mar2025 21:36:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 died
-[20Mar2025 21:36:43.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[20Mar2025 21:36:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[20Mar2025 21:37:24.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 10.245504989290168,0.0,1.9435001763799846
-[20Mar2025 21:38:14.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 21:38:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> epaaaaa como me pongo en creativooooooooo
-[20Mar2025 21:38:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
-[20Mar2025 21:38:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> para que
-[20Mar2025 21:39:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> deje de ser bobo o lo baneo igual a archila
-[20Mar2025 21:39:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Banned correcamin0: Banned by an operator.]
-[20Mar2025 21:39:26.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: You are banned from this server
-[20Mar2025 21:39:26.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
-[20Mar2025 21:39:29.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[20Mar2025 21:39:40.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 died
-[20Mar2025 21:39:49.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned kesito1: Banned by an operator.
-[20Mar2025 21:39:49.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kesito1 lost connection: You are banned from this server
-[20Mar2025 21:39:49.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 left the game
-[20Mar2025 21:40:45.635] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20672ab3[id=<null>,name=kesito1,properties={},legacy=false] (/127.59.193.86:53313) lost connection: Disconnected
-[20Mar2025 21:41:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player isn't banned
-[20Mar2025 21:41:32.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3fcb2503[id=7ba5a2fe-33bc-3613-bf2d-35be7f53c588,name=correcamin0,properties={},legacy=false] (/127.28.69.233:47993): You are banned from this server.
-Reason: Banned by an operator.
-[20Mar2025 21:41:32.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fcb2503[id=7ba5a2fe-33bc-3613-bf2d-35be7f53c588,name=correcamin0,properties={},legacy=false] (/127.28.69.233:47993) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[20Mar2025 21:41:32.986] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Mar2025 21:41:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned correcamin0
-[20Mar2025 21:42:25.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9ca259[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:36073) lost connection: Disconnected
-[20Mar2025 21:42:27.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[20Mar2025 21:42:54.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@da4073f[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:52675) lost connection: Disconnected
-[20Mar2025 21:43:26.992] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7276c3f3[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:37977) lost connection: Disconnected
-[20Mar2025 21:43:35.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:52425] logged in with entity id 23037 at (667.8377907137208, 135.0, 957.0350420638964)
-[20Mar2025 21:43:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
-[20Mar2025 21:43:52.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/23170, l='ServerLevel[world]', x=780.36, y=75.00, z=996.57] died, message: 'Weaponsmith died'
-[20Mar2025 21:44:33.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[20Mar2025 21:44:43.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[20Mar2025 21:45:36.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 3.0363734752440905,0.0,10.289555297092647
-[20Mar2025 21:46:02.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (646.1080458387733, 138.0, 929.8533134460449) too far away from hit block BlockPos{x=646, y=136, z=929}.
-[20Mar2025 21:46:03.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (646.3455614745617, 138.0, 929.8379117846489) too far away from hit block BlockPos{x=646, y=136, z=929}.
-[20Mar2025 21:46:17.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 21:51:36.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/24064, l='ServerLevel[world]', x=747.30, y=104.00, z=1024.53] died, message: 'Mason was slain by Runner'
-[20Mar2025 21:52:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[20Mar2025 21:52:55.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[20Mar2025 21:54:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[20Mar2025 21:55:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 fell from a high place
-[20Mar2025 21:56:24.100] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:24.472] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:24.768] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:24.893] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:25.095] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:25.593] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:25.700] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:49.593] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:49.817] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:50.242] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:50.295] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:50.492] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:50.943] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:56:51.666] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[20Mar2025 21:57:30.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 lost connection: Disconnected
-[20Mar2025 21:57:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
-[20Mar2025 22:02:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
-[20Mar2025 22:06:05.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has completed the challenge [Whos Your Daddy]
-[20Mar2025 22:10:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 22:12:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
-[20Mar2025 22:14:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 22:14:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Creative Mode]
-[20Mar2025 22:15:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[20Mar2025 22:16:17.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned juanmanuel123xD7]
-[20Mar2025 22:16:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Unbanned kesito1]
-[20Mar2025 22:17:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
-[20Mar2025 22:17:34.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Iron Ingot] to correcamin0]
-[20Mar2025 22:19:07.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
-[20Mar2025 22:19:07.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
-[20Mar2025 22:20:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Mar2025 22:20:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Mar2025 22:20:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Mar2025 22:20:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Mar2025 22:20:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Mar2025 22:20:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
-[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[20Mar2025 22:20:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Mar2025 22:20:09.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[21Mar2025 22:20:09.750] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@32a205bd, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@73c9214}, criteria={kaboom_0=net.minecraft.advancements.Criterion@20d84cc6}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[21Mar2025 22:20:09.751] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1306 advancements
+[21Mar2025 22:20:09.759] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[21Mar2025 22:20:09.764] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[21Mar2025 22:20:11.102] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[21Mar2025 22:20:11.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Mar2025 22:20:11.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Mar2025 22:20:11.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Mar2025 22:20:11.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Mar2025 22:20:11.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Mar2025 22:20:11.418] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Mar2025 22:20:11.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Mar2025 22:20:11.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Mar2025 22:20:11.500] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Mar2025 22:20:11.500] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Mar2025 22:20:11.528] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[21Mar2025 22:20:11.530] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[21Mar2025 22:20:11.531] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[21Mar2025 22:20:11.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Mar2025 22:20:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Mar2025 22:20:25.680] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.682] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.687] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.688] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.689] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.690] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.691] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.693] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.694] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:25.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Mar2025 22:20:26.391] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
+[21Mar2025 22:20:26.949] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[21Mar2025 22:20:27.009] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10119 ms
+[21Mar2025 22:20:27.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.493s)! For help, type "help"
+[21Mar2025 22:20:27.044] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Mar2025 22:22:10.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:47641] logged in with entity id 104 at (1050.137133476404, 78.0, 971.0147915777411)
+[21Mar2025 22:22:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
+[21Mar2025 22:22:13.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[21Mar2025 22:23:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Gave 64 [Block of Iron] to correcamin0]
+[21Mar2025 22:24:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made kesito1 no longer a server operator]
+[21Mar2025 22:25:01.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made juanmanuel123xD7 no longer a server operator]
+[21Mar2025 22:26:33.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kesito1[/127.59.193.86:34147] logged in with entity id 983 at (227.8082010401946, 27.0, 257.2039037075161)
+[21Mar2025 22:26:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 joined the game
+[21Mar2025 22:27:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> dmee rolles pa hacer to
+[21Mar2025 22:27:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> tp
+[21Mar2025 22:27:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported kesito1 to correcamin0]
+[21Mar2025 22:27:52.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> dejeme hacer tp
+[21Mar2025 22:27:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> deme roll
+[21Mar2025 22:27:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made kesito1 a server operator]
+[21Mar2025 22:28:10.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> matemeeeee
+[21Mar2025 22:28:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ya le pase dc
+[21Mar2025 22:28:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by correcamin0
+[21Mar2025 22:28:22.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:28:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ese era mio
+[21Mar2025 22:28:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> malparido
+[21Mar2025 22:28:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> aa yo tengo el mio en el cofre
