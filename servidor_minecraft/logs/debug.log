@@ -2654,3 +2654,171 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Mar2025 22:39:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
 [21Mar2025 22:39:16.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [21Mar2025 22:39:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> venga
+[21Mar2025 22:39:42.000] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:39:45.277] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:45.775] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:46.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:46.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:47.270] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:47.765] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:48.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (1345.8960093855858, 108.625, 823.199838116765) too far away from hit block BlockPos{x=1345, y=107, z=823}.
+[21Mar2025 22:39:48.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (1345.8960093855858, 108.625, 823.199838116765) too far away from hit block BlockPos{x=1345, y=107, z=823}.
+[21Mar2025 22:39:48.258] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:48.759] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:49.256] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:39:55.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:40:18.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:40:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 22:40:29.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 22:40:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> venga
+[21Mar2025 22:40:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:40:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vea los tacos de contreras
+[21Mar2025 22:40:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> aajaja
+[21Mar2025 22:41:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no tiene armor?
+[21Mar2025 22:41:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> uffffffff
+[21Mar2025 22:41:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> venga
+[21Mar2025 22:41:37.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:41:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no la dañe
+[21Mar2025 22:41:50.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:41:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> bofffff
+[21Mar2025 22:42:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> eso me lo llevo
+[21Mar2025 22:42:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> aca vivimos?
+[21Mar2025 22:42:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> sii toca traer todo
+[21Mar2025 22:42:28.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> voy a colocar una cama
+[21Mar2025 22:43:09.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:43:09.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:43:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> esta violenta la casa
+[21Mar2025 22:43:49.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:43:51.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:43:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> vivimos aca?
+[21Mar2025 22:43:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> como quiera
+[21Mar2025 22:44:00.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:44:00.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:44:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ´pa poner la cama
+[21Mar2025 22:44:04.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> o hay poquito espacio
+[21Mar2025 22:44:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vea el garaje
+[21Mar2025 22:44:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> metemos el seuriti mod?
+[21Mar2025 22:44:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagamos cofreeeeee
+[21Mar2025 22:44:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa los cofres y eso
+[21Mar2025 22:44:38.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:44:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que sean priv
+[21Mar2025 22:44:49.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> tengo muchas cosas
+[21Mar2025 22:45:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pues haga cofreeeeee
+[21Mar2025 22:45:10.675] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[21Mar2025 22:45:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> nose hacerlo
+[21Mar2025 22:45:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pero k alfin meto el mod de security?
+[21Mar2025 22:45:29.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 22:45:29.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 22:45:33.948] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:45:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya le hago cofre
+[21Mar2025 22:45:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame un cofrwe en fast
+[21Mar2025 22:46:39.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> haga otro
+[21Mar2025 22:47:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> lk lo voy a matar
+[21Mar2025 22:47:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> y le hago tp
+[21Mar2025 22:47:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> pa traer todo
+[21Mar2025 22:47:34.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:47:38.135] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:38.788] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:40.135] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:40.628] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:41.388] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:41.881] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:42.082] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:42.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:42.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:42.934] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:43.433] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:43.638] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:43.989] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:44.161] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:44.481] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:45.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:45.627] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:45.809] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:46.245] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:46.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:46.709] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:47.227] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:47.333] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:47.736] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:47.827] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:48.184] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:48.380] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by kesito1
+[21Mar2025 22:47:50.226] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:47:50.405] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742597270403
+[21Mar2025 22:47:51.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:47:51.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:47:52.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:47:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya
+[21Mar2025 22:48:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagame un pico
+[21Mar2025 22:48:18.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> tome
+[21Mar2025 22:48:18.986] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:48:23.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> vaje
+[21Mar2025 22:48:25.280] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:48:27.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> y mire como tenia mi club
+[21Mar2025 22:48:35.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xddddddd
+[21Mar2025 22:48:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> bn me viro
+[21Mar2025 22:49:00.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1369.010000, 126.000000, 724.830000]
+[21Mar2025 22:49:01.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:49:05.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:49:09.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> donde va a vivir?
+[21Mar2025 22:49:17.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:50:13.205] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[21Mar2025 22:50:29.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 22:50:29.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 22:50:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ese cuarto pa quien es?
+[21Mar2025 22:50:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> no
+[21Mar2025 22:50:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> c
+[21Mar2025 22:50:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> mio?
+[21Mar2025 22:50:47.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:50:51.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> esque yo tengo muchas cosas
+[21Mar2025 22:50:59.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> este pa mi+
+[21Mar2025 22:51:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:51:12.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:51:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ese pa usted o pa mi?
+[21Mar2025 22:51:39.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> mi
+[21Mar2025 22:51:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> hagfale empieze a pasar las cosas
+[21Mar2025 22:51:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> yo alla no tenia nda xd
+[21Mar2025 22:51:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> o lk deme el otro esque yo tengo mas cosas
+[21Mar2025 22:52:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ,:,
+[21Mar2025 22:52:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> porfa
+[21Mar2025 22:53:05.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:53:18.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> oe murillo metemos rapidito el mod de security? para que no nos roben los cofres?
+[21Mar2025 22:53:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> si lk
+[21Mar2025 22:53:54.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:54:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> salgase y descargue el k envia
+[21Mar2025 22:54:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> envie
+[21Mar2025 22:54:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> al dc
+[21Mar2025 22:54:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> voy
+[21Mar2025 22:54:45.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> y lo mete en los mods del mc
+[21Mar2025 22:54:46.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:54:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> como hizo la vez pasada
+[21Mar2025 22:55:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> voy a cerrar el svr
+[21Mar2025 22:55:14.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pa meter el mod
+[21Mar2025 22:55:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> listo?
+[21Mar2025 22:55:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 22:55:29.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 22:55:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> oe
+[21Mar2025 22:55:48.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> q
+[21Mar2025 22:55:49.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya lo cierro?
+[21Mar2025 22:55:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> si cierrelo
+[21Mar2025 22:56:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Mar2025 22:56:01.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Mar2025 22:56:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Mar2025 22:56:01.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kesito1 lost connection: Disconnected
+[21Mar2025 22:56:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 left the game
+[21Mar2025 22:56:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Mar2025 22:56:01.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Mar2025 22:56:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Mar2025 22:56:02.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Mar2025 22:56:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[21Mar2025 22:56:02.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 22:56:02.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 22:56:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Mar2025 22:56:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Mar2025 22:56:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Mar2025 22:56:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[21Mar2025 22:56:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Mar2025 22:56:02.941] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[21Mar2025 22:56:02.941] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
