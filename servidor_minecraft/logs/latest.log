@@ -597,3 +597,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Mar2025 22:28:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> ese era mio
 [21Mar2025 22:28:29.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> malparido
 [21Mar2025 22:28:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> aa yo tengo el mio en el cofre
+[21Mar2025 22:30:23.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by Boomer
+[21Mar2025 22:30:26.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:31:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:31:48.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:31:49.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:32:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> nos salimos del dc?
+[21Mar2025 22:32:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> pq pa escuchar esa mrd
+[21Mar2025 22:32:22.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> no lk quedemonos
+[21Mar2025 22:32:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> jaja
+[21Mar2025 22:33:45.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kesito1 was slain by kesito1
+[21Mar2025 22:34:33.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:34:43.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:35:25.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> murillo
+[21Mar2025 22:35:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> q
+[21Mar2025 22:35:28.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> mateme
+[21Mar2025 22:35:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:35:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by kesito1
+[21Mar2025 22:35:39.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:35:39.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:35:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:35:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1358.300000, 95.940000, 859.700000]
+[21Mar2025 22:36:01.208] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:36:54.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:36:54.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:37:00.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:37:18.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:37:38.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:37:52.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[21Mar2025 22:37:59.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:38:28.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[21Mar2025 22:39:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kesito1> donde anda
+[21Mar2025 22:39:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kesito1: Teleported kesito1 to correcamin0]
+[21Mar2025 22:39:16.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[21Mar2025 22:39:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> venga
