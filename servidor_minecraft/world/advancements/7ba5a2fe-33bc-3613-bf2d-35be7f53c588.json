@@ -3014,9 +3014,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-23 19:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-23 19:02:41 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-03-23 18:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-23 19:06:24 +0000"
     },
     "done": true
   },
@@ -3043,6 +3061,12 @@
       "custom_test_name": "2025-03-23 18:53:34 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_5": "2025-03-23 18:59:45 +0000"
+    },
+    "done": false
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
