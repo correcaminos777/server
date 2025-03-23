@@ -23,6 +23,8 @@
       "minecraft:taiga": "2025-03-20 20:43:58 +0000",
       "minecraft:beach": "2025-03-22 02:02:32 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 01:47:03 +0000",
+      "minecraft:sparse_jungle": "2025-03-23 01:53:18 +0000",
+      "minecraft:river": "2025-03-23 01:51:11 +0000",
       "minecraft:dripstone_caves": "2025-03-20 20:44:51 +0000",
       "minecraft:swamp": "2025-03-22 00:29:50 +0000",
       "minecraft:forest": "2025-03-22 01:57:18 +0000",
@@ -1442,6 +1444,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-23 01:32:00 +0000",
+      "minecraft:husk": "2025-03-23 01:31:22 +0000",
       "minecraft:zombie": "2025-03-22 01:16:08 +0000"
     },
     "done": false
@@ -1770,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-23 01:44:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-03-23 01:25:35 +0000"
@@ -1785,6 +1795,12 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-23 01:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-23 01:44:22 +0000"
     },
     "done": true
   },
@@ -1847,6 +1863,12 @@
       "has_stick": "2025-03-23 01:25:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-03-23 01:30:47 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {

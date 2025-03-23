@@ -3243,3 +3243,850 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Mar2025 01:33:12.608] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [23Mar2025 01:33:13.257] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [23Mar2025 01:33:15.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1679, l='ServerLevel[world]', x=2592.81, y=81.00, z=-1045.14] died, message: 'Shepherd was slain by Soldier Clicker'
+[23Mar2025 01:33:18.714] [Server thread/DEBUG] [pointblank/]: 98714 handling client fire request
+[23Mar2025 01:33:18.714] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 18
+[23Mar2025 01:33:18.714] [Server thread/DEBUG] [pointblank/]: 98714 - obtained hit result in 0ms
+[23Mar2025 01:33:18.714] [Server thread/DEBUG] [pointblank/]: 98714 obtained hit results
+[23Mar2025 01:33:18.714] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63f3e52d
+[23Mar2025 01:33:18.715] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:18.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.01, y=83.00, z=-938.60] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2622.13, y=83.00, z=-938.49]
+[23Mar2025 01:33:18.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.01, y=83.00, z=-938.60] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.01, y=83.00, z=-938.60]
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [pointblank/]: 99211 handling client fire request
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 17
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [pointblank/]: 99211 - obtained hit result in 0ms
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [pointblank/]: 99211 obtained hit results
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b9ba048
+[23Mar2025 01:33:19.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:19.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.89, y=83.00, z=-938.60] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2623.14, y=83.00, z=-938.54]
+[23Mar2025 01:33:19.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.89, y=83.00, z=-938.60] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2620.89, y=83.00, z=-938.60]
+[23Mar2025 01:33:19.711] [Server thread/DEBUG] [pointblank/]: 99711 handling client fire request
+[23Mar2025 01:33:19.712] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 16
+[23Mar2025 01:33:19.712] [Server thread/DEBUG] [pointblank/]: 99712 - obtained hit result in 0ms
+[23Mar2025 01:33:19.712] [Server thread/DEBUG] [pointblank/]: 99712 obtained hit results
+[23Mar2025 01:33:19.712] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b7094cf
+[23Mar2025 01:33:19.712] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:19.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.40, y=83.00, z=-938.61] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.19, y=83.00, z=-938.77]
+[23Mar2025 01:33:19.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.40, y=83.00, z=-938.61] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.40, y=83.00, z=-938.61]
+[23Mar2025 01:33:21.112] [Server thread/DEBUG] [pointblank/]: 1112 handling client fire request
+[23Mar2025 01:33:21.112] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 15
+[23Mar2025 01:33:21.112] [Server thread/DEBUG] [pointblank/]: 1112 - obtained hit result in 0ms
+[23Mar2025 01:33:21.112] [Server thread/DEBUG] [pointblank/]: 1112 obtained hit results
+[23Mar2025 01:33:21.112] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d72056e
+[23Mar2025 01:33:21.113] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:21.113] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2623.16, y=83.00, z=-938.69] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.70, y=83.00, z=-939.19]
+[23Mar2025 01:33:21.113] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2623.16, y=83.00, z=-938.69] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2623.16, y=83.00, z=-938.69]
+[23Mar2025 01:33:21.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:22.111] [Server thread/DEBUG] [pointblank/]: 2111 handling client fire request
+[23Mar2025 01:33:22.111] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 14
+[23Mar2025 01:33:22.111] [Server thread/DEBUG] [pointblank/]: 2111 - obtained hit result in 0ms
+[23Mar2025 01:33:22.111] [Server thread/DEBUG] [pointblank/]: 2111 obtained hit results
+[23Mar2025 01:33:22.111] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a49a818
+[23Mar2025 01:33:22.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:22.112] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.70, y=83.00, z=-939.28]
+[23Mar2025 01:33:22.112] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70]
+[23Mar2025 01:33:22.260] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:22.662] [Server thread/DEBUG] [pointblank/]: 2662 handling client fire request
+[23Mar2025 01:33:22.662] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 13
+[23Mar2025 01:33:22.662] [Server thread/DEBUG] [pointblank/]: 2662 - obtained hit result in 0ms
+[23Mar2025 01:33:22.663] [Server thread/DEBUG] [pointblank/]: 2663 obtained hit results
+[23Mar2025 01:33:22.663] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d3d4850
+[23Mar2025 01:33:22.663] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[23Mar2025 01:33:22.664] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.70, y=83.00, z=-939.28]
+[23Mar2025 01:33:22.665] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70]
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: 2917 handling client fire request
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 12
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: 2917 - obtained hit result in 0ms
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: 2917 obtained hit results
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@cd96fe7
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.70, y=83.00, z=-939.28]
+[23Mar2025 01:33:22.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70]
+[23Mar2025 01:33:23.162] [Server thread/DEBUG] [pointblank/]: 3162 handling client fire request
+[23Mar2025 01:33:23.162] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 11
+[23Mar2025 01:33:23.162] [Server thread/DEBUG] [pointblank/]: 3162 - obtained hit result in 0ms
+[23Mar2025 01:33:23.163] [Server thread/DEBUG] [pointblank/]: 3163 obtained hit results
+[23Mar2025 01:33:23.163] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@438482f8
+[23Mar2025 01:33:23.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2624.70, y=83.00, z=-939.28]
+[23Mar2025 01:33:23.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2622.69, y=83.00, z=-939.70]
+[23Mar2025 01:33:23.261] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:23.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1680, l='ServerLevel[world]', x=2607.57, y=81.00, z=-1034.70] died, message: 'Shepherd was slain by Runner'
+[23Mar2025 01:33:24.172] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:24.333] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742693604304
+[23Mar2025 01:33:27.160] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 20
+[23Mar2025 01:33:29.100] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:33:33.344] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:33.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:33.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:33.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by correcamin0
+[23Mar2025 01:33:35.613] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:33:35.713] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742693615701
+[23Mar2025 01:33:36.600] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:33:36.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:34:12.309] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:13.309] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:14.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:15.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:19.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:21.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:21.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:34:21.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:34:22.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> cabron
+[23Mar2025 01:34:23.708] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:25.760] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:26.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> a dormir
+[23Mar2025 01:34:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:34.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:35.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzz
+[23Mar2025 01:34:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> z
+[23Mar2025 01:34:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzz
+[23Mar2025 01:34:39.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzz
+[23Mar2025 01:34:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzz
+[23Mar2025 01:34:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzz
+[23Mar2025 01:34:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzz
+[23Mar2025 01:34:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:52.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:53.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:54.212] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:54.215] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:56.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:34:56.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:57.920] [Server thread/DEBUG] [pointblank/]: 97920 handling client fire request
+[23Mar2025 01:34:57.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 24
+[23Mar2025 01:34:57.920] [Server thread/DEBUG] [pointblank/]: 97920 - obtained hit result in 0ms
+[23Mar2025 01:34:57.920] [Server thread/DEBUG] [pointblank/]: 97920 obtained hit results
+[23Mar2025 01:34:57.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@207199b3
+[23Mar2025 01:34:57.921] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.67, y=81.56, z=-912.41] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.67, y=81.56, z=-912.41]
+[23Mar2025 01:34:58.217] [Server thread/DEBUG] [pointblank/]: 98217 handling client fire request
+[23Mar2025 01:34:58.217] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 23
+[23Mar2025 01:34:58.217] [Server thread/DEBUG] [pointblank/]: 98217 - obtained hit result in 0ms
+[23Mar2025 01:34:58.217] [Server thread/DEBUG] [pointblank/]: 98217 obtained hit results
+[23Mar2025 01:34:58.217] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7c8891dc
+[23Mar2025 01:34:58.218] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:34:58.321] [Server thread/DEBUG] [pointblank/]: 98321 handling client fire request
+[23Mar2025 01:34:58.321] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 22
+[23Mar2025 01:34:58.322] [Server thread/DEBUG] [pointblank/]: 98322 - obtained hit result in 0ms
+[23Mar2025 01:34:58.322] [Server thread/DEBUG] [pointblank/]: 98322 obtained hit results
+[23Mar2025 01:34:58.322] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5fca86bd
+[23Mar2025 01:34:58.322] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: 98394 handling client fire request
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 21
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: 98394 - obtained hit result in 0ms
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: 98394 obtained hit results
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d4872dd
+[23Mar2025 01:34:58.394] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:34:59.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:34:59.468] [Server thread/DEBUG] [pointblank/]: 99468 handling client fire request
+[23Mar2025 01:34:59.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 20
+[23Mar2025 01:34:59.468] [Server thread/DEBUG] [pointblank/]: 99468 - obtained hit result in 0ms
+[23Mar2025 01:34:59.468] [Server thread/DEBUG] [pointblank/]: 99468 obtained hit results
+[23Mar2025 01:34:59.469] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22eb35cc
+[23Mar2025 01:34:59.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: 99568 handling client fire request
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 19
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: 99568 - obtained hit result in 0ms
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: 99568 obtained hit results
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6a6ba46f
+[23Mar2025 01:34:59.568] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: 99639 handling client fire request
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 18
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: 99639 - obtained hit result in 0ms
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: 99639 obtained hit results
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6d72d055
+[23Mar2025 01:34:59.639] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2578.68, y=81.56, z=-912.30]
+[23Mar2025 01:35:00.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 25
+[23Mar2025 01:35:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:02.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:06.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:08.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:35:08.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:09.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:21.067] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:22.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:34.216] [Server thread/DEBUG] [pointblank/]: 34216 handling client fire request
+[23Mar2025 01:35:34.216] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 19
+[23Mar2025 01:35:34.217] [Server thread/DEBUG] [pointblank/]: 34217 - obtained hit result in 1ms
+[23Mar2025 01:35:34.217] [Server thread/DEBUG] [pointblank/]: 34217 obtained hit results
+[23Mar2025 01:35:34.217] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40c3cb62
+[23Mar2025 01:35:34.217] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.65, y=126.00, z=713.85] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.65, y=126.00, z=713.85]
+[23Mar2025 01:35:34.664] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: 34823 handling client fire request
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 18
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: 34823 - obtained hit result in 0ms
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: 34823 obtained hit results
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2af5b1b7
+[23Mar2025 01:35:34.823] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.65, y=126.00, z=713.85] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.65, y=126.00, z=713.85]
+[23Mar2025 01:35:35.514] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: 35522 handling client fire request
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 17
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: 35522 - obtained hit result in 0ms
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: 35522 obtained hit results
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e606e94
+[23Mar2025 01:35:35.522] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.47, y=126.00, z=714.11] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.47, y=126.00, z=714.11]
+[23Mar2025 01:35:36.177] [Server thread/DEBUG] [pointblank/]: 36177 handling client fire request
+[23Mar2025 01:35:36.177] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 16
+[23Mar2025 01:35:36.177] [Server thread/DEBUG] [pointblank/]: 36177 - obtained hit result in 0ms
+[23Mar2025 01:35:36.177] [Server thread/DEBUG] [pointblank/]: 36177 obtained hit results
+[23Mar2025 01:35:36.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@41333374
+[23Mar2025 01:35:36.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.30, y=126.00, z=714.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1370.30, y=126.00, z=714.70]
+[23Mar2025 01:35:36.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: 36474 handling client fire request
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 24
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: 36474 - obtained hit result in 0ms
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: 36474 obtained hit results
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@600e01e1
+[23Mar2025 01:35:36.474] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2547.69, y=84.00, z=-948.82] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2547.69, y=84.00, z=-948.82]
+[23Mar2025 01:35:36.475] [Server thread/DEBUG] [pointblank/]: 36475 handling client fire request
+[23Mar2025 01:35:36.475] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 23
+[23Mar2025 01:35:36.475] [Server thread/DEBUG] [pointblank/]: 36475 - obtained hit result in 0ms
+[23Mar2025 01:35:36.475] [Server thread/DEBUG] [pointblank/]: 36475 obtained hit results
+[23Mar2025 01:35:36.475] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d833a88
+[23Mar2025 01:35:36.476] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2547.62, y=84.00, z=-948.86] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2547.62, y=84.00, z=-948.86]
+[23Mar2025 01:35:37.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: 38229 handling client fire request
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 22
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: 38229 - obtained hit result in 0ms
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: 38229 obtained hit results
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d4bcb20
+[23Mar2025 01:35:38.229] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2545.40, y=83.00, z=-950.66] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2545.40, y=83.00, z=-950.66]
+[23Mar2025 01:35:38.292] [Server thread/DEBUG] [pointblank/]: 38292 handling client fire request
+[23Mar2025 01:35:38.293] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 21
+[23Mar2025 01:35:38.293] [Server thread/DEBUG] [pointblank/]: 38293 - obtained hit result in 0ms
+[23Mar2025 01:35:38.293] [Server thread/DEBUG] [pointblank/]: 38293 obtained hit results
+[23Mar2025 01:35:38.293] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5bbbd0cf
+[23Mar2025 01:35:38.293] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2545.34, y=83.00, z=-950.71] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2545.34, y=83.00, z=-950.71]
+[23Mar2025 01:35:40.415] [Server thread/DEBUG] [pointblank/]: 40415 handling client fire request
+[23Mar2025 01:35:40.415] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 20
+[23Mar2025 01:35:40.416] [Server thread/DEBUG] [pointblank/]: 40416 - obtained hit result in 0ms
+[23Mar2025 01:35:40.416] [Server thread/DEBUG] [pointblank/]: 40416 obtained hit results
+[23Mar2025 01:35:40.416] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44c75433
+[23Mar2025 01:35:40.416] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2541.43, y=83.00, z=-952.35] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2541.43, y=83.00, z=-952.35]
+[23Mar2025 01:35:41.679] [Server thread/DEBUG] [pointblank/]: 41679 handling client fire request
+[23Mar2025 01:35:41.679] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 19
+[23Mar2025 01:35:41.679] [Server thread/DEBUG] [pointblank/]: 41679 - obtained hit result in 0ms
+[23Mar2025 01:35:41.679] [Server thread/DEBUG] [pointblank/]: 41679 obtained hit results
+[23Mar2025 01:35:41.679] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d46ecf6
+[23Mar2025 01:35:41.680] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2539.49, y=83.00, z=-953.48] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2539.49, y=83.00, z=-953.48]
+[23Mar2025 01:35:41.742] [Server thread/DEBUG] [pointblank/]: 41742 handling client fire request
+[23Mar2025 01:35:41.742] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 18
+[23Mar2025 01:35:41.742] [Server thread/DEBUG] [pointblank/]: 41742 - obtained hit result in 0ms
+[23Mar2025 01:35:41.742] [Server thread/DEBUG] [pointblank/]: 41742 obtained hit results
+[23Mar2025 01:35:41.742] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@513d6665
+[23Mar2025 01:35:41.743] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2539.49, y=83.00, z=-953.48] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2539.49, y=83.00, z=-953.48]
+[23Mar2025 01:35:44.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: 47570 handling client fire request
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 15
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: 47570 - obtained hit result in 0ms
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: 47570 obtained hit results
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1158bc60
+[23Mar2025 01:35:47.570] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1372.85, y=126.00, z=714.84] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1372.85, y=126.00, z=714.84]
+[23Mar2025 01:35:48.416] [Server thread/DEBUG] [pointblank/]: 48416 handling client fire request
+[23Mar2025 01:35:48.416] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 14
+[23Mar2025 01:35:48.416] [Server thread/DEBUG] [pointblank/]: 48416 - obtained hit result in 0ms
+[23Mar2025 01:35:48.416] [Server thread/DEBUG] [pointblank/]: 48416 obtained hit results
+[23Mar2025 01:35:48.416] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@431cad4a
+[23Mar2025 01:35:48.418] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1372.85, y=126.00, z=714.84] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1372.85, y=126.00, z=714.84]
+[23Mar2025 01:35:48.471] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:49.017] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:35:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:35:52.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:35:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:36:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:36:03.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:36:11.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:36:31.210] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:36:33.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:36:43.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:36:51.441] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[23Mar2025 01:36:51.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[23Mar2025 01:36:51.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[23Mar2025 01:36:51.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[23Mar2025 01:36:51.443] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[23Mar2025 01:36:51.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[23Mar2025 01:36:51.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[23Mar2025 01:36:51.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[23Mar2025 01:37:36.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:37:37.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:37:37.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:37:53.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:38:12.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:38:22.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:38:26.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:38:32.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:38:47.297] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:39:21.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:39:21.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:39:52.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:40:50.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:40:53.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:40:57.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:41:22.586] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:41:47.101] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:41:48.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:41:50.776] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:42:01.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Contrexx24: Location (1345.9281665682793, 108.625, 823.1521049886942) too far away from hit block BlockPos{x=1345, y=107, z=823}.
+[23Mar2025 01:42:01.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Contrexx24: Location (1345.9281665682793, 108.625, 823.1521049886942) too far away from hit block BlockPos{x=1345, y=107, z=823}.
+[23Mar2025 01:42:11.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:42:14.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:42:37.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[23Mar2025 01:42:38.020] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.020] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.021] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.021] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.021] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.022] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:38.023] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.882] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.883] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.883] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.884] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.884] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.884] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.884] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.886] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:41.886] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Mar2025 01:42:55.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:42:57.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:42:58.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:43:06.038] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:43:17.709] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
+[23Mar2025 01:43:22.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:43:32.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:43:32.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:43:44.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:43:48.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:43:50.210] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[23Mar2025 01:43:50.211] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[23Mar2025 01:43:50.211] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[23Mar2025 01:43:50.211] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[23Mar2025 01:43:50.211] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[23Mar2025 01:43:50.212] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[23Mar2025 01:43:50.221] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[23Mar2025 01:43:50.222] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[23Mar2025 01:43:51.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:44:05.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:44:15.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:44:21.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:44:21.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:44:34.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:44:39.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:45:29.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:45:30.482] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:45:30.973] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:45:44.670] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:45:50.486] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:45:52.169] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: 65767 handling client fire request
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 13
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: 65767 - obtained hit result in 0ms
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: 65767 obtained hit results
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4d169493
+[23Mar2025 01:46:05.767] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1207.82, y=88.06, z=1123.08] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1207.82, y=88.06, z=1123.08]
+[23Mar2025 01:46:06.978] [Server thread/DEBUG] [pointblank/]: 66978 handling client fire request
+[23Mar2025 01:46:06.978] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 12
+[23Mar2025 01:46:06.978] [Server thread/DEBUG] [pointblank/]: 66978 - obtained hit result in 0ms
+[23Mar2025 01:46:06.978] [Server thread/DEBUG] [pointblank/]: 66978 obtained hit results
+[23Mar2025 01:46:06.978] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4c9f3a27
+[23Mar2025 01:46:06.979] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1207.82, y=88.06, z=1123.08] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1207.82, y=88.06, z=1123.08]
+[23Mar2025 01:46:08.219] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 20
+[23Mar2025 01:46:43.021] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:36.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:37.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:37.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:39.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:40.164] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:40.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:42.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:42.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:54.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:56.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:57.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:57.456] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:57.894] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:58.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:58.874] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:59.372] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:47:59.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:00.380] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:00.870] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:00.966] [Server thread/DEBUG] [pointblank/]: 80966 handling client fire request
+[23Mar2025 01:48:00.967] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 19
+[23Mar2025 01:48:00.967] [Server thread/DEBUG] [pointblank/]: 80967 - obtained hit result in 0ms
+[23Mar2025 01:48:00.967] [Server thread/DEBUG] [pointblank/]: 80967 obtained hit results
+[23Mar2025 01:48:00.967] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a71404a
+[23Mar2025 01:48:00.967] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1087.74, y=78.00, z=1149.68] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1087.74, y=78.00, z=1149.68]
+[23Mar2025 01:48:01.370] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:01.871] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:01.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 tried to swim in lava
+[23Mar2025 01:48:01.872] [Server thread/DEBUG] [pointblank/]: 81872 handling client fire request
+[23Mar2025 01:48:01.872] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 18
+[23Mar2025 01:48:01.872] [Server thread/DEBUG] [pointblank/]: 81872 - obtained hit result in 0ms
+[23Mar2025 01:48:01.872] [Server thread/DEBUG] [pointblank/]: 81872 obtained hit results
+[23Mar2025 01:48:01.872] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e026a84
+[23Mar2025 01:48:01.873] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1087.74, y=78.00, z=1149.68] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=1087.74, y=78.00, z=1149.68]
+[23Mar2025 01:48:04.053] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:04.153] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742694484143
+[23Mar2025 01:48:04.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:48:05.701] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 20
+[23Mar2025 01:48:08.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16746, l='ServerLevel[world]', x=2991.49, y=78.50, z=814.01] died, message: 'Villager was slain by Runner'
+[23Mar2025 01:48:28.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16744, l='ServerLevel[world]', x=3010.44, y=78.00, z=795.45] died, message: 'Nitwit died'
+[23Mar2025 01:48:29.859] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:37.260] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:39.060] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:39.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:39.610] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: 21819 handling client fire request
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 17
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: 21819 - obtained hit result in 0ms
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: 21819 obtained hit results
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@354f9ffb
+[23Mar2025 01:48:41.819] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=77.00, z=814.38] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=77.00, z=814.38]
+[23Mar2025 01:48:41.888] [Server thread/DEBUG] [pointblank/]: 21888 handling client fire request
+[23Mar2025 01:48:41.888] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 16
+[23Mar2025 01:48:41.888] [Server thread/DEBUG] [pointblank/]: 21888 - obtained hit result in 0ms
+[23Mar2025 01:48:41.888] [Server thread/DEBUG] [pointblank/]: 21888 obtained hit results
+[23Mar2025 01:48:41.888] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4497a39d
+[23Mar2025 01:48:41.889] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=76.92, z=814.50] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=76.92, z=814.50]
+[23Mar2025 01:48:41.968] [Server thread/DEBUG] [pointblank/]: 21968 handling client fire request
+[23Mar2025 01:48:41.968] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 15
+[23Mar2025 01:48:41.968] [Server thread/DEBUG] [pointblank/]: 21968 - obtained hit result in 0ms
+[23Mar2025 01:48:41.968] [Server thread/DEBUG] [pointblank/]: 21968 obtained hit results
+[23Mar2025 01:48:41.968] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bff929c
+[23Mar2025 01:48:41.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=76.54, z=814.68] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.52, y=76.54, z=814.68]
+[23Mar2025 01:48:43.029] [Server thread/DEBUG] [pointblank/]: 23029 handling client fire request
+[23Mar2025 01:48:43.029] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 14
+[23Mar2025 01:48:43.029] [Server thread/DEBUG] [pointblank/]: 23029 - obtained hit result in 0ms
+[23Mar2025 01:48:43.029] [Server thread/DEBUG] [pointblank/]: 23029 obtained hit results
+[23Mar2025 01:48:43.029] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2de6fc68
+[23Mar2025 01:48:43.031] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.54, y=76.00, z=817.25] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.54, y=76.00, z=817.25]
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: 23086 handling client fire request
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 13
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: 23086 - obtained hit result in 0ms
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: 23086 obtained hit results
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@480b975e
+[23Mar2025 01:48:43.086] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.54, y=76.00, z=817.37] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.54, y=76.00, z=817.37]
+[23Mar2025 01:48:43.170] [Server thread/DEBUG] [pointblank/]: 23170 handling client fire request
+[23Mar2025 01:48:43.170] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 12
+[23Mar2025 01:48:43.171] [Server thread/DEBUG] [pointblank/]: 23171 - obtained hit result in 1ms
+[23Mar2025 01:48:43.171] [Server thread/DEBUG] [pointblank/]: 23171 obtained hit results
+[23Mar2025 01:48:43.171] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b34abf6
+[23Mar2025 01:48:43.171] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.55, y=76.00, z=817.60] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.55, y=76.00, z=817.60]
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: 24058 handling client fire request
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 11
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: 24058 - obtained hit result in 0ms
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: 24058 obtained hit results
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19f5e94f
+[23Mar2025 01:48:44.058] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.34, y=76.00, z=819.67] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.34, y=76.00, z=819.67]
+[23Mar2025 01:48:44.159] [Server thread/DEBUG] [pointblank/]: 24159 handling client fire request
+[23Mar2025 01:48:44.160] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 10
+[23Mar2025 01:48:44.160] [Server thread/DEBUG] [pointblank/]: 24160 - obtained hit result in 0ms
+[23Mar2025 01:48:44.160] [Server thread/DEBUG] [pointblank/]: 24160 obtained hit results
+[23Mar2025 01:48:44.160] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32c4bc16
+[23Mar2025 01:48:44.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.33, y=76.00, z=819.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.33, y=76.00, z=819.70]
+[23Mar2025 01:48:44.308] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:45.171] [Server thread/DEBUG] [pointblank/]: 25171 handling client fire request
+[23Mar2025 01:48:45.171] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 9
+[23Mar2025 01:48:45.172] [Server thread/DEBUG] [pointblank/]: 25172 - obtained hit result in 0ms
+[23Mar2025 01:48:45.172] [Server thread/DEBUG] [pointblank/]: 25172 obtained hit results
+[23Mar2025 01:48:45.172] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1bda63c8
+[23Mar2025 01:48:45.173] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.11, y=76.00, z=820.10] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.11, y=76.00, z=820.10]
+[23Mar2025 01:48:45.230] [Server thread/DEBUG] [pointblank/]: 25230 handling client fire request
+[23Mar2025 01:48:45.230] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 8
+[23Mar2025 01:48:45.230] [Server thread/DEBUG] [pointblank/]: 25230 - obtained hit result in 0ms
+[23Mar2025 01:48:45.230] [Server thread/DEBUG] [pointblank/]: 25230 obtained hit results
+[23Mar2025 01:48:45.230] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e74c5e7
+[23Mar2025 01:48:45.231] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.08, y=76.00, z=820.18] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.08, y=76.00, z=820.18]
+[23Mar2025 01:48:45.318] [Server thread/DEBUG] [pointblank/]: 25318 handling client fire request
+[23Mar2025 01:48:45.318] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 7
+[23Mar2025 01:48:45.318] [Server thread/DEBUG] [pointblank/]: 25318 - obtained hit result in 0ms
+[23Mar2025 01:48:45.318] [Server thread/DEBUG] [pointblank/]: 25318 obtained hit results
+[23Mar2025 01:48:45.318] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@77726f4f
+[23Mar2025 01:48:45.319] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.04, y=76.00, z=820.27] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2945.04, y=76.00, z=820.27]
+[23Mar2025 01:48:45.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:48:45.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:46.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:52.611] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:54.762] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:48:56.957] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzz
+[23Mar2025 01:49:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzzzzzzzz
+[23Mar2025 01:49:06.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[23Mar2025 01:49:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzz
+[23Mar2025 01:49:06.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:07.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> z
+[23Mar2025 01:49:19.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[23Mar2025 01:49:21.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:49:21.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:49:42.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:42.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:43.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:43.562] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:44.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:44.560] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:45.062] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:45.565] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:46.066] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[23Mar2025 01:49:48.172] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:48.337] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742694588337
+[23Mar2025 01:49:54.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:49:54.758] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:49:55.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:50:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[23Mar2025 01:52:04.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:52:48.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:53:01.102] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:53:17.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[23Mar2025 01:53:54.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:54:04.257] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:54:07.560] [Server thread/DEBUG] [pointblank/]: 47560 handling client fire request
+[23Mar2025 01:54:07.560] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 6
+[23Mar2025 01:54:07.561] [Server thread/DEBUG] [pointblank/]: 47561 - obtained hit result in 0ms
+[23Mar2025 01:54:07.561] [Server thread/DEBUG] [pointblank/]: 47561 obtained hit results
+[23Mar2025 01:54:07.561] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27da38ed
+[23Mar2025 01:54:07.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.69, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2889.30, y=76.00, z=942.25]
+[23Mar2025 01:54:07.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.69, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.69, y=76.00, z=942.70]
+[23Mar2025 01:54:07.635] [Server thread/DEBUG] [pointblank/]: 47635 handling client fire request
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 5
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: 47636 - obtained hit result in 0ms
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: 47636 obtained hit results
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d6ee425
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.12, z=942.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2889.30, y=76.00, z=942.14]
+[23Mar2025 01:54:07.636] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.12, z=942.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.12, z=942.70]
+[23Mar2025 01:54:08.607] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:54:08.671] [Server thread/DEBUG] [pointblank/]: 48671 handling client fire request
+[23Mar2025 01:54:08.671] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 4
+[23Mar2025 01:54:08.671] [Server thread/DEBUG] [pointblank/]: 48671 - obtained hit result in 0ms
+[23Mar2025 01:54:08.671] [Server thread/DEBUG] [pointblank/]: 48671 obtained hit results
+[23Mar2025 01:54:08.671] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@55a3d786
+[23Mar2025 01:54:08.672] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2887.87, y=76.00, z=941.55]
+[23Mar2025 01:54:08.672] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70]
+[23Mar2025 01:54:08.744] [Server thread/DEBUG] [pointblank/]: 48744 handling client fire request
+[23Mar2025 01:54:08.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 3
+[23Mar2025 01:54:08.745] [Server thread/DEBUG] [pointblank/]: 48745 - obtained hit result in 0ms
+[23Mar2025 01:54:08.745] [Server thread/DEBUG] [pointblank/]: 48745 obtained hit results
+[23Mar2025 01:54:08.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@627c1161
+[23Mar2025 01:54:08.745] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:54:08.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2887.99, y=76.00, z=941.49]
+[23Mar2025 01:54:08.746] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2887.70, y=76.00, z=942.70]
+[23Mar2025 01:54:10.171] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:54:12.862] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 176638355 to 25
+[23Mar2025 01:54:16.410] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:54:21.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:54:21.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:55:21.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:22.711] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:23.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:25.212] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:26.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:27.709] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:28.959] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:30.208] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:31.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:32.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:33.960] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:35.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:36.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:37.710] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:38.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:40.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:41.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:42.710] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:43.959] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:44.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (2885.679136931896, 87.0, 936.3527273535728) too far away from hit block BlockPos{x=2885, y=86, z=937}.
+[23Mar2025 01:55:44.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (2885.679136931896, 87.0, 936.3527273535728) too far away from hit block BlockPos{x=2885, y=86, z=937}.
+[23Mar2025 01:55:45.209] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:45.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from correcamin0: Location (2888.0267665404826, 87.33570277690887, 938.0) too far away from hit block BlockPos{x=2888, y=86, z=939}.
+[23Mar2025 01:55:46.460] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:47.711] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:48.959] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:55:50.228] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:29.723] [Server thread/DEBUG] [pointblank/]: 89723 handling client fire request
+[23Mar2025 01:56:29.723] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 19
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [pointblank/]: 89724 - obtained hit result in 1ms
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [pointblank/]: 89724 obtained hit results
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1fe756e8
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2870.65, y=72.00, z=940.39] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2870.65, y=72.00, z=940.39]
+[23Mar2025 01:56:29.724] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2870.65, y=72.00, z=940.39] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2857.09, y=74.25, z=946.00]
+[23Mar2025 01:56:35.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[23Mar2025 01:56:37.368] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:37.453] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742694997450
+[23Mar2025 01:56:38.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:56:40.064] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:56:40.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:56:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[23Mar2025 01:56:53.662] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:54.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:54.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:55.310] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:56.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:57.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:58.310] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:56:58.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 burned to death
+[23Mar2025 01:57:00.372] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:00.561] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695020540
+[23Mar2025 01:57:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[23Mar2025 01:57:09.864] [Server thread/DEBUG] [pointblank/]: 29864 handling client fire request
+[23Mar2025 01:57:09.864] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 18
+[23Mar2025 01:57:09.864] [Server thread/DEBUG] [pointblank/]: 29864 - obtained hit result in 0ms
+[23Mar2025 01:57:09.864] [Server thread/DEBUG] [pointblank/]: 29864 obtained hit results
+[23Mar2025 01:57:09.864] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d377bc3
+[23Mar2025 01:57:09.865] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:09.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.25, y=71.00, z=947.15] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.25, y=71.00, z=947.15]
+[23Mar2025 01:57:09.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.25, y=71.00, z=947.15] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.38, y=71.00, z=947.52]
+[23Mar2025 01:57:10.122] [Server thread/DEBUG] [pointblank/]: 30122 handling client fire request
+[23Mar2025 01:57:10.122] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 17
+[23Mar2025 01:57:10.122] [Server thread/DEBUG] [pointblank/]: 30122 - obtained hit result in 0ms
+[23Mar2025 01:57:10.122] [Server thread/DEBUG] [pointblank/]: 30122 obtained hit results
+[23Mar2025 01:57:10.122] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@689a48ee
+[23Mar2025 01:57:10.123] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:10.123] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:10.123] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.38, y=71.00, z=947.52]
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [pointblank/]: 30422 handling client fire request
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 16
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [pointblank/]: 30422 - obtained hit result in 0ms
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [pointblank/]: 30422 obtained hit results
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34badf7
+[23Mar2025 01:57:10.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:10.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:10.423] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.38, y=71.00, z=947.52]
+[23Mar2025 01:57:10.692] [Server thread/DEBUG] [pointblank/]: 30692 handling client fire request
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 15
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: 30693 - obtained hit result in 0ms
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: 30693 obtained hit results
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ce556e7
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:10.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.38, y=71.00, z=947.52]
+[23Mar2025 01:57:10.958] [Server thread/DEBUG] [pointblank/]: 30958 handling client fire request
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 14
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [pointblank/]: 30959 - obtained hit result in 0ms
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [pointblank/]: 30959 obtained hit results
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c78759e
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:10.959] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:10.960] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.54, y=71.00, z=946.82]
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [pointblank/]: 31261 handling client fire request
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 13
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [pointblank/]: 31261 - obtained hit result in 0ms
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [pointblank/]: 31261 obtained hit results
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5aa31abc
+[23Mar2025 01:57:11.261] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:11.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:11.262] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2827.56, y=71.00, z=946.73]
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: 32026 handling client fire request
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 12
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: 32026 - obtained hit result in 0ms
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: 32026 obtained hit results
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5817812c
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:12.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2826.13, y=71.00, z=947.21]
+[23Mar2025 01:57:12.830] [Server thread/DEBUG] [pointblank/]: 32830 handling client fire request
+[23Mar2025 01:57:12.830] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 11
+[23Mar2025 01:57:12.830] [Server thread/DEBUG] [pointblank/]: 32830 - obtained hit result in 0ms
+[23Mar2025 01:57:12.830] [Server thread/DEBUG] [pointblank/]: 32830 obtained hit results
+[23Mar2025 01:57:12.830] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d47d3fb
+[23Mar2025 01:57:12.831] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:12.831] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:12.831] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [pointblank/]: 33164 handling client fire request
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 10
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [pointblank/]: 33164 - obtained hit result in 0ms
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [pointblank/]: 33164 obtained hit results
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b2b17fc
+[23Mar2025 01:57:13.164] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:13.165] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:13.165] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [pointblank/]: 33560 handling client fire request
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 9
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [pointblank/]: 33560 - obtained hit result in 0ms
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [pointblank/]: 33560 obtained hit results
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f0012fd
+[23Mar2025 01:57:13.560] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:13.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:13.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [pointblank/]: 33730 handling client fire request
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 8
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [pointblank/]: 33730 - obtained hit result in 0ms
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [pointblank/]: 33730 obtained hit results
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bd205c7
+[23Mar2025 01:57:13.730] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:13.731] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:13.731] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: 34211 handling client fire request
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 7
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: 34211 - obtained hit result in 0ms
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: 34211 obtained hit results
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ce8eee2
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:14.211] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:14.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [pointblank/]: 34511 handling client fire request
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 6
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [pointblank/]: 34511 - obtained hit result in 0ms
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [pointblank/]: 34511 obtained hit results
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46d36a23
+[23Mar2025 01:57:14.511] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:14.512] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:14.512] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:14.713] [Server thread/DEBUG] [pointblank/]: 34713 handling client fire request
+[23Mar2025 01:57:14.713] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 5
+[23Mar2025 01:57:14.713] [Server thread/DEBUG] [pointblank/]: 34713 - obtained hit result in 0ms
+[23Mar2025 01:57:14.713] [Server thread/DEBUG] [pointblank/]: 34713 obtained hit results
+[23Mar2025 01:57:14.713] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6da2216d
+[23Mar2025 01:57:14.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:14.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[23Mar2025 01:57:14.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:14.715] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: 34981 handling client fire request
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 4
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: 34981 - obtained hit result in 0ms
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: 34981 obtained hit results
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3750a809
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12]
+[23Mar2025 01:57:14.981] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Contrexx24'/1553, l='ServerLevel[world]', x=2828.33, y=71.00, z=947.12] sends hit scan notification to ServerPlayer['correcamin0'/104, l='ServerLevel[world]', x=2825.02, y=71.00, z=947.40]
+[23Mar2025 01:57:15.914] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1754513182 to 20
+[23Mar2025 01:57:17.474] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:57:17.646] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695037645
+[23Mar2025 01:57:27.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[23Mar2025 01:58:13.176] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:24.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:25.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:25.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:26.420] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:26.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:27.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:27.922] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:28.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:28.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:29.421] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:29.918] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:30.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:30.924] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:47.080] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:47.575] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:48.080] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:48.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:58:48.569] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:49.070] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:49.567] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[23Mar2025 01:58:51.301] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 01:58:51.518] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695131518
+[23Mar2025 01:58:52.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:59:03.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:59:21.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 01:59:21.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 01:59:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 2954.780000, 76.000000, 1179.290000]
+[23Mar2025 01:59:45.919] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:12.973] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:13.476] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:14.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:14.462] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 02:00:14.482] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:14.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:15.479] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:15.967] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:16.063] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:16.467] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:16.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:17.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:17.467] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[23Mar2025 02:00:18.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:18.652] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:18.865] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695218833
+[23Mar2025 02:00:19.568] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:20.572] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:21.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:22.362] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:23.360] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:24.365] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:25.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:26.411] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:27.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:28.462] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:29.412] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:30.411] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:31.409] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:32.413] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:39.907] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:41.157] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:49.367] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:50.557] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:51.359] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:52.808] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:53.377] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:53.868] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:54.374] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:54.867] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:55.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:55.863] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:56.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:56.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 tried to swim in lava to escape Runner
+[23Mar2025 02:00:58.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:00:59.062] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695259053
+[23Mar2025 02:01:04.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/21442, l='ServerLevel[world]', x=2995.68, y=80.00, z=779.06] died, message: 'Cartographer was slain by Runner'
+[23Mar2025 02:01:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 2954.780000, 76.000000, 1179.290000]
+[23Mar2025 02:01:41.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:41.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:42.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:42.731] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:43.215] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:43.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:44.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:44.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:45.233] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:45.728] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:46.218] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:46.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:47.217] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:47.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:48.215] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:48.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:49.220] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:49.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:50.219] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:50.714] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:51.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:51.729] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:52.111] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:52.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:52.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:53.218] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:53.713] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:54.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:54.716] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:55.215] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:55.719] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:56.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:56.717] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:56.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died because of Runner
+[23Mar2025 02:01:58.753] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Mar2025 02:01:58.941] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742695318933
+[23Mar2025 02:02:18.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 02:02:18.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
