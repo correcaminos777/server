@@ -583,3 +583,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Mar2025 01:20:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
 [23Mar2025 01:21:34.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23Mar2025 01:22:50.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1618, l='ServerLevel[world]', x=2594.78, y=82.00, z=-1167.52] died, message: 'Fisherman was shot by Pillager'
+[23Mar2025 01:22:57.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:23:21.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:23:52.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:23:52.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:24:38.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:25:37.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1749, l='ServerLevel[world]', x=2638.21, y=80.18, z=-1147.74] died, message: 'Fisherman was shot by Pillager'
+[23Mar2025 01:25:44.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:25:58.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1748, l='ServerLevel[world]', x=2606.75, y=81.00, z=-1172.80] died, message: 'Butcher was shot by Pillager'
+[23Mar2025 01:26:20.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:27:45.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 01:28:10.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[23Mar2025 01:29:52.356] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 01:30:06.108] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:06.109] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:07.860] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:07.860] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:09.760] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:09.760] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:11.759] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:11.760] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:12.810] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:12.810] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:48.911] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:30:48.911] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[23Mar2025 01:32:13.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 01:32:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> zzzzzzzzzzz
+[23Mar2025 01:33:15.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1679, l='ServerLevel[world]', x=2592.81, y=81.00, z=-1045.14] died, message: 'Shepherd was slain by Soldier Clicker'
