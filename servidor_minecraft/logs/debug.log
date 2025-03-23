@@ -6854,3 +6854,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Mar2025 19:11:06.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
 [23Mar2025 19:11:48.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [23Mar2025 19:11:48.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 19:12:43.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 19:12:43.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 19:13:08.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 19:13:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set the time to 1000]
+[23Mar2025 19:13:41.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 19:13:45.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 19:15:26.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 19:16:06.263] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:25,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[23Mar2025 19:16:07.003] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:25,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;1127218512,-664651423,-1764107698,-1607275377],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[23Mar2025 19:16:08.449] [Server thread/DEBUG] [pointblank/]: 68449 handling client fire request
+[23Mar2025 19:16:08.450] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 712430121 to 24
+[23Mar2025 19:16:08.454] [Server thread/DEBUG] [pointblank/]: 68454 - obtained hit result in 0ms
+[23Mar2025 19:16:08.454] [Server thread/DEBUG] [pointblank/]: 68454 obtained hit results
+[23Mar2025 19:16:08.454] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@442f8c8a
+[23Mar2025 19:16:08.468] [Server thread/DEBUG] [pointblank/]: Creating state 05372dbb-0c55-41e8-b134-506bd9b065c0
+[23Mar2025 19:16:08.483] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/101, l='ServerLevel[world]', x=1374.64, y=126.00, z=719.94] sends hit scan notification to ServerPlayer['correcamin0'/101, l='ServerLevel[world]', x=1374.64, y=126.00, z=719.94]
+[23Mar2025 19:16:32.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 19:16:55.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 19:17:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 115 entities]
+[23Mar2025 19:17:29.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 88 entities]
+[23Mar2025 19:17:43.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 6 entities]
+[23Mar2025 19:17:43.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 19:17:43.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 19:18:24.097] [Worker-Main-16/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Mar2025 19:18:24.098] [Worker-Main-16/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Mar2025 19:18:24.403] [Worker-Main-32/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Mar2025 19:19:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 21 entities]
+[23Mar2025 19:20:17.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 19:20:38.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 19:21:32.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 19:21:32.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[23Mar2025 19:21:38.861] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[23Mar2025 19:21:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0829251026490851
+[23Mar2025 19:21:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.9441714937939594
+[23Mar2025 19:21:42.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 2.806190954224718
+[23Mar2025 19:21:42.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 3.6689827686883234
+[23Mar2025 19:21:42.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 4.532546281536213
+[23Mar2025 19:21:42.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 5.396880896724184
+[23Mar2025 19:21:42.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 6.261985958603674
+[23Mar2025 19:21:42.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 7.127860811526119
+[23Mar2025 19:21:42.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.11389775728673612,0.0,-10.592496935648967
+[23Mar2025 19:21:42.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.11629685845809945,0.4399884343147278,-11.45990940371152
+[23Mar2025 19:21:42.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.11869808328776799,0.7999768853187561,-12.328089695871256
+[23Mar2025 19:21:42.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.19732740353720146,1.1599653363227844,-13.192339175341715
+[23Mar2025 19:21:42.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.3791377397294582,1.3399999737739563,-14.04052680658586
+[23Mar2025 19:21:42.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.45125053475646837,1.5399884432554245,-12.931576876549741
+[23Mar2025 19:21:42.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.5659710833893996,1.659976914525032,-13.791819405381005
+[23Mar2025 19:21:42.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.68079308235383,1.699965387582779,-14.652822668804333
+[23Mar2025 19:21:42.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.795716444980485,1.6599538624286652,-15.514586016922209
+[23Mar2025 19:21:42.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! 0.910741084600204,1.5399423390626907,-16.377108799837117
+[23Mar2025 19:21:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 38 entities]
+[23Mar2025 19:22:10.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -3.237219047663416,1.6164160817861557,-10.070717786531986
+[23Mar2025 19:22:10.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -3.604619755309159,1.5902092307806015,-10.736792230781987
+[23Mar2025 19:22:10.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -4.03250706126596,1.4840023815631866,-11.365720604018975
+[23Mar2025 19:22:10.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -4.504072982021512,1.2977955341339111,-11.962599174285572
+[23Mar2025 19:22:10.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -5.016925741166688,1.2536572366952896,-12.52440028918187
+[23Mar2025 19:22:10.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -5.568463867990431,1.2536572366952896,-13.048274453386739
+[23Mar2025 19:22:10.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved too quickly! -6.155889926628106,1.2536572366952896,-13.53156429488456
+[23Mar2025 19:22:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[23Mar2025 19:22:16.411] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742757736407
+[23Mar2025 19:22:17.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 19:22:17.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[23Mar2025 19:22:18.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
