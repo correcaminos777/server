@@ -1078,3 +1078,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 03:26:37.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [24Mar2025 03:26:38.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [24Mar2025 03:26:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 03:27:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel hit the ground too hard whilst trying to escape Deepling
+[24Mar2025 03:28:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:28:08.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:29:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Cover Me with Diamonds]
+[24Mar2025 03:30:25.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:30:25.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:32:04.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:32:35.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:33:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3037.410000, 30.500000, 401.090000]
+[24Mar2025 03:33:30.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:34:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:34:19.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:35:21.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:35:37.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:35:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:35:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has reached the goal [Postmortal]
+[24Mar2025 03:37:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
