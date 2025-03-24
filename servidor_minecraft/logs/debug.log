@@ -3182,3 +3182,426 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 02:05:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel joined the game
 [24Mar2025 02:05:42.961] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742781942351
 [24Mar2025 02:05:45.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:05:48.346] [Worker-Main-15/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Mar2025 02:05:48.347] [Worker-Main-15/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Mar2025 02:05:48.793] [Worker-Main-15/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[24Mar2025 02:05:58.307] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 30 messages to dispatch.
+[24Mar2025 02:05:58.309] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[24Mar2025 02:05:58.344] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[24Mar2025 02:05:58.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[24Mar2025 02:05:58.415] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[24Mar2025 02:05:58.415] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[24Mar2025 02:05:58.415] [Netty Epoll Server IO #1/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[24Mar2025 02:05:58.427] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[24Mar2025 02:05:58.465] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[24Mar2025 02:05:58.488] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[24Mar2025 02:05:58.508] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Mar2025 02:05:58.508] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[24Mar2025 02:05:58.508] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, zombie_extreme, mowziesmobs, extragore, mutantmonsters, geckolib, lrarmor, zombie_island, jei, eeeabsmobs, apocalypsenow, graveyard, tacz, born_in_chaos_v1, lionfishapi, extinction, car, cataclysm, curios, zombiesmore, underground_bunkers, securitycraft, legendary_monsters, horror_element_mod, lostcities, mixinextras, pointblank, wegotrunnners, automobility, aiimprovements, terralith, puzzleslib, faded_conquest_2, puzzlesaccessapi, forge, horde_hoard, tlskincape, explosiveenhancement, sona, zombiekit, tectonic]
+[24Mar2025 02:05:58.508] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pointblank:pointblank' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'legendary_monsters:main_channel' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_extreme:zombie_extreme' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombiekit:zombiekit' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.509] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extragore:main' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sona:sona' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apocalypsenow:apocalypsenow' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horror_element_mod:horror_element_mod' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'automobility:main' : Version test of '0.3' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombiesmore:zombiesmore' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wegotrunnners:wegotrunnners' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zombie_island:zombie_island' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'car:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'faded_conquest_2:faded_conquest_2' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lrarmor:network' : Version test of '0.1.0' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extinction:extinction' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.510] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Mar2025 02:05:58.511] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Mar2025 02:05:58.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[24Mar2025 02:05:58.548] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Mar2025 02:05:58.549] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:58.549] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:58.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[24Mar2025 02:05:58.569] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Mar2025 02:05:58.569] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:58.569] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:58.575] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[24Mar2025 02:05:58.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[24Mar2025 02:05:58.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[24Mar2025 02:05:58.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[24Mar2025 02:05:58.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[24Mar2025 02:05:58.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[24Mar2025 02:05:58.807] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Mar2025 02:05:58.807] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:58.807] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:58.837] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:58.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:58.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[24Mar2025 02:05:58.908] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[24Mar2025 02:05:58.954] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[24Mar2025 02:05:59.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[24Mar2025 02:05:59.065] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[24Mar2025 02:05:59.103] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[24Mar2025 02:05:59.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[24Mar2025 02:05:59.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config car-server.toml' to 'fml:handshake' sequence 22
+[24Mar2025 02:05:59.238] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Mar2025 02:05:59.238] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.238] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.239] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Mar2025 02:05:59.239] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.239] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[24Mar2025 02:05:59.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[24Mar2025 02:05:59.345] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 25
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.387] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 26
+[24Mar2025 02:05:59.399] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:05:59.400] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:05:59.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[24Mar2025 02:05:59.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 28
+[24Mar2025 02:05:59.540] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 29
+[24Mar2025 02:06:00.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/838, l='ServerLevel[world]', x=1328.70, y=97.00, z=817.70] died, message: 'Villager was slain by Runner'
+[24Mar2025 02:06:03.316] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Mar2025 02:06:03.316] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.316] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.330] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Mar2025 02:06:03.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.331] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.337] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Mar2025 02:06:03.337] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.338] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.338] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Mar2025 02:06:03.338] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.338] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.339] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[24Mar2025 02:06:03.339] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.340] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.360] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[24Mar2025 02:06:03.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.364] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.365] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[24Mar2025 02:06:03.365] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Mar2025 02:06:03.365] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Mar2025 02:06:03.388] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Mar2025 02:06:03.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.35.40.187:38501] logged in with entity id 1119 at (1366.5, 127.0, 717.5)
+[24Mar2025 02:06:03.459] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@65800570 into net.minecraft.network.Connection@58dbf438
+[24Mar2025 02:06:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
+[24Mar2025 02:06:03.998] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742781963991
+[24Mar2025 02:06:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:06:20.752] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742781980734
+[24Mar2025 02:06:28.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:06:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [The Cutest Predator]
+[24Mar2025 02:06:40.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:06:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Eldel to correcamin0]
+[24Mar2025 02:06:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Contrexx24 a server operator]
+[24Mar2025 02:06:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Eldel a server operator]
+[24Mar2025 02:07:11.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:07:11.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:07:23.340] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[24Mar2025 02:07:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
+[24Mar2025 02:07:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
+[24Mar2025 02:07:50.313] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782070313
+[24Mar2025 02:07:52.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:07:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:08:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:09:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:09:41.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:10:44.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:10:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Vex
+[24Mar2025 02:10:49.138] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782249114
+[24Mar2025 02:11:17.992] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:24,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[24Mar2025 02:11:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:11:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 fell from a high place
+[24Mar2025 02:11:48.686] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782308682
+[24Mar2025 02:11:50.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/3108, l='ServerLevel[world]', x=943.37, y=71.50, z=-780.80] died: Crystal fell from a high place
+[24Mar2025 02:12:11.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:12:11.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:12:14.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.31088182496273475
+[24Mar2025 02:12:16.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:12:31.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:12:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:13:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:13:14.296] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:16.582] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-56, z=25}
+[24Mar2025 02:13:16.583] [Worker-Main-17/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"zombiekit:iron_rake",tag:{Damage:0}}
+[24Mar2025 02:13:16.584] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.586] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.590] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.592] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
+[24Mar2025 02:13:16.593] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.594] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
+[24Mar2025 02:13:16.635] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.637] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:19.747] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:19.952] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:24.190] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:25.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:13:42.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:14:01.948] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
+[24Mar2025 02:14:07.922] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=333}
+[24Mar2025 02:14:14.291] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[24Mar2025 02:14:14.291] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdf672cc$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[24Mar2025 02:14:14.295] [Server thread/DEBUG] [mixin/]: Mixing VanillaInventoryCodeHooksMixin from sona.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[24Mar2025 02:14:33.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4918, l='ServerLevel[world]', x=254.50, y=102.00, z=-712.09] died, message: 'Mason was poked to death by a barbed wire.'
+[24Mar2025 02:14:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:15:13.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:15:35.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:15:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:16:15.548] [Server thread/DEBUG] [pointblank/]: 75548 handling client fire request
+[24Mar2025 02:16:15.548] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 23
+[24Mar2025 02:16:15.551] [Server thread/DEBUG] [pointblank/]: 75551 - obtained hit result in 1ms
+[24Mar2025 02:16:15.551] [Server thread/DEBUG] [pointblank/]: 75551 obtained hit results
+[24Mar2025 02:16:15.551] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@257aa3e2
+[24Mar2025 02:16:15.552] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:15.553] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=440.79, y=108.19, z=-1034.73]
+[24Mar2025 02:16:15.740] [Server thread/DEBUG] [pointblank/]: 75740 handling client fire request
+[24Mar2025 02:16:15.740] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 22
+[24Mar2025 02:16:15.740] [Server thread/DEBUG] [pointblank/]: 75740 - obtained hit result in 0ms
+[24Mar2025 02:16:15.740] [Server thread/DEBUG] [pointblank/]: 75740 obtained hit results
+[24Mar2025 02:16:15.740] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24f02a5b
+[24Mar2025 02:16:15.741] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:15.741] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=441.11, y=107.43, z=-1034.50]
+[24Mar2025 02:16:15.844] [Server thread/DEBUG] [pointblank/]: 75844 handling client fire request
+[24Mar2025 02:16:15.844] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 21
+[24Mar2025 02:16:15.845] [Server thread/DEBUG] [pointblank/]: 75845 - obtained hit result in 0ms
+[24Mar2025 02:16:15.845] [Server thread/DEBUG] [pointblank/]: 75845 obtained hit results
+[24Mar2025 02:16:15.845] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e6ae42a
+[24Mar2025 02:16:15.856] [Server thread/DEBUG] [pointblank/]: Creating state 05372dbb-0c55-41e8-b134-506bd9b065c0
+[24Mar2025 02:16:15.864] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:15.865] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=441.21, y=106.94, z=-1034.36]
+[24Mar2025 02:16:15.901] [Server thread/DEBUG] [pointblank/]: 75901 handling client fire request
+[24Mar2025 02:16:15.901] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 20
+[24Mar2025 02:16:15.901] [Server thread/DEBUG] [pointblank/]: 75901 - obtained hit result in 0ms
+[24Mar2025 02:16:15.901] [Server thread/DEBUG] [pointblank/]: 75901 obtained hit results
+[24Mar2025 02:16:15.901] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50410788
+[24Mar2025 02:16:15.902] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:15.902] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=441.20, y=106.94, z=-1034.03]
+[24Mar2025 02:16:16.009] [Server thread/DEBUG] [pointblank/]: 76009 handling client fire request
+[24Mar2025 02:16:16.009] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 19
+[24Mar2025 02:16:16.009] [Server thread/DEBUG] [pointblank/]: 76009 - obtained hit result in 0ms
+[24Mar2025 02:16:16.009] [Server thread/DEBUG] [pointblank/]: 76009 obtained hit results
+[24Mar2025 02:16:16.009] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@420aa567
+[24Mar2025 02:16:16.011] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:16.011] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=441.17, y=107.36, z=-1033.63]
+[24Mar2025 02:16:16.098] [Server thread/DEBUG] [pointblank/]: 76098 handling client fire request
+[24Mar2025 02:16:16.099] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 18
+[24Mar2025 02:16:16.099] [Server thread/DEBUG] [pointblank/]: 76099 - obtained hit result in 0ms
+[24Mar2025 02:16:16.099] [Server thread/DEBUG] [pointblank/]: 76099 obtained hit results
+[24Mar2025 02:16:16.099] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dccba4f
+[24Mar2025 02:16:16.100] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30]
+[24Mar2025 02:16:16.100] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=442.95, y=107.00, z=-1030.30] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=441.16, y=107.69, z=-1033.50]
+[24Mar2025 02:16:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 208 entities]
+[24Mar2025 02:16:51.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6937, l='ServerLevel[world]', x=416.70, y=106.00, z=-1051.50] died, message: 'Weaponsmith was slain by Zombie'
+[24Mar2025 02:16:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 became roadkill
+[24Mar2025 02:16:56.139] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782616110
+[24Mar2025 02:17:11.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:17:11.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:17:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:17:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Killed Contrexx24]
+[24Mar2025 02:17:14.913] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[24Mar2025 02:17:14.914] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[24Mar2025 02:17:17.717] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782637710
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[24Mar2025 02:17:30.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:17:46.215] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[24Mar2025 02:17:46.228] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Mar2025 02:18:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Assasin Black Ops
+[24Mar2025 02:18:14.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
+[24Mar2025 02:18:14.495] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782694488
+[24Mar2025 02:18:15.596] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742782695557
+[24Mar2025 02:18:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:18:37.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:18:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:19:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Leon]
+[24Mar2025 02:19:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:20:36.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:20:57.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:21:33.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:22:11.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:22:11.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:22:54.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:24:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Infected Soldier
+[24Mar2025 02:24:43.909] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783083898
+[24Mar2025 02:24:45.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:24:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:25:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:25:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Contrexx24]
+[24Mar2025 02:25:06.639] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783106619
+[24Mar2025 02:25:37.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:25:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:26:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:26:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Suit Up]
+[24Mar2025 02:26:27.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:26:33.490] [Server thread/DEBUG] [pointblank/]: 93490 handling client fire request
+[24Mar2025 02:26:33.490] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 17
+[24Mar2025 02:26:33.490] [Server thread/DEBUG] [pointblank/]: 93490 - obtained hit result in 0ms
+[24Mar2025 02:26:33.490] [Server thread/DEBUG] [pointblank/]: 93490 obtained hit results
+[24Mar2025 02:26:33.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1cdfdf1b
+[24Mar2025 02:26:33.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Eldel'/782, l='ServerLevel[world]', x=1368.46, y=98.00, z=681.70]
+[24Mar2025 02:26:33.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76]
+[24Mar2025 02:26:33.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=1371.70, y=99.00, z=682.70]
+[24Mar2025 02:26:33.582] [Server thread/DEBUG] [pointblank/]: 93582 handling client fire request
+[24Mar2025 02:26:33.582] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 16
+[24Mar2025 02:26:33.583] [Server thread/DEBUG] [pointblank/]: 93583 - obtained hit result in 0ms
+[24Mar2025 02:26:33.583] [Server thread/DEBUG] [pointblank/]: 93583 obtained hit results
+[24Mar2025 02:26:33.583] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c9de654
+[24Mar2025 02:26:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 02:26:33.584] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Eldel'/782, l='ServerLevel[world]', x=1368.46, y=98.00, z=681.70]
+[24Mar2025 02:26:33.585] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76]
+[24Mar2025 02:26:33.585] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=1371.70, y=99.00, z=682.70]
+[24Mar2025 02:26:33.829] [Server thread/DEBUG] [pointblank/]: 93829 handling client fire request
+[24Mar2025 02:26:33.829] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 15
+[24Mar2025 02:26:33.829] [Server thread/DEBUG] [pointblank/]: 93829 - obtained hit result in 0ms
+[24Mar2025 02:26:33.829] [Server thread/DEBUG] [pointblank/]: 93829 obtained hit results
+[24Mar2025 02:26:33.829] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4e2a2cb4
+[24Mar2025 02:26:33.830] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Eldel'/782, l='ServerLevel[world]', x=1368.65, y=98.00, z=681.54]
+[24Mar2025 02:26:33.831] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76]
+[24Mar2025 02:26:33.831] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1371.70, y=99.00, z=680.76] sends hit scan notification to ServerPlayer['Contrexx24'/1119, l='ServerLevel[world]', x=1371.70, y=99.20, z=682.70]
+[24Mar2025 02:26:34.331] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1823347448 to 25
+[24Mar2025 02:26:36.690] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783196680
+[24Mar2025 02:26:39.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:26:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 02:26:52.751] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783212751
+[24Mar2025 02:26:57.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Eldel to correcamin0]
+[24Mar2025 02:27:11.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:27:11.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:27:20.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
+[24Mar2025 02:27:20.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
+[24Mar2025 02:27:22.539] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783242530
+[24Mar2025 02:27:25.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:27:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed Contrexx24]
+[24Mar2025 02:27:35.642] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783255642
+[24Mar2025 02:27:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:27:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:27:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:27:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:27:53.642] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783273642
+[24Mar2025 02:27:54.007] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783273992
+[24Mar2025 02:27:55.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:57.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:28:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:28:05.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:28:55.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:29:19.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:29:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:30:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 fell from a high place
+[24Mar2025 02:30:15.880] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742783415869
+[24Mar2025 02:32:11.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:32:11.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:34:16.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:34:50.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:36:29.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:36:29.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:36:33.379] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:25,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[24Mar2025 02:36:34.231] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:25,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;1127218512,-664651423,-1764107698,-1607275377],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[24Mar2025 02:37:11.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:37:11.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:37:20.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:38:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:38:38.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:38:46.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:39:11.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:40:21.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.4610553999743843
+[24Mar2025 02:40:21.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.7562362707556076
+[24Mar2025 02:40:21.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.5181047093815323
+[24Mar2025 02:40:44.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.3647896051213593
+[24Mar2025 02:40:51.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.26985631505999663
+[24Mar2025 02:40:51.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.42810160013073073
+[24Mar2025 02:40:51.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.31861159498771485
+[24Mar2025 02:40:55.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
+[24Mar2025 02:40:57.529] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784057516
+[24Mar2025 02:41:02.778] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:25,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[24Mar2025 02:41:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[24Mar2025 02:41:28.686] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784088686
+[24Mar2025 02:41:47.590] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:47.879] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.086] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.280] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.482] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.679] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel died
+[24Mar2025 02:41:59.003] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784119003
+[24Mar2025 02:42:04.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:42:11.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:42:11.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:43:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:43:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:43:27.678] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784207675
+[24Mar2025 02:43:29.079] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784209071
+[24Mar2025 02:43:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:43:39.581] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784219572
+[24Mar2025 02:43:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:43:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
+[24Mar2025 02:43:45.084] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784225068
+[24Mar2025 02:43:45.348] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784225348

@@ -698,3 +698,141 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 02:05:41.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eldel[/127.59.115.145:58885] logged in with entity id 782 at (1363.5240882866522, 126.0, 722.6999999880791)
 [24Mar2025 02:05:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel joined the game
 [24Mar2025 02:05:45.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:06:00.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/838, l='ServerLevel[world]', x=1328.70, y=97.00, z=817.70] died, message: 'Villager was slain by Runner'
+[24Mar2025 02:06:03.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.35.40.187:38501] logged in with entity id 1119 at (1366.5, 127.0, 717.5)
+[24Mar2025 02:06:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
+[24Mar2025 02:06:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:06:28.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:06:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [The Cutest Predator]
+[24Mar2025 02:06:40.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:06:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Eldel to correcamin0]
+[24Mar2025 02:06:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Contrexx24 a server operator]
+[24Mar2025 02:06:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Eldel a server operator]
+[24Mar2025 02:07:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
+[24Mar2025 02:07:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
+[24Mar2025 02:07:52.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:07:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:08:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:09:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:09:41.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:10:44.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:10:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Vex
+[24Mar2025 02:11:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:11:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 fell from a high place
+[24Mar2025 02:11:50.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/3108, l='ServerLevel[world]', x=943.37, y=71.50, z=-780.80] died: Crystal fell from a high place
+[24Mar2025 02:12:14.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.31088182496273475
+[24Mar2025 02:12:16.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:12:31.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:12:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:13:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:13:14.296] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:16.582] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-56, z=25}
+[24Mar2025 02:13:16.583] [Worker-Main-17/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"zombiekit:iron_rake",tag:{Damage:0}}
+[24Mar2025 02:13:16.584] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.586] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.590] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.592] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
+[24Mar2025 02:13:16.593] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.594] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
+[24Mar2025 02:13:16.635] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:16.637] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:19.747] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 02:13:19.952] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:24.190] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 02:13:25.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:13:42.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:14:01.948] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
+[24Mar2025 02:14:07.922] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=333}
+[24Mar2025 02:14:33.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4918, l='ServerLevel[world]', x=254.50, y=102.00, z=-712.09] died, message: 'Mason was poked to death by a barbed wire.'
+[24Mar2025 02:14:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:15:13.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:15:35.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:15:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:16:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 208 entities]
+[24Mar2025 02:16:51.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6937, l='ServerLevel[world]', x=416.70, y=106.00, z=-1051.50] died, message: 'Weaponsmith was slain by Zombie'
+[24Mar2025 02:16:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 became roadkill
+[24Mar2025 02:17:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:17:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Killed Contrexx24]
+[24Mar2025 02:17:14.913] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[24Mar2025 02:17:14.914] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[24Mar2025 02:17:30.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:18:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Assasin Black Ops
+[24Mar2025 02:18:14.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
+[24Mar2025 02:18:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:18:37.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:18:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:19:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Leon]
+[24Mar2025 02:19:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:20:36.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:20:57.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:21:33.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:22:54.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:24:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Infected Soldier
+[24Mar2025 02:24:45.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:24:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:25:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:25:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Contrexx24]
+[24Mar2025 02:25:37.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:25:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:26:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:26:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Suit Up]
+[24Mar2025 02:26:27.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:26:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 02:26:39.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:26:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 02:26:57.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Eldel to correcamin0]
+[24Mar2025 02:27:20.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
+[24Mar2025 02:27:20.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
+[24Mar2025 02:27:25.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[24Mar2025 02:27:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed Contrexx24]
+[24Mar2025 02:27:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:27:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:27:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:27:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:27:55.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:27:57.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:28:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
+[24Mar2025 02:28:05.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:28:55.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:29:19.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:29:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:30:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 fell from a high place
+[24Mar2025 02:34:16.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:34:50.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:36:29.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:36:29.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:37:20.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:38:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:38:38.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:38:46.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:39:11.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:40:21.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.4610553999743843
+[24Mar2025 02:40:21.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.7562362707556076
+[24Mar2025 02:40:21.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.5181047093815323
+[24Mar2025 02:40:44.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.3647896051213593
+[24Mar2025 02:40:51.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.26985631505999663
+[24Mar2025 02:40:51.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.42810160013073073
+[24Mar2025 02:40:51.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.31861159498771485
+[24Mar2025 02:40:55.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
+[24Mar2025 02:41:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[24Mar2025 02:41:47.590] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:47.879] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.086] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.280] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.482] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:48.679] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:41:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel died
+[24Mar2025 02:42:04.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 02:43:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:43:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:43:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:43:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[24Mar2025 02:43:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
