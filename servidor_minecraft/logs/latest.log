@@ -1095,3 +1095,102 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 03:35:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
 [24Mar2025 03:35:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has reached the goal [Postmortal]
 [24Mar2025 03:37:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:38:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Deepling Brute
+[24Mar2025 03:39:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:39:29.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:39:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 drowned
+[24Mar2025 03:39:46.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:39:53.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3037.410000, 30.500000, 401.090000]
+[24Mar2025 03:40:16.594] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_curse_located (cataclysm:frosted_prison) took 705 ms
+[24Mar2025 03:40:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was exterminated by Deepling Warlock 's laser
+[24Mar2025 03:41:22.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3759.500000, 23.000000, -911.500000]
+[24Mar2025 03:41:22.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[24Mar2025 03:41:42.895] [Worker-Main-109/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 03:41:54.242] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-56, z=25}
+[24Mar2025 03:41:54.243] [Worker-Main-65/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"zombiekit:iron_rake",tag:{Damage:0}}
+[24Mar2025 03:41:54.244] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:41:54.245] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:41:54.246] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:41:54.247] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
+[24Mar2025 03:41:54.247] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:41:54.248] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
+[24Mar2025 03:41:54.353] [Worker-Main-66/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:41:54.355] [Worker-Main-66/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:42:00.270] [Worker-Main-59/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[24Mar2025 03:42:00.296] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 03:42:08.375] [Worker-Main-65/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[24Mar2025 03:42:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 03:42:12.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:42:22.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:42:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 03:42:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:42:45.482] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_desert_located (cataclysm:cursed_pyramid) took 872 ms
+[24Mar2025 03:42:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.500000, 26.000000, 6544.500000]
+[24Mar2025 03:42:59.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9700ms or 194 ticks behind
+[24Mar2025 03:42:59.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eldel moved too quickly! 8.948076592184862,4.50401290177652,-0.6065963017828153
+[24Mar2025 03:43:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:43:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 suffocated in a wall
+[24Mar2025 03:43:12.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:43:13.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:43:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 03:43:39.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:43:47.249] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[24Mar2025 03:43:47.262] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[24Mar2025 03:43:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Infected Juggernaut
+[24Mar2025 03:43:58.020] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[24Mar2025 03:43:58.020] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[24Mar2025 03:44:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[24Mar2025 03:44:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Into Darkness]
+[24Mar2025 03:44:37.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:44:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[24Mar2025 03:44:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Into Darkness]
+[24Mar2025 03:45:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Source of Evil]
+[24Mar2025 03:45:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 03:45:11.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:45:11.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:45:12.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:45:12.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:45:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:45:21.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[24Mar2025 03:45:24.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 03:45:40.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:45:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.150000, -18.000000, 6542.550000]
+[24Mar2025 03:45:55.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:46:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Taking from the Dead]
+[24Mar2025 03:46:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Iron, but dark]
+[24Mar2025 03:46:37.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Source of Evil]
+[24Mar2025 03:46:40.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:47:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:47:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Into Darkness]
+[24Mar2025 03:47:22.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was shot by Contrexx24
+[24Mar2025 03:47:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Corrupted Vindicator
+[24Mar2025 03:47:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
+[24Mar2025 03:47:38.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.150000, -18.000000, 6542.550000]
+[24Mar2025 03:47:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Source of Evil]
+[24Mar2025 03:49:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:49:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:49:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by Eldel
+[24Mar2025 03:49:34.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:49:34.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:49:38.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:50:05.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Taking from the Dead]
+[24Mar2025 03:50:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Wraith
+[24Mar2025 03:50:12.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:50:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 03:50:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Taking from the Dead]
+[24Mar2025 03:52:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Wraith
+[24Mar2025 03:52:18.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 03:52:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 03:52:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[24Mar2025 03:52:30.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:52:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[24Mar2025 03:52:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Corrupted Vindicator
+[24Mar2025 03:53:22.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:53:59.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Iron, but dark]
+[24Mar2025 03:54:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Acolyte
+[24Mar2025 03:54:20.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:54:25.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 03:54:49.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:55:14.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 03:55:25.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 03:55:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8840.030000, -28.000000, 6535.130000]
