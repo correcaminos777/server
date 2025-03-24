@@ -3605,3 +3605,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [24Mar2025 02:43:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
 [24Mar2025 02:43:45.084] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784225068
 [24Mar2025 02:43:45.348] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784225348
+[24Mar2025 02:47:09.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:47:11.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:47:11.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:47:51.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:48:10.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:48:18.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[24Mar2025 02:48:18.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[24Mar2025 02:49:39.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:49:41.243] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784581243
+[24Mar2025 02:49:55.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 839.440000, 59.320000, 977.150000]
+[24Mar2025 02:50:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
+[24Mar2025 02:50:13.975] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784613943
+[24Mar2025 02:50:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:50:20.637] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784620600
+[24Mar2025 02:50:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:50:30.648] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784630648
+[24Mar2025 02:51:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 861.160000, 75.210000, 1130.390000]
+[24Mar2025 02:51:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:51:15.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3132293978424059
+[24Mar2025 02:51:15.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5558906098051466
+[24Mar2025 02:51:15.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.8019793398918864
+[24Mar2025 02:51:15.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
+[24Mar2025 02:51:15.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
+[24Mar2025 02:51:15.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
+[24Mar2025 02:51:15.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
+[24Mar2025 02:51:15.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.33857111768156756
+[24Mar2025 02:51:15.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5826789072712018
+[24Mar2025 02:51:15.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.8227122130560929
+[24Mar2025 02:51:15.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3336025516339305
+[24Mar2025 02:51:15.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5736358574188216
+[24Mar2025 02:51:15.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.31732223754488587
+[24Mar2025 02:51:15.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5461142098017717
+[24Mar2025 02:51:16.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3060809040168806
+[24Mar2025 02:51:16.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5277546443185201
+[24Mar2025 02:51:16.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.25953993627445016
+[24Mar2025 02:51:16.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.27581760062844296
+[24Mar2025 02:51:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:51:32.095] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784692095
+[24Mar2025 02:51:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:51:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 870.060000, 73.400000, 1214.260000]
+[24Mar2025 02:52:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:52:09.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:52:11.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 02:52:11.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 02:52:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:52:23.827] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784743816
+[24Mar2025 02:52:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 866.630000, 64.970000, 1405.040000]
+[24Mar2025 02:53:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:53:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 became roadkill
+[24Mar2025 02:53:02.937] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784782908
+[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[24Mar2025 02:53:47.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:53:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[24Mar2025 02:53:52.397] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784832381
+[24Mar2025 02:53:57.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:54:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[24Mar2025 02:54:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 02:54:26.180] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:54:26.385] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:54:26.532] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Mar2025 02:55:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[24Mar2025 02:55:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:55:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
+[24Mar2025 02:55:44.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:55:46.835] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784946824
+[24Mar2025 02:55:46.961] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784946956
+[24Mar2025 02:55:52.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel died
+[24Mar2025 02:55:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:55:58.752] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784958749
+[24Mar2025 02:56:00.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:56:00.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[24Mar2025 02:56:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 873.130000, 71.690000, 1925.580000]
+[24Mar2025 02:56:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[24Mar2025 02:56:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 moved wrongly!
+[24Mar2025 02:56:28.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
+[24Mar2025 02:56:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 died
+[24Mar2025 02:56:30.368] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784990368
+[24Mar2025 02:56:32.081] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1742784992069
