@@ -1,10 +1,18 @@
 [
   {
-    "uuid": "7ba5a2fe-33bc-3613-bf2d-35be7f53c588",
-    "name": "correcamin0",
-    "created": "2025-03-25 21:55:05 +0000",
-    "source": "Contrexx24",
+    "uuid": "77ff3b73-2894-31ac-9c20-43034536e3b3",
+    "name": "con/ban",
+    "created": "2025-03-25 21:55:52 +0000",
+    "source": "Server",
     "expires": "forever",
-    "reason": "hacks for tree seconds"
+    "reason": "Contrexx24 mama verga"
+  },
+  {
+    "uuid": "5ad5eda6-0610-3fcd-b47a-42b51adb8461",
+    "name": "Contrexx24",
+    "created": "2025-03-25 21:59:16 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
   }
 ]
