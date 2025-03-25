@@ -877,3 +877,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [25Mar2025 21:43:32.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Contrexx24]
 [25Mar2025 21:43:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Hidden in the Depths]
 [25Mar2025 21:45:18.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:46:05.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:46:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> kevlar
+[25Mar2025 21:47:28.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[25Mar2025 21:47:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[25Mar2025 21:48:01.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[25Mar2025 21:48:14.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:48:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[25Mar2025 21:48:32.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:48:33.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[25Mar2025 21:49:01.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:49:09.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:49:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[25Mar2025 21:50:02.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:50:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[25Mar2025 21:50:33.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:51:06.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzz
+[25Mar2025 21:51:09.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzzzzzz
+[25Mar2025 21:51:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzz
+[25Mar2025 21:51:14.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzz
+[25Mar2025 21:51:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> zzzzzzzzzzzzzzz
+[25Mar2025 21:51:20.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Contrexx24: Location (1367.4987187087536, 127.625, 717.5415464639664) too far away from hit block BlockPos{x=1367, y=126, z=717}.
+[25Mar2025 21:51:26.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:51:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[25Mar2025 21:51:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:52:01.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[25Mar2025 21:52:08.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:52:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:52:24.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:52:26.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was doomed to fall by Contrexx24
+[25Mar2025 21:52:29.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:52:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:52:57.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:53:03.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
+[25Mar2025 21:53:04.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:53:06.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:53:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:53:19.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 lost connection: Disconnected
+[25Mar2025 21:53:19.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
+[25Mar2025 21:53:19.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked Contrexx24: Kicked by an operator]
+[25Mar2025 21:53:19.847] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Mar2025 21:53:46.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.28.69.233:42447] logged in with entity id 25849 at (1374.4705973165392, 131.125, 721.772199034863)
+[25Mar2025 21:53:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
+[25Mar2025 21:53:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
+[25Mar2025 21:54:11.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:54:40.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25Mar2025 21:55:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Banned correcamin0: hacks for tree seconds]
+[25Mar2025 21:55:05.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: You are banned from this server
+[25Mar2025 21:55:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
+[25Mar2025 21:55:22.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
