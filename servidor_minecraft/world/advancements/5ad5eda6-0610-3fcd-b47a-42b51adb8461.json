@@ -25,6 +25,7 @@
       "minecraft:mangrove_swamp": "2025-03-22 01:47:03 +0000",
       "minecraft:sparse_jungle": "2025-03-23 01:53:18 +0000",
       "minecraft:river": "2025-03-23 01:51:11 +0000",
+      "minecraft:snowy_plains": "2025-03-25 21:06:51 +0000",
       "minecraft:dripstone_caves": "2025-03-20 20:44:51 +0000",
       "minecraft:swamp": "2025-03-22 00:29:50 +0000",
       "minecraft:forest": "2025-03-22 01:57:18 +0000",
@@ -2508,6 +2509,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-25 20:58:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-03-25 21:06:51 +0000"
     },
     "done": true
   },

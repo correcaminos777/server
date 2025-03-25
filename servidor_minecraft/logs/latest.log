@@ -773,3 +773,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [25Mar2025 21:03:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 48 entities]
 [25Mar2025 21:03:30.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [25Mar2025 21:03:42.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 4 entities]
+[25Mar2025 21:05:02.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:06:14.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8831.500000, 119.000000, 11936.500000]
+[25Mar2025 21:06:19.657] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[25Mar2025 21:06:19.658] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[25Mar2025 21:06:30.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:06:45.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:06:50.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[25Mar2025 21:06:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Frosted Prison]
+[25Mar2025 21:07:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Soldier
+[25Mar2025 21:07:37.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:09:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> sr
+[25Mar2025 21:10:06.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:12:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Corpse Fly
+[25Mar2025 21:12:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was impaled on a stalagmite
+[25Mar2025 21:12:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
+[25Mar2025 21:12:27.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:12:27.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25Mar2025 21:12:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 21:13:57.809] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_mech_located (cataclysm:ancient_factory) took 64 ms
+[25Mar2025 21:14:11.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -10655.500000, 103.000000, 9376.500000]
+[25Mar2025 21:14:11.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9109ms or 182 ticks behind
+[25Mar2025 21:14:11.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 moved too quickly! 0.33454402098504943,1.2491870787446828,-10.138965150725198
+[25Mar2025 21:14:11.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 0.0,-10.342366735053545,0.0
+[25Mar2025 21:14:40.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25Mar2025 21:14:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
