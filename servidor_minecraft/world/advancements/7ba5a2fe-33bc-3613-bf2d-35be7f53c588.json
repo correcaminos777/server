@@ -26,10 +26,12 @@
       "minecraft:mangrove_swamp": "2025-03-22 01:46:32 +0000",
       "minecraft:sparse_jungle": "2025-03-23 01:47:18 +0000",
       "minecraft:river": "2025-03-19 18:57:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-25 21:14:11 +0000",
       "minecraft:snowy_plains": "2025-03-25 20:57:52 +0000",
       "minecraft:dripstone_caves": "2025-03-19 21:47:44 +0000",
       "minecraft:swamp": "2025-03-21 22:34:11 +0000",
       "minecraft:forest": "2025-03-20 20:04:39 +0000",
+      "minecraft:lush_caves": "2025-03-25 21:15:03 +0000",
       "minecraft:desert": "2025-03-22 02:08:23 +0000",
       "minecraft:windswept_forest": "2025-03-20 20:07:07 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-24 03:20:53 +0000",
@@ -3510,6 +3512,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-03-25 20:48:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-03-25 21:15:12 +0000"
     },
     "done": true
   },

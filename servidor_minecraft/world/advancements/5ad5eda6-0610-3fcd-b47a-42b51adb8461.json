@@ -1896,6 +1896,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-03-25 21:11:49 +0000",
       "melon_slice": "2025-03-23 01:30:47 +0000"
     },
     "done": false
