@@ -1,17 +1,17 @@
-[24Mar2025 01:55:49.601] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Mar2025 01:55:49.606] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[24Mar2025 01:55:50.579] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Mar2025 01:55:50.637] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Mar2025 01:55:50.967] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 01:55:50.969] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 01:55:50.971] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 01:55:50.973] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Mar2025 01:55:51.258] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[24Mar2025 01:55:53.220] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Mar2025 01:55:53.331] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.car.MixinConnector]
-[24Mar2025 01:55:53.333] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Mar2025 01:55:53.363] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 01:55:53.495] [main/INFO] [Puzzles Lib/]: Loading 40 mods:
+[25Mar2025 20:24:06.000] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[25Mar2025 20:24:06.005] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[25Mar2025 20:24:07.121] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Mar2025 20:24:07.175] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25Mar2025 20:24:07.511] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 20:24:07.512] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 20:24:07.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 20:24:07.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 20:24:07.814] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[25Mar2025 20:24:09.695] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Mar2025 20:24:09.810] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.car.MixinConnector]
+[25Mar2025 20:24:09.812] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[25Mar2025 20:24:09.829] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 20:24:09.977] [main/INFO] [Puzzles Lib/]: Loading 40 mods:
 	- aiimprovements 0.5.2
 	- apocalypsenow 3.0.4
 	- automobility 0.4.2+1.20.1-forge
@@ -52,54 +52,52 @@
 	- zombie_island 0.1.3.3
 	- zombiekit 2.1.1
 	- zombiesmore 2.0.0
-[24Mar2025 01:55:54.254] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[24Mar2025 01:55:54.255] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[24Mar2025 01:55:54.255] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found car.mixins.json:GuiMixin
-[24Mar2025 01:55:54.257] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/SoundOptionsScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.SoundOptionsScreen)
-[24Mar2025 01:55:54.257] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.SoundOptionsScreen was not found car.mixins.json:SoundOptionsScreenMixin
-[24Mar2025 01:55:54.727] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[24Mar2025 01:55:57.430] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[25Mar2025 20:24:10.839] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[25Mar2025 20:24:10.840] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[25Mar2025 20:24:10.840] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found car.mixins.json:GuiMixin
+[25Mar2025 20:24:10.842] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/SoundOptionsScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.SoundOptionsScreen)
+[25Mar2025 20:24:10.842] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.SoundOptionsScreen was not found car.mixins.json:SoundOptionsScreenMixin
+[25Mar2025 20:24:11.335] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[25Mar2025 20:24:13.866] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[24Mar2025 01:56:01.883] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[24Mar2025 01:56:02.830] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[24Mar2025 01:56:04.043] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[24Mar2025 01:56:04.295] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[24Mar2025 01:56:04.377] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Mar2025 01:56:04.377] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Mar2025 01:56:23.775] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[24Mar2025 01:56:23.849] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[24Mar2025 01:56:23.850] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[24Mar2025 01:56:23.850] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[24Mar2025 01:56:23.996] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[24Mar2025 01:56:24.036] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[24Mar2025 01:56:24.191] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[24Mar2025 01:56:24.192] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[24Mar2025 01:56:24.193] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[24Mar2025 01:56:24.202] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[24Mar2025 01:56:24.291] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[24Mar2025 01:56:24.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[24Mar2025 01:56:24.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[24Mar2025 01:56:24.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [car] Starting version check at https://update.maxhenkel.de/forge/car
-[24Mar2025 01:56:25.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [car] Found status: AHEAD Current: 1.20.1-1.0.34 Target: null
-[24Mar2025 01:56:25.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[24Mar2025 01:56:25.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[24Mar2025 01:56:25.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[24Mar2025 01:56:25.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
-[24Mar2025 01:56:25.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[24Mar2025 01:56:25.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[24Mar2025 01:56:25.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Mar2025 01:56:25.448] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Mar2025 01:56:30.901] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Mar2025 01:56:36.674] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/assets/.mcassetsroot' uses unexpected schema
-[24Mar2025 01:56:36.674] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/data/.mcassetsroot' uses unexpected schema
-[24Mar2025 01:56:43.509] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.8.1 MC 1.20.1.jar)
-[24Mar2025 01:56:43.561] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
-[24Mar2025 01:56:44.224] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
+[25Mar2025 20:24:17.537] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[25Mar2025 20:24:18.568] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[25Mar2025 20:24:19.485] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[25Mar2025 20:24:19.760] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[25Mar2025 20:24:19.842] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[25Mar2025 20:24:19.842] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[25Mar2025 20:24:39.901] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[25Mar2025 20:24:39.959] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[25Mar2025 20:24:40.121] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[25Mar2025 20:24:40.174] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[25Mar2025 20:24:40.356] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[25Mar2025 20:24:40.357] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[25Mar2025 20:24:40.357] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[25Mar2025 20:24:40.357] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[25Mar2025 20:24:40.358] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[25Mar2025 20:24:40.358] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[25Mar2025 20:24:40.359] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[25Mar2025 20:24:40.359] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[25Mar2025 20:24:40.373] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[25Mar2025 20:24:40.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[25Mar2025 20:24:40.473] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[25Mar2025 20:24:40.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[25Mar2025 20:24:40.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [car] Starting version check at https://update.maxhenkel.de/forge/car
+[25Mar2025 20:24:41.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [car] Found status: AHEAD Current: 1.20.1-1.0.34 Target: null
+[25Mar2025 20:24:41.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[25Mar2025 20:24:41.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[25Mar2025 20:24:41.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[25Mar2025 20:24:41.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
+[25Mar2025 20:24:41.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[25Mar2025 20:24:41.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[25Mar2025 20:24:41.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Mar2025 20:24:41.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[25Mar2025 20:24:47.886] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Mar2025 20:24:53.442] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/assets/.mcassetsroot' uses unexpected schema
+[25Mar2025 20:24:53.443] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/data/.mcassetsroot' uses unexpected schema
+[25Mar2025 20:25:00.540] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.8.1 MC 1.20.1.jar)
+[25Mar2025 20:25:00.563] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag apocalypsenow:armor/cloth as it is missing following references: apocalypsenow:nurse_helmet (from apocalypsenow-3.0.4-forge-1.20.1.jar)
+[25Mar2025 20:25:01.032] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/villagetaigahouse
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'apocalypsenow:officer_chestplate'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -151,7 +149,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Mar2025 01:56:44.294] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
+[25Mar2025 20:25:01.108] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -203,8 +201,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[24Mar2025 01:56:44.528] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[24Mar2025 01:56:44.561] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
+[25Mar2025 20:25:01.410] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[25Mar2025 20:25:01.443] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalclub
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -233,7 +231,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.565] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
+[25Mar2025 20:25:01.447] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulecombataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -262,7 +260,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.567] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
+[25Mar2025 20:25:01.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:combataxe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -291,7 +289,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.577] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
+[25Mar2025 20:25:01.459] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:rockeyhelmetrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestplate'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
@@ -324,7 +322,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:officer_chestpl
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.592] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
+[25Mar2025 20:25:01.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalkatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -353,7 +351,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.596] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
+[25Mar2025 20:25:01.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulemachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -382,7 +380,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.607] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
+[25Mar2025 20:25:01.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricaltaticalmace
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -411,7 +409,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.609] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
+[25Mar2025 20:25:01.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalbaseballbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -440,7 +438,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
+[25Mar2025 20:25:01.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemoduleironbat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -469,7 +467,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.642] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
+[25Mar2025 20:25:01.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:eletricalmachete
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -498,7 +496,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.645] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[25Mar2025 20:25:01.508] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -536,7 +534,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.651] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
+[25Mar2025 20:25:01.511] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -565,7 +563,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[25Mar2025 20:25:01.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -594,7 +592,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.661] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
+[25Mar2025 20:25:01.519] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe apocalypsenow:firemodulekatana
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -623,7 +621,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[25Mar2025 20:25:01.523] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
@@ -656,594 +654,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Mar2025 01:56:44.693] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[24Mar2025 01:56:44.871] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@6ff766e5, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@45e78b61}, criteria={kaboom_0=net.minecraft.advancements.Criterion@45e0eb3a}, requirements=[[kaboom_0]], sends_telemetry_event=false}
-[24Mar2025 01:56:44.871] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2262 advancements
-[24Mar2025 01:56:45.010] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[24Mar2025 01:56:45.017] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24Mar2025 01:56:45.054] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[24Mar2025 01:56:50.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Mar2025 01:56:50.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Mar2025 01:56:50.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Mar2025 01:56:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Mar2025 01:56:50.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Mar2025 01:56:50.540] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Mar2025 01:56:50.632] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Mar2025 01:56:50.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Mar2025 01:56:50.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Mar2025 01:56:50.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Mar2025 01:56:50.664] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[24Mar2025 01:56:50.665] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[24Mar2025 01:56:50.667] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[24Mar2025 01:56:50.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Mar2025 01:57:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Mar2025 01:57:06.622] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.643] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.653] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.663] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.691] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.738] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.748] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:06.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Mar2025 01:57:07.334] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[24Mar2025 01:57:07.835] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[24Mar2025 01:57:08.270] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5936 ms
-[24Mar2025 01:57:08.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.621s)! For help, type "help"
-[24Mar2025 01:57:08.310] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Mar2025 02:02:21.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:54775] logged in with entity id 99 at (905.478027032821, 61.0, -734.5529333498424)
-[24Mar2025 02:02:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
-[24Mar2025 02:02:24.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
-[24Mar2025 02:05:41.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eldel[/127.59.115.145:58885] logged in with entity id 782 at (1363.5240882866522, 126.0, 722.6999999880791)
-[24Mar2025 02:05:41.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel joined the game
-[24Mar2025 02:05:45.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:06:00.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/838, l='ServerLevel[world]', x=1328.70, y=97.00, z=817.70] died, message: 'Villager was slain by Runner'
-[24Mar2025 02:06:03.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.35.40.187:38501] logged in with entity id 1119 at (1366.5, 127.0, 717.5)
-[24Mar2025 02:06:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
-[24Mar2025 02:06:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:06:28.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:06:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [The Cutest Predator]
-[24Mar2025 02:06:40.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:06:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported Eldel to correcamin0]
-[24Mar2025 02:06:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Contrexx24 a server operator]
-[24Mar2025 02:06:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Made Eldel a server operator]
-[24Mar2025 02:07:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
-[24Mar2025 02:07:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
-[24Mar2025 02:07:52.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:07:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:08:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:09:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:09:41.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:10:44.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:10:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Vex
-[24Mar2025 02:11:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:11:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 fell from a high place
-[24Mar2025 02:11:50.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/3108, l='ServerLevel[world]', x=943.37, y=71.50, z=-780.80] died: Crystal fell from a high place
-[24Mar2025 02:12:14.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.31088182496273475
-[24Mar2025 02:12:16.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:12:31.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:12:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:13:10.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:13:14.296] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 02:13:16.582] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-56, z=25}
-[24Mar2025 02:13:16.583] [Worker-Main-17/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"zombiekit:iron_rake",tag:{Damage:0}}
-[24Mar2025 02:13:16.584] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:16.586] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:16.590] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:16.592] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
-[24Mar2025 02:13:16.593] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:16.594] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
-[24Mar2025 02:13:16.635] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:16.637] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:19.747] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 02:13:19.952] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 02:13:24.190] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 02:13:25.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:13:42.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:14:01.948] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
-[24Mar2025 02:14:07.922] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=333}
-[24Mar2025 02:14:33.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/4918, l='ServerLevel[world]', x=254.50, y=102.00, z=-712.09] died, message: 'Mason was poked to death by a barbed wire.'
-[24Mar2025 02:14:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:15:13.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:15:35.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:15:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:16:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed 208 entities]
-[24Mar2025 02:16:51.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6937, l='ServerLevel[world]', x=416.70, y=106.00, z=-1051.50] died, message: 'Weaponsmith was slain by Zombie'
-[24Mar2025 02:16:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 became roadkill
-[24Mar2025 02:17:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
-[24Mar2025 02:17:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Killed Contrexx24]
-[24Mar2025 02:17:14.913] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
-[24Mar2025 02:17:14.914] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
-[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
-[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
-[24Mar2025 02:17:19.290] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
-[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
-[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
-[24Mar2025 02:17:19.291] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
-[24Mar2025 02:17:30.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:18:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Assasin Black Ops
-[24Mar2025 02:18:14.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
-[24Mar2025 02:18:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:18:37.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 02:18:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
-[24Mar2025 02:19:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Leon]
-[24Mar2025 02:19:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:20:36.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:20:57.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:21:33.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:22:54.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:24:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Infected Soldier
-[24Mar2025 02:24:45.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:24:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 02:25:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
-[24Mar2025 02:25:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Contrexx24]
-[24Mar2025 02:25:37.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:25:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 02:26:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:26:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Suit Up]
-[24Mar2025 02:26:27.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:26:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 02:26:39.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:26:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 02:26:57.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:27:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Eldel to correcamin0]
-[24Mar2025 02:27:20.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
-[24Mar2025 02:27:20.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
-[24Mar2025 02:27:25.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:27:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
-[24Mar2025 02:27:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed Contrexx24]
-[24Mar2025 02:27:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
-[24Mar2025 02:27:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 02:27:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 02:27:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:27:55.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:27:57.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:28:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 02:28:05.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:28:55.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:29:19.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:29:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
-[24Mar2025 02:30:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 fell from a high place
-[24Mar2025 02:34:16.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:34:50.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:36:29.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:36:29.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:37:20.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:38:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:38:38.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:38:46.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:39:11.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:40:21.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.4610553999743843
-[24Mar2025 02:40:21.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.7562362707556076
-[24Mar2025 02:40:21.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.5181047093815323
-[24Mar2025 02:40:44.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.3647896051213593
-[24Mar2025 02:40:51.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.26985631505999663
-[24Mar2025 02:40:51.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.42810160013073073
-[24Mar2025 02:40:51.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Contrexx24) moved wrongly! 0.31861159498771485
-[24Mar2025 02:40:55.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Runner
-[24Mar2025 02:41:26.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
-[24Mar2025 02:41:47.590] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:47.879] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:48.086] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:48.280] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:48.482] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:48.679] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:41:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel died
-[24Mar2025 02:42:04.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
-[24Mar2025 02:43:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 02:43:27.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:43:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:43:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 02:43:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
-[24Mar2025 02:47:09.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:47:51.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:48:10.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:48:18.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 02:48:18.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:49:39.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:49:55.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 839.440000, 59.320000, 977.150000]
-[24Mar2025 02:50:12.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
-[24Mar2025 02:50:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:50:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:51:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 861.160000, 75.210000, 1130.390000]
-[24Mar2025 02:51:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:51:15.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3132293978424059
-[24Mar2025 02:51:15.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5558906098051466
-[24Mar2025 02:51:15.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.8019793398918864
-[24Mar2025 02:51:15.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
-[24Mar2025 02:51:15.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
-[24Mar2025 02:51:15.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
-[24Mar2025 02:51:15.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 1.0
-[24Mar2025 02:51:15.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.33857111768156756
-[24Mar2025 02:51:15.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5826789072712018
-[24Mar2025 02:51:15.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.8227122130560929
-[24Mar2025 02:51:15.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3336025516339305
-[24Mar2025 02:51:15.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5736358574188216
-[24Mar2025 02:51:15.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.31732223754488587
-[24Mar2025 02:51:15.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5461142098017717
-[24Mar2025 02:51:16.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.3060809040168806
-[24Mar2025 02:51:16.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.5277546443185201
-[24Mar2025 02:51:16.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.25953993627445016
-[24Mar2025 02:51:16.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of correcamin0) moved wrongly! 0.27581760062844296
-[24Mar2025 02:51:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:51:37.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:51:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 870.060000, 73.400000, 1214.260000]
-[24Mar2025 02:52:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:52:09.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:52:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:52:49.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 866.630000, 64.970000, 1405.040000]
-[24Mar2025 02:53:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:53:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 became roadkill
-[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
-[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
-[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
-[24Mar2025 02:53:19.381] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
-[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
-[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
-[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
-[24Mar2025 02:53:19.382] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
-[24Mar2025 02:53:47.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:53:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
-[24Mar2025 02:53:57.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:54:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:54:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 02:54:26.180] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:54:26.385] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:54:26.532] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24Mar2025 02:55:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 02:55:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:55:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 02:55:44.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:55:52.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel died
-[24Mar2025 02:55:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:56:00.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:56:00.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:56:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 873.130000, 71.690000, 1925.580000]
-[24Mar2025 02:56:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:56:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 moved wrongly!
-[24Mar2025 02:56:28.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 02:56:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 died
-[24Mar2025 02:56:44.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:57:05.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 890.180000, 56.400000, 1826.450000]
-[24Mar2025 02:57:13.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:57:26.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 drowned
-[24Mar2025 02:57:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 02:57:46.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:57:46.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:57:47.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:57:50.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 02:58:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 died
-[24Mar2025 02:58:04.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 02:58:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 890.180000, 56.400000, 1826.450000]
-[24Mar2025 02:58:18.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 02:58:52.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:00:09.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:00:11.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:00:16.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:00:34.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 03:00:38.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:01:07.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 862.590000, 56.420000, 1748.410000]
-[24Mar2025 03:01:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 03:01:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 03:01:50.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 lost connection: Disconnected
-[24Mar2025 03:01:50.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
-[24Mar2025 03:02:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:02:40.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:02:40.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:02:45.935] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a0a1a39[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.35.40.187:36243) lost connection: Disconnected
-[24Mar2025 03:02:58.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.35.40.187:41861] logged in with entity id 25259 at (1368.496604628034, 131.0, 721.3082842225986)
-[24Mar2025 03:02:58.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
-[24Mar2025 03:03:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:03:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:03:40.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
-[24Mar2025 03:03:53.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:04:00.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:04:08.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:04:15.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
-[24Mar2025 03:04:15.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
-[24Mar2025 03:04:27.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1369.010000, 126.000000, 724.830000]
-[24Mar2025 03:04:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:04:32.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:04:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:04:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:04:42.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:04:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
-[24Mar2025 03:04:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
-[24Mar2025 03:04:46.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:04:49.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:04:58.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
-[24Mar2025 03:04:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:05:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1369.010000, 126.000000, 724.830000]
-[24Mar2025 03:05:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:05:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:05:21.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:05:21.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:05:25.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:05:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to Eldel]
-[24Mar2025 03:05:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:05:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1369.010000, 126.000000, 724.830000]
-[24Mar2025 03:05:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
-[24Mar2025 03:06:02.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:06:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
-[24Mar2025 03:06:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:06:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:06:25.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:06:26.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:06:31.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:06:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel withered away whilst fighting Contrexx24
-[24Mar2025 03:06:45.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 1369.010000, 126.000000, 724.830000]
-[24Mar2025 03:06:49.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:07:06.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:07:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
-[24Mar2025 03:07:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:07:27.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:07:31.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:07:31.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:07:34.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:07:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
-[24Mar2025 03:07:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:07:52.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:07:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:07:57.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:08:01.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:08:05.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:08:06.316] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:08:06.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:08:07.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:08:12.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:08:14.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:08:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:08:22.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
-[24Mar2025 03:08:29.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:08:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked Eldel: Kicked by an operator]
-[24Mar2025 03:08:32.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eldel lost connection: Kicked by an operator
-[24Mar2025 03:08:32.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel left the game
-[24Mar2025 03:08:37.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:08:40.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> xd
-[24Mar2025 03:08:45.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:08:56.228] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29d0226b[id=<null>,name=Eldel,properties={},legacy=false] (/127.59.115.145:54751) lost connection: Disconnected
-[24Mar2025 03:09:07.329] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25169261[id=<null>,name=Eldel,properties={},legacy=false] (/127.59.115.145:48391) lost connection: Disconnected
-[24Mar2025 03:09:21.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d044dd2[id=<null>,name=Eldel,properties={},legacy=false] (/127.59.115.145:39635) lost connection: Disconnected
-[24Mar2025 03:09:32.828] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7307a9a7[id=<null>,name=Eldel,properties={},legacy=false] (/127.59.115.145:60285) lost connection: Disconnected
-[24Mar2025 03:09:34.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:09:41.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eldel[/127.59.115.145:54475] logged in with entity id 28123 at (1367.8413795460294, 127.0, 711.9537810520862)
-[24Mar2025 03:09:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel joined the game
-[24Mar2025 03:09:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:10:10.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:10:43.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
-[24Mar2025 03:10:53.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:10:55.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
-[24Mar2025 03:12:11.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
-[24Mar2025 03:12:22.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set Eldel's game mode to Survival Mode]
-[24Mar2025 03:12:47.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:13:23.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:13:40.865] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:14:25.606] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
-[24Mar2025 03:14:25.606] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
-[24Mar2025 03:14:54.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:15:03.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:15:15.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:15:59.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:16:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 died
-[24Mar2025 03:16:33.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:16:55.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:17:33.057] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:acquirable_job_site (minecraft:librarian) took 4 ms
-[24Mar2025 03:17:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to 102.500000, 79.000000, 85.500000]
-[24Mar2025 03:17:42.368] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:18:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> como me tratan mal
-[24Mar2025 03:18:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> tite
-[24Mar2025 03:18:45.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> cuando me enojo :/
-[24Mar2025 03:18:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> hpta como me va comparar mlp
-[24Mar2025 03:19:32.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:19:39.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:20:16.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:20:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> mal
-[24Mar2025 03:20:43.725] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_abyss_located (cataclysm:sunken_city) took 984 ms
-[24Mar2025 03:20:53.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3039.500000, 70.000000, 416.500000]
-[24Mar2025 03:20:53.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5490ms or 109 ticks behind
-[24Mar2025 03:20:53.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 0.0,-10.806526110009003,0.0
-[24Mar2025 03:20:53.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Sunken City]
-[24Mar2025 03:21:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:21:08.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Sunken City]
-[24Mar2025 03:21:23.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/25764, l='ServerLevel[world]', x=1318.30, y=92.00, z=838.45] died, message: 'Shepherd was slain by Runner'
-[24Mar2025 03:21:41.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:21:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Sunken City]
-[24Mar2025 03:22:30.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was doomed to fall
-[24Mar2025 03:22:35.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:22:36.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:22:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
-[24Mar2025 03:23:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Contrexx24
-[24Mar2025 03:23:18.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:23:23.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
-[24Mar2025 03:23:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Eldel
-[24Mar2025 03:23:28.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:23:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:23:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:24:25.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Deepling
-[24Mar2025 03:24:29.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:24:32.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Coralssus
-[24Mar2025 03:24:37.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:24:37.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:24:37.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3037.410000, 30.500000, 401.090000]
-[24Mar2025 03:24:43.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:25:04.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was impaled by Deepling
-[24Mar2025 03:25:10.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:25:12.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:25:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:26:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was impaled by Deepling
-[24Mar2025 03:26:34.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 hit the ground too hard whilst trying to escape Deepling Brute
-[24Mar2025 03:26:36.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:26:36.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:26:37.130] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:26:38.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:26:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:27:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel hit the ground too hard whilst trying to escape Deepling
-[24Mar2025 03:28:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:28:08.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:29:11.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Cover Me with Diamonds]
-[24Mar2025 03:30:25.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:30:25.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:32:04.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:32:35.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:33:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3037.410000, 30.500000, 401.090000]
-[24Mar2025 03:33:30.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:34:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:34:19.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:35:21.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:35:37.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:35:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:35:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has reached the goal [Postmortal]
-[24Mar2025 03:37:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:38:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Deepling Brute
-[24Mar2025 03:39:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:39:29.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:39:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 drowned
-[24Mar2025 03:39:46.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:39:53.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3037.410000, 30.500000, 401.090000]
-[24Mar2025 03:40:16.594] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_curse_located (cataclysm:frosted_prison) took 705 ms
-[24Mar2025 03:40:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was exterminated by Deepling Warlock 's laser
-[24Mar2025 03:41:22.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -3759.500000, 23.000000, -911.500000]
-[24Mar2025 03:41:22.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
-[24Mar2025 03:41:42.895] [Worker-Main-109/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 03:41:54.242] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-56, z=25}
-[24Mar2025 03:41:54.243] [Worker-Main-65/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"zombiekit:iron_rake",tag:{Damage:0}}
-[24Mar2025 03:41:54.244] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:41:54.245] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:41:54.246] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:41:54.247] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=-55, z=28}
-[24Mar2025 03:41:54.247] [Worker-Main-65/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:41:54.248] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-55, z=31}
-[24Mar2025 03:41:54.353] [Worker-Main-66/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:41:54.355] [Worker-Main-66/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:42:00.270] [Worker-Main-59/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
-[24Mar2025 03:42:00.296] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 03:42:08.375] [Worker-Main-65/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
-[24Mar2025 03:42:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:42:12.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:42:22.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:42:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 03:42:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:42:45.482] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_desert_located (cataclysm:cursed_pyramid) took 872 ms
-[24Mar2025 03:42:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.500000, 26.000000, 6544.500000]
-[24Mar2025 03:42:59.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9700ms or 194 ticks behind
-[24Mar2025 03:42:59.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eldel moved too quickly! 8.948076592184862,4.50401290177652,-0.6065963017828153
-[24Mar2025 03:43:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:43:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 suffocated in a wall
-[24Mar2025 03:43:12.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:43:13.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:43:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:43:39.267] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:43:47.249] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
-[24Mar2025 03:43:47.262] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
-[24Mar2025 03:43:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Infected Juggernaut
-[24Mar2025 03:43:58.020] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
-[24Mar2025 03:43:58.020] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
-[24Mar2025 03:44:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
-[24Mar2025 03:44:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Into Darkness]
-[24Mar2025 03:44:37.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:44:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
-[24Mar2025 03:44:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Into Darkness]
-[24Mar2025 03:45:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Source of Evil]
-[24Mar2025 03:45:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 03:45:11.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:45:11.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:45:12.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:45:12.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:45:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:45:21.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by correcamin0
-[24Mar2025 03:45:24.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:45:40.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:45:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.150000, -18.000000, 6542.550000]
-[24Mar2025 03:45:55.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:46:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Taking from the Dead]
-[24Mar2025 03:46:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Iron, but dark]
-[24Mar2025 03:46:37.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Source of Evil]
-[24Mar2025 03:46:40.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:47:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:47:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Into Darkness]
-[24Mar2025 03:47:22.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was shot by Contrexx24
-[24Mar2025 03:47:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Corrupted Vindicator
-[24Mar2025 03:47:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to Contrexx24]
-[24Mar2025 03:47:38.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8767.150000, -18.000000, 6542.550000]
-[24Mar2025 03:47:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Source of Evil]
-[24Mar2025 03:49:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:49:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:49:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by Eldel
-[24Mar2025 03:49:34.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:49:34.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:49:38.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:50:05.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Taking from the Dead]
-[24Mar2025 03:50:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Wraith
-[24Mar2025 03:50:12.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:50:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
-[24Mar2025 03:50:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Taking from the Dead]
-[24Mar2025 03:52:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Wraith
-[24Mar2025 03:52:18.951] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 03:52:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:52:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Contrexx24
-[24Mar2025 03:52:30.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:52:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
-[24Mar2025 03:52:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Corrupted Vindicator
-[24Mar2025 03:53:22.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:53:59.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Iron, but dark]
-[24Mar2025 03:54:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Acolyte
-[24Mar2025 03:54:20.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:54:25.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 03:54:49.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:55:14.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 03:55:25.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
-[24Mar2025 03:55:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8840.030000, -28.000000, 6535.130000]
-[24Mar2025 03:58:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 03:58:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Who turned the lights off?]
-[24Mar2025 03:59:25.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 has made the advancement [Sneak 100]
-[24Mar2025 03:59:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Corrupted Vindicator
-[24Mar2025 04:00:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8840.030000, -28.000000, 6535.130000]
-[24Mar2025 04:02:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Corrupted Vindicator
-[24Mar2025 04:02:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Corrupted Vindicator
-[24Mar2025 04:02:37.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 04:02:37.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 04:02:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -8840.030000, -28.000000, 6535.130000]
-[24Mar2025 04:03:05.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Teleported Contrexx24 to correcamin0]
-[24Mar2025 04:05:45.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Wraith
-[24Mar2025 04:05:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 04:07:20.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> contreras
-[24Mar2025 04:07:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> ya me voy
-[24Mar2025 04:07:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Contrexx24> yo tambien
-[24Mar2025 04:07:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was slain by Acolyte
-[24Mar2025 04:08:07.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 04:08:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was killed
-[24Mar2025 04:08:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Contrexx24: Killed Eldel]
-[24Mar2025 04:08:16.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was shot by Eldel
-[24Mar2025 04:08:21.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was shot by Eldel
-[24Mar2025 04:08:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Kicked Eldel: Kicked by an operator]
-[24Mar2025 04:08:27.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eldel lost connection: Kicked by an operator
-[24Mar2025 04:08:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel left the game
-[24Mar2025 04:08:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
-[24Mar2025 04:10:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
-[24Mar2025 04:10:10.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
-[24Mar2025 04:10:13.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 04:10:18.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Contrexx24 lost connection: Disconnected
-[24Mar2025 04:10:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 left the game
-[24Mar2025 04:10:28.865] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
-[24Mar2025 04:10:31.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
-[24Mar2025 04:10:31.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
-[24Mar2025 04:11:11.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[24Mar2025 04:11:11.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24Mar2025 04:11:11.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24Mar2025 04:11:11.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24Mar2025 04:11:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24Mar2025 04:11:12.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
-[24Mar2025 04:11:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
-[24Mar2025 04:11:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
-[24Mar2025 04:11:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[24Mar2025 04:11:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24Mar2025 04:11:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24Mar2025 04:11:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24Mar2025 04:11:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[24Mar2025 04:11:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[24Mar2025 04:11:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
-[24Mar2025 04:11:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[24Mar2025 04:11:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24Mar2025 04:11:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24Mar2025 04:11:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Mar2025 20:25:01.549] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[25Mar2025 20:25:01.692] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement zombiesmore:kaboom: Task Advancement{parentId=zombiesmore:kaboom, display=net.minecraft.advancements.DisplayInfo@18ca69a, rewards=AdvancementRewards{experience=5, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3ce789b5}, criteria={kaboom_0=net.minecraft.advancements.Criterion@35a649dc}, requirements=[[kaboom_0]], sends_telemetry_event=false}
+[25Mar2025 20:25:01.693] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2262 advancements
+[25Mar2025 20:25:01.793] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[25Mar2025 20:25:01.800] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25Mar2025 20:25:01.833] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[25Mar2025 20:25:07.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Mar2025 20:25:07.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Mar2025 20:25:07.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Mar2025 20:25:07.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Mar2025 20:25:07.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Mar2025 20:25:07.238] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Mar2025 20:25:07.336] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Mar2025 20:25:07.336] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Mar2025 20:25:07.337] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Mar2025 20:25:07.337] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Mar2025 20:25:07.364] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[25Mar2025 20:25:07.365] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[25Mar2025 20:25:07.367] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[25Mar2025 20:25:07.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Mar2025 20:25:11.280] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 20:25:13.410] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 20:25:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Mar2025 20:25:23.561] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.562] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.563] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.563] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.565] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.566] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.567] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.571] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.572] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.577] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.581] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.582] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.584] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:23.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 20:25:24.282] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[25Mar2025 20:25:24.782] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[25Mar2025 20:25:24.932] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9651 ms
+[25Mar2025 20:25:24.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.578s)! For help, type "help"
+[25Mar2025 20:25:24.976] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Mar2025 20:25:43.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3201398c[id=<null>,name=Contrexx24,properties={},legacy=false] (/127.28.69.233:49221) lost connection: Disconnected
+[25Mar2025 20:25:51.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:39729] logged in with entity id 183 at (139.72123081959137, 70.5625, 83.55870376553324)
+[25Mar2025 20:25:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
+[25Mar2025 20:26:06.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Contrexx24[/127.28.69.233:49079] logged in with entity id 281 at (1366.6957117052027, 131.0, 722.4597633261095)
+[25Mar2025 20:26:06.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 joined the game
+[25Mar2025 20:26:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 20:31:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Contrexx24 was killed
+[25Mar2025 20:31:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Killed Contrexx24]
+[25Mar2025 20:33:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
+[25Mar2025 20:33:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Contrexx24]
+[25Mar2025 20:33:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Contrexx24
