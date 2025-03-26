@@ -719,3 +719,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 23:10:08.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [26Mar2025 23:11:48.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [26Mar2025 23:12:08.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:14:33.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:14:53.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:16:07.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:16:11.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:16:11.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:17:08.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:17:34.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> medina
+[26Mar2025 23:17:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> DIGAME
+[26Mar2025 23:17:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que vamos a hacer
+[26Mar2025 23:17:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> NO ME ESCUCHA?
+[26Mar2025 23:17:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vamos a buscar hierro pa su armor
+[26Mar2025 23:20:44.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #eeeabsmobs:eye_of_guling (eeeabsmobs:guling) took 82 ms
+[26Mar2025 23:20:59.030] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[26Mar2025 23:20:59.046] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[26Mar2025 23:21:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -1295.500000, 126.000000, -1183.500000]
+[26Mar2025 23:21:01.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13056ms or 261 ticks behind
+[26Mar2025 23:21:01.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 0.0,-10.806526110008988,0.0
+[26Mar2025 23:21:02.227] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[26Mar2025 23:21:02.227] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[26Mar2025 23:21:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:21:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has reached the goal [The Guling]
+[26Mar2025 23:21:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:21:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:21:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has reached the goal [The Guling]
+[26Mar2025 23:23:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel fell from a high place
+[26Mar2025 23:23:53.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:23:55.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:23:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]

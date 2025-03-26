@@ -3293,3 +3293,205 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 23:10:39.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Mar2025 23:11:48.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [26Mar2025 23:12:08.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:14:33.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:14:53.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:15:39.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 23:15:39.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 23:16:07.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:16:11.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:16:11.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:17:08.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:17:34.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> medina
+[26Mar2025 23:17:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> DIGAME
+[26Mar2025 23:17:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> que vamos a hacer
+[26Mar2025 23:17:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Eldel> NO ME ESCUCHA?
+[26Mar2025 23:17:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <correcamin0> vamos a buscar hierro pa su armor
+[26Mar2025 23:18:41.603] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[26Mar2025 23:19:10.644] [Server thread/DEBUG] [pointblank/]: 50644 handling client fire request
+[26Mar2025 23:19:10.645] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 24
+[26Mar2025 23:19:10.645] [Server thread/DEBUG] [pointblank/]: 50645 - obtained hit result in 0ms
+[26Mar2025 23:19:10.645] [Server thread/DEBUG] [pointblank/]: 50645 obtained hit results
+[26Mar2025 23:19:10.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46ec6b2e
+[26Mar2025 23:19:10.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1377.83, y=126.00, z=718.55] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1377.83, y=126.00, z=718.55]
+[26Mar2025 23:19:10.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1377.83, y=126.00, z=718.55] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=1378.77, y=126.00, z=711.22]
+[26Mar2025 23:19:12.496] [Server thread/DEBUG] [pointblank/]: 52496 handling client fire request
+[26Mar2025 23:19:12.496] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 23
+[26Mar2025 23:19:12.496] [Server thread/DEBUG] [pointblank/]: 52496 - obtained hit result in 0ms
+[26Mar2025 23:19:12.496] [Server thread/DEBUG] [pointblank/]: 52496 obtained hit results
+[26Mar2025 23:19:12.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31e3ab38
+[26Mar2025 23:19:12.498] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11]
+[26Mar2025 23:19:12.498] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=1374.40, y=126.00, z=703.45]
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: 52554 handling client fire request
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 22
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: 52554 - obtained hit result in 0ms
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: 52554 obtained hit results
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@68d8eede
+[26Mar2025 23:19:12.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11]
+[26Mar2025 23:19:12.555] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=1376.98, y=126.00, z=722.11] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=1373.85, y=126.00, z=703.35]
+[26Mar2025 23:20:39.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 23:20:39.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 23:20:44.849] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #eeeabsmobs:eye_of_guling (eeeabsmobs:guling) took 82 ms
+[26Mar2025 23:20:52.287] [Worker-Main-21/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Mar2025 23:20:52.287] [Worker-Main-21/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Mar2025 23:20:52.349] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Mar2025 23:20:59.030] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[26Mar2025 23:20:59.046] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[26Mar2025 23:21:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -1295.500000, 126.000000, -1183.500000]
+[26Mar2025 23:21:01.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13056ms or 261 ticks behind
+[26Mar2025 23:21:01.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 moved too quickly! 0.0,-10.806526110008988,0.0
+[26Mar2025 23:21:02.227] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[26Mar2025 23:21:02.227] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[26Mar2025 23:21:14.107] [Server thread/DEBUG] [pointblank/]: 74107 handling client fire request
+[26Mar2025 23:21:14.107] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 21
+[26Mar2025 23:21:14.107] [Server thread/DEBUG] [pointblank/]: 74107 - obtained hit result in 0ms
+[26Mar2025 23:21:14.107] [Server thread/DEBUG] [pointblank/]: 74107 obtained hit results
+[26Mar2025 23:21:14.107] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@217c28b6
+[26Mar2025 23:21:14.108] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1295.82, y=104.00, z=-1183.64] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1295.82, y=104.00, z=-1183.64]
+[26Mar2025 23:21:14.154] [Server thread/DEBUG] [pointblank/]: 74154 handling client fire request
+[26Mar2025 23:21:14.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 20
+[26Mar2025 23:21:14.154] [Server thread/DEBUG] [pointblank/]: 74154 - obtained hit result in 0ms
+[26Mar2025 23:21:14.154] [Server thread/DEBUG] [pointblank/]: 74154 obtained hit results
+[26Mar2025 23:21:14.154] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15e6460f
+[26Mar2025 23:21:14.155] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1295.82, y=104.00, z=-1183.64] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1295.82, y=104.00, z=-1183.64]
+[26Mar2025 23:21:22.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:21:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has reached the goal [The Guling]
+[26Mar2025 23:21:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:21:56.019] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 25
+[26Mar2025 23:21:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:21:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has reached the goal [The Guling]
+[26Mar2025 23:23:32.104] [Server thread/DEBUG] [pointblank/]: 12104 handling client fire request
+[26Mar2025 23:23:32.104] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 24
+[26Mar2025 23:23:32.104] [Server thread/DEBUG] [pointblank/]: 12104 - obtained hit result in 0ms
+[26Mar2025 23:23:32.104] [Server thread/DEBUG] [pointblank/]: 12104 obtained hit results
+[26Mar2025 23:23:32.104] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33785861
+[26Mar2025 23:23:32.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.45, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.45, y=-3.00, z=-1128.74]
+[26Mar2025 23:23:32.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.45, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.51]
+[26Mar2025 23:23:32.163] [Server thread/DEBUG] [pointblank/]: 12163 handling client fire request
+[26Mar2025 23:23:32.163] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 23
+[26Mar2025 23:23:32.164] [Server thread/DEBUG] [pointblank/]: 12164 - obtained hit result in 1ms
+[26Mar2025 23:23:32.164] [Server thread/DEBUG] [pointblank/]: 12164 obtained hit results
+[26Mar2025 23:23:32.164] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f5c5ff8
+[26Mar2025 23:23:32.165] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74]
+[26Mar2025 23:23:32.165] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.51]
+[26Mar2025 23:23:32.250] [Server thread/DEBUG] [pointblank/]: 12250 handling client fire request
+[26Mar2025 23:23:32.250] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 22
+[26Mar2025 23:23:32.250] [Server thread/DEBUG] [pointblank/]: 12250 - obtained hit result in 0ms
+[26Mar2025 23:23:32.250] [Server thread/DEBUG] [pointblank/]: 12250 obtained hit results
+[26Mar2025 23:23:32.250] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@697a41b4
+[26Mar2025 23:23:32.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74]
+[26Mar2025 23:23:32.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.51]
+[26Mar2025 23:23:32.348] [Server thread/DEBUG] [pointblank/]: 12348 handling client fire request
+[26Mar2025 23:23:32.348] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 21
+[26Mar2025 23:23:32.349] [Server thread/DEBUG] [pointblank/]: 12349 - obtained hit result in 0ms
+[26Mar2025 23:23:32.349] [Server thread/DEBUG] [pointblank/]: 12349 obtained hit results
+[26Mar2025 23:23:32.349] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@24ce2be7
+[26Mar2025 23:23:32.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74]
+[26Mar2025 23:23:32.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.51]
+[26Mar2025 23:23:32.412] [Server thread/DEBUG] [pointblank/]: 12412 handling client fire request
+[26Mar2025 23:23:32.412] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 20
+[26Mar2025 23:23:32.413] [Server thread/DEBUG] [pointblank/]: 12413 - obtained hit result in 1ms
+[26Mar2025 23:23:32.413] [Server thread/DEBUG] [pointblank/]: 12413 obtained hit results
+[26Mar2025 23:23:32.413] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5584d44f
+[26Mar2025 23:23:32.413] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74]
+[26Mar2025 23:23:32.413] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.44, y=-3.00, z=-1128.74] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.51]
+[26Mar2025 23:23:34.458] [Server thread/DEBUG] [pointblank/]: 14458 handling client fire request
+[26Mar2025 23:23:34.458] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 19
+[26Mar2025 23:23:34.458] [Server thread/DEBUG] [pointblank/]: 14458 - obtained hit result in 0ms
+[26Mar2025 23:23:34.458] [Server thread/DEBUG] [pointblank/]: 14458 obtained hit results
+[26Mar2025 23:23:34.458] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51858631
+[26Mar2025 23:23:34.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43]
+[26Mar2025 23:23:34.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.32]
+[26Mar2025 23:23:34.511] [Server thread/DEBUG] [pointblank/]: 14511 handling client fire request
+[26Mar2025 23:23:34.511] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 18
+[26Mar2025 23:23:34.511] [Server thread/DEBUG] [pointblank/]: 14511 - obtained hit result in 0ms
+[26Mar2025 23:23:34.512] [Server thread/DEBUG] [pointblank/]: 14512 obtained hit results
+[26Mar2025 23:23:34.512] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74a6c7bb
+[26Mar2025 23:23:34.512] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43]
+[26Mar2025 23:23:34.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.06, y=8.00, z=-1146.32]
+[26Mar2025 23:23:35.446] [Server thread/DEBUG] [pointblank/]: 15446 handling client fire request
+[26Mar2025 23:23:35.446] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 17
+[26Mar2025 23:23:35.446] [Server thread/DEBUG] [pointblank/]: 15446 - obtained hit result in 0ms
+[26Mar2025 23:23:35.446] [Server thread/DEBUG] [pointblank/]: 15446 obtained hit results
+[26Mar2025 23:23:35.447] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@44341047
+[26Mar2025 23:23:35.447] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43]
+[26Mar2025 23:23:35.447] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1294.58, y=8.00, z=-1146.76]
+[26Mar2025 23:23:35.509] [Server thread/DEBUG] [pointblank/]: 15509 handling client fire request
+[26Mar2025 23:23:35.509] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 16
+[26Mar2025 23:23:35.510] [Server thread/DEBUG] [pointblank/]: 15510 - obtained hit result in 1ms
+[26Mar2025 23:23:35.510] [Server thread/DEBUG] [pointblank/]: 15510 obtained hit results
+[26Mar2025 23:23:35.510] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@541bd9f5
+[26Mar2025 23:23:35.510] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43]
+[26Mar2025 23:23:35.510] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1294.53, y=8.00, z=-1146.76]
+[26Mar2025 23:23:36.826] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:16,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[26Mar2025 23:23:37.779] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:16,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;1127218512,-664651423,-1764107698,-1607275377],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[26Mar2025 23:23:39.750] [Server thread/DEBUG] [pointblank/]: 19750 handling client fire request
+[26Mar2025 23:23:39.750] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 15
+[26Mar2025 23:23:39.750] [Server thread/DEBUG] [pointblank/]: 19750 - obtained hit result in 0ms
+[26Mar2025 23:23:39.750] [Server thread/DEBUG] [pointblank/]: 19750 obtained hit results
+[26Mar2025 23:23:39.750] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ca2d723
+[26Mar2025 23:23:39.751] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43]
+[26Mar2025 23:23:39.751] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.05, y=-3.00, z=-1128.43] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1292.55, y=9.00, z=-1146.53]
+[26Mar2025 23:23:40.349] [Server thread/DEBUG] [pointblank/]: 20348 handling client fire request
+[26Mar2025 23:23:40.349] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 14
+[26Mar2025 23:23:40.349] [Server thread/DEBUG] [pointblank/]: 20349 - obtained hit result in 0ms
+[26Mar2025 23:23:40.349] [Server thread/DEBUG] [pointblank/]: 20349 obtained hit results
+[26Mar2025 23:23:40.349] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32b890dd
+[26Mar2025 23:23:40.350] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.01, y=-3.00, z=-1128.35] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.01, y=-3.00, z=-1128.35]
+[26Mar2025 23:23:40.350] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.01, y=-3.00, z=-1128.35] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1293.66, y=8.42, z=-1146.83]
+[26Mar2025 23:23:41.102] [Server thread/DEBUG] [pointblank/]: 21102 handling client fire request
+[26Mar2025 23:23:41.102] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 13
+[26Mar2025 23:23:41.102] [Server thread/DEBUG] [pointblank/]: 21102 - obtained hit result in 0ms
+[26Mar2025 23:23:41.102] [Server thread/DEBUG] [pointblank/]: 21102 obtained hit results
+[26Mar2025 23:23:41.102] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1048ef14
+[26Mar2025 23:23:41.103] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.95, y=-3.00, z=-1128.02] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.95, y=-3.00, z=-1128.02]
+[26Mar2025 23:23:41.103] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.95, y=-3.00, z=-1128.02] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1293.37, y=8.00, z=-1147.07]
+[26Mar2025 23:23:42.003] [Server thread/DEBUG] [pointblank/]: 22003 handling client fire request
+[26Mar2025 23:23:42.004] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 12
+[26Mar2025 23:23:42.004] [Server thread/DEBUG] [pointblank/]: 22004 - obtained hit result in 0ms
+[26Mar2025 23:23:42.004] [Server thread/DEBUG] [pointblank/]: 22004 obtained hit results
+[26Mar2025 23:23:42.004] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21a807c4
+[26Mar2025 23:23:42.005] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.21, y=-3.00, z=-1127.71] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.21, y=-3.00, z=-1127.71]
+[26Mar2025 23:23:42.005] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.21, y=-3.00, z=-1127.71] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1295.72, y=9.17, z=-1146.17]
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: 22952 handling client fire request
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 11
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: 22952 - obtained hit result in 0ms
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: 22952 obtained hit results
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ded7c52
+[26Mar2025 23:23:42.952] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.18, y=-3.00, z=-1127.70] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.18, y=-3.00, z=-1127.70]
+[26Mar2025 23:23:42.953] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1303.18, y=-3.00, z=-1127.70] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1298.98, y=4.50, z=-1145.30]
+[26Mar2025 23:23:44.497] [Server thread/DEBUG] [pointblank/]: 24497 handling client fire request
+[26Mar2025 23:23:44.497] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 10
+[26Mar2025 23:23:44.498] [Server thread/DEBUG] [pointblank/]: 24498 - obtained hit result in 0ms
+[26Mar2025 23:23:44.498] [Server thread/DEBUG] [pointblank/]: 24498 obtained hit results
+[26Mar2025 23:23:44.498] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ed42ad4
+[26Mar2025 23:23:44.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16]
+[26Mar2025 23:23:44.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1300.61, y=6.54, z=-1143.10]
+[26Mar2025 23:23:46.425] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:10,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;829348096,-713608900,-1685377287,963576059],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[26Mar2025 23:23:47.172] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.burst', args=[]}, tag: {GeckoLibID:4L,aim:0b,ammo:10,ammox:{},as:[{id:"pointblank:holographic_em",rmv:1b},{id:"pointblank:foregrip_tan",rmv:1b}],fmid:[I;-904854396,1461665685,-1108351130,-1796734751],lid:-5677824806063413824L,mid:375819375297774056L,sa:{scope:"//holographic_em"},seed:-2431723225039361476L}
+[26Mar2025 23:23:48.245] [Server thread/DEBUG] [pointblank/]: 28245 handling client fire request
+[26Mar2025 23:23:48.246] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 9
+[26Mar2025 23:23:48.246] [Server thread/DEBUG] [pointblank/]: 28246 - obtained hit result in 0ms
+[26Mar2025 23:23:48.246] [Server thread/DEBUG] [pointblank/]: 28246 obtained hit results
+[26Mar2025 23:23:48.246] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@230ce7ff
+[26Mar2025 23:23:48.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16]
+[26Mar2025 23:23:48.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1300.27, y=6.00, z=-1132.07]
+[26Mar2025 23:23:48.306] [Server thread/DEBUG] [pointblank/]: 28306 handling client fire request
+[26Mar2025 23:23:48.306] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 8
+[26Mar2025 23:23:48.306] [Server thread/DEBUG] [pointblank/]: 28306 - obtained hit result in 0ms
+[26Mar2025 23:23:48.306] [Server thread/DEBUG] [pointblank/]: 28306 obtained hit results
+[26Mar2025 23:23:48.306] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45fab8b9
+[26Mar2025 23:23:48.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16]
+[26Mar2025 23:23:48.308] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1302.82, y=-3.00, z=-1128.16] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1300.33, y=6.00, z=-1131.88]
+[26Mar2025 23:23:49.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 25
+[26Mar2025 23:23:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel fell from a high place
+[26Mar2025 23:23:52.271] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743031432266
+[26Mar2025 23:23:53.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:23:55.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:23:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:24:07.051] [Server thread/DEBUG] [pointblank/]: 47051 handling client fire request
+[26Mar2025 23:24:07.051] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 109967664 to 24
+[26Mar2025 23:24:07.051] [Server thread/DEBUG] [pointblank/]: 47051 - obtained hit result in 0ms
+[26Mar2025 23:24:07.051] [Server thread/DEBUG] [pointblank/]: 47051 obtained hit results
+[26Mar2025 23:24:07.051] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e7485ed
+[26Mar2025 23:24:07.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1300.30, y=-7.00, z=-1141.65] sends hit scan notification to ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1300.30, y=-7.00, z=-1141.65]
+[26Mar2025 23:24:07.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['correcamin0'/99, l='ServerLevel[world]', x=-1300.30, y=-7.00, z=-1141.65] sends hit scan notification to ServerPlayer['Eldel'/524, l='ServerLevel[world]', x=-1309.42, y=-7.00, z=-1141.97]
