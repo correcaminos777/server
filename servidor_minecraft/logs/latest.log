@@ -747,3 +747,113 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 23:23:53.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [26Mar2025 23:23:55.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [26Mar2025 23:23:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:25:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Not Today, Thank You]
+[26Mar2025 23:26:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has made the advancement [Sneak 100]
+[26Mar2025 23:26:43.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was doomed to fall by Stray
+[26Mar2025 23:26:47.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:26:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 23:26:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[26Mar2025 23:26:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:26:59.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: correcamin0 lost connection: Disconnected
+[26Mar2025 23:26:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 left the game
+[26Mar2025 23:27:48.003] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29e6e212[id=<null>,name=correcamin0,properties={},legacy=false] (/127.28.69.233:57399) lost connection: Disconnected
+[26Mar2025 23:27:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Sneak 100]
+[26Mar2025 23:28:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has completed the challenge [It Spreads]
+[26Mar2025 23:28:04.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: correcamin0[/127.28.69.233:42885] logged in with entity id 4025 at (-1293.300000011921, -8.0, -1150.769465059965)
+[26Mar2025 23:28:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 joined the game
+[26Mar2025 23:28:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has completed the challenge [It Spreads]
+[26Mar2025 23:29:28.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:29:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel froze to death
+[26Mar2025 23:29:39.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:29:48.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:30:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was obliterated by a sonically-charged shriek
+[26Mar2025 23:30:11.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:30:11.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:30:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:30:28.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was obliterated by a sonically-charged shriek
+[26Mar2025 23:30:33.389] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:31:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:33:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:34:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]
+[26Mar2025 23:34:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:35:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Nameless Guardian
+[26Mar2025 23:35:38.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:35:39.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:37:03.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was smashed flat by Nameless Guardian
+[26Mar2025 23:37:05.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:37:07.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:37:08.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:37:08.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:37:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was smashed flat by Nameless Guardian
+[26Mar2025 23:37:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:37:26.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:37:27.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:38:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -1248.260000, -24.500000, -1144.350000]
+[26Mar2025 23:39:08.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:39:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 has completed the challenge [Bad omen...]
+[26Mar2025 23:39:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was blown up by Nameless Guardian
+[26Mar2025 23:40:00.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:40:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:40:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by correcamin0
+[26Mar2025 23:40:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:42:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:42:25.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:42:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:43:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]
+[26Mar2025 23:43:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was burnt to a crisp whilst fighting Heavy Guling Sentinel
+[26Mar2025 23:43:16.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:43:19.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:43:19.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Mar2025 23:43:20.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:43:23.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:43:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Warden
+[26Mar2025 23:43:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:43:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Warden
+[26Mar2025 23:43:55.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:44:27.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Warden
+[26Mar2025 23:44:31.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:44:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:44:50.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:44:58.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -1283.700000, -8.000000, -1138.010000]
+[26Mar2025 23:45:10.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:46:22.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:46:51.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:47:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:47:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]
+[26Mar2025 23:47:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[26Mar2025 23:47:45.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:47:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:48:09.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was obliterated by a sonically-charged shriek
+[26Mar2025 23:48:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:48:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:48:34.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:48:45.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was obliterated by a sonically-charged shriek
+[26Mar2025 23:48:51.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:48:51.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:48:53.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:49:36.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was obliterated by a sonically-charged shriek
+[26Mar2025 23:49:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:50:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was obliterated by a sonically-charged shriek
+[26Mar2025 23:50:10.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:50:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:50:52.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:51:00.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Survival Mode]
+[26Mar2025 23:51:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]
+[26Mar2025 23:51:29.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel was slain by Corpse
+[26Mar2025 23:51:32.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:51:32.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to Eldel]
+[26Mar2025 23:51:32.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:51:32.924] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:51:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:51:46.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: correcamin0 was slain by Eldel
+[26Mar2025 23:52:04.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Mar2025 23:52:06.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:52:06.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Mar2025 23:52:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Teleported correcamin0 to -1283.190000, 1.000000, -1170.750000]
+[26Mar2025 23:52:17.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Teleported Eldel to correcamin0]
+[26Mar2025 23:52:37.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [correcamin0: Set own game mode to Spectator Mode]
+[26Mar2025 23:52:48.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:53:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]
+[26Mar2025 23:53:03.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eldel has made the advancement [Hidden in the Depths]
+[26Mar2025 23:53:22.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Spectator Mode]
+[26Mar2025 23:53:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eldel: Set own game mode to Survival Mode]

@@ -495,6 +495,7 @@
       "minecraft:witch": "2025-03-24 02:09:06 +0000",
       "minecraft:husk": "2025-03-23 01:35:41 +0000",
       "minecraft:enderman": "2025-03-22 01:27:03 +0000",
+      "minecraft:stray": "2025-03-26 23:24:07 +0000",
       "minecraft:vex": "2025-03-24 02:10:24 +0000",
       "minecraft:zombie": "2025-03-19 19:25:25 +0000"
     },
@@ -3662,6 +3663,48 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-25 21:40:46 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/guling": {
+    "criteria": {
+      "requirement": "2025-03-26 23:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-26 23:26:13 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/kill_nameless_guardian": {
+    "criteria": {
+      "requirement": "2025-03-26 23:39:52 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/kill_all_immortal_mob": {
+    "criteria": {
+      "eeeabsmobs:immortal_golem": "2025-03-26 23:46:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-26 23:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-26 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-26 23:28:52 +0000"
     },
     "done": true
   },
