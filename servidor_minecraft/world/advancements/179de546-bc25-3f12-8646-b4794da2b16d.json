@@ -1864,15 +1864,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+      "has_bricks": "2025-03-26 23:17:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
+      "has_bricks": "2025-03-26 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-03-26 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-03-26 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/guling": {
+    "criteria": {
+      "requirement": "2025-03-26 23:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:stray": "2025-03-26 23:23:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-26 23:24:09 +0000"
     },
     "done": true
   },
@@ -1882,9 +1912,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+      "avoid_vibration": "2025-03-26 23:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-26 23:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-26 23:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
     },
     "done": true
   },
@@ -1900,57 +1948,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-03-26 23:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-03-26 23:17:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:stray": "2025-03-26 23:23:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-03-26 23:24:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
@@ -1984,27 +1984,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-26 23:28:00 +0000"
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
-      "has_bricks": "2025-03-26 23:17:21 +0000"
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
@@ -2014,25 +2044,25 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-03-26 23:27:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
-      "has_bricks": "2025-03-26 23:17:21 +0000"
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
     },
@@ -2044,33 +2074,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+      "has_ancient_debris": "2025-03-26 23:53:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_netherite_ingot": "2025-03-26 23:35:16 +0000"
+      "has_ancient_debris": "2025-03-26 23:53:03 +0000"
     },
     "done": true
   },
-  "eeeabsmobs:eeeabsmobs/guling": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "requirement": "2025-03-26 23:21:58 +0000"
+      "ancient_debris": "2025-03-26 23:53:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "graveyard:graveyard/dark_iron": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-03-26 23:35:14 +0000"
+      "dark_iron": "2025-03-26 23:59:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-26 23:43:29 +0000"
+      "has_name_tag": "2025-03-27 00:20:26 +0000"
     },
     "done": true
   },

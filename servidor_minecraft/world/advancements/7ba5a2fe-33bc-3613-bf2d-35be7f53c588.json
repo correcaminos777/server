@@ -3678,6 +3678,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-26 23:28:52 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/kill_nameless_guardian": {
     "criteria": {
       "requirement": "2025-03-26 23:39:52 +0000"
@@ -3702,9 +3708,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-26 23:28:52 +0000"
+      "has_name_tag": "2025-03-27 00:01:28 +0000"
     },
     "done": true
   },
