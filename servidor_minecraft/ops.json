@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "6b0efd93-03c9-4381-839e-8ca9000343c5",
+    "name": "Au",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "7ba5a2fe-33bc-3613-bf2d-35be7f53c588",
     "name": "correcamin0",
     "level": 4,
@@ -14,6 +20,12 @@
   {
     "uuid": "179de546-bc25-3f12-8646-b4794da2b16d",
     "name": "Eldel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b1d9046f-b812-39fc-b2c0-d828e68f7072",
+    "name": "aumentacional",
     "level": 4,
     "bypassesPlayerLimit": false
   }

@@ -2092,15 +2092,387 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-03-27 00:38:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
       "dark_iron": "2025-03-26 23:59:09 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-27 00:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-03-27 00:20:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-03-27 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-27 00:36:10 +0000"
     },
     "done": true
   },
